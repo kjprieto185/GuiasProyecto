@@ -170,7 +170,9 @@ main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
-p {
+p,
+ul,
+li {
   font-size: 14px;
 }
 
