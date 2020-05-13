@@ -145,6 +145,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  padding: 30px;
 }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
