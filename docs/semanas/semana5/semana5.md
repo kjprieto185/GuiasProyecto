@@ -14,5 +14,5 @@ Los objetivos de la semana 5 son:
 | -------------------------------------------- |
 | [Incorporar accesbilidad ](s5_accesibilidad) |
 | [Terminar la implementación](s5_terminar)    |
-| [Hacer la retrospectiva](s4_retrospectiva)   |
+| [Hacer la retrospectiva](s5_retrospectiva)   |
 | [Hacer seguimiento y planeación ](s5_syp)    |
