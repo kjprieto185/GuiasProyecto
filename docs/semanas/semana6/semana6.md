@@ -10,9 +10,9 @@ Los objetivos de la semana 6 son:
 
 ### Resumen de las Actividades
 
-| Actividad                                                               |
-| ----------------------------------------------------------------------- |
-| [Realizar el lanzamiento de la iteación 2 del proyecto](s6_lanzamiento) |
-| [Implementar la creación de recursos ](s6_crear)                        |
-| [Incorporar internacionalización](s6_i18n)                              |
-| [Hacer seguimiento y planeación ](s6_syp)                               |
+| Actividad                                                                |
+| ------------------------------------------------------------------------ |
+| [Realizar el lanzamiento de la iteración 2 del proyecto](s6_lanzamiento) |
+| [Implementar la creación de recursos ](s6_crear)                         |
+| [Incorporar internacionalización](s6_i18n)                               |
+| [Hacer seguimiento y planeación ](s6_syp)                                |
