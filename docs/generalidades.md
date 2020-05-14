@@ -36,13 +36,13 @@ El front será desarrollado usando el framework [Angular](https://angular.io/). 
 El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el jueves a las 0:00 horas hasta el miércoles de la próxima semana a las 23:59 horas. Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
 Para este curso, estas son las fechas estipuladas:
 
-| Semana                                | Fechas                  |
-| ------------------------------------- | ----------------------- |
-| [Semana 1](semamanas/semana1/semana1) | Febrero 13 a febrero 19 |
-| [Semana 2](semanas/semana2/semana2)   | Febrero 20 a febrero 26 |
-| [Semana 3](semanas/semana3/semana3)   | Febrero 27 a marzo 4    |
-| [Semana 4](semanas/semana4/semana4)   | Marzo 5 a marzo 11      |
-| [Semana 5](semanas/semana5/semana5)   | Marzo 19 a marzo 25     |
-| [Semana 6](semanas/semana6/semana6)   | Marzo 26 a abril 1      |
-| [Semana 7](semanas/semana7/semana7)   | Abril 2 a abril 8       |
-| [Semana 8](semanas/semana8/semana8)   | Abril 9 a abril 15      |
+| Semana                              | Fechas                  |
+| ----------------------------------- | ----------------------- |
+| [Semana 1](semanas/semana1/semana1) | Febrero 13 a febrero 19 |
+| [Semana 2](semanas/semana2/semana2) | Febrero 20 a febrero 26 |
+| [Semana 3](semanas/semana3/semana3) | Febrero 27 a marzo 4    |
+| [Semana 4](semanas/semana4/semana4) | Marzo 5 a marzo 11      |
+| [Semana 5](semanas/semana5/semana5) | Marzo 19 a marzo 25     |
+| [Semana 6](semanas/semana6/semana6) | Marzo 26 a abril 1      |
+| [Semana 7](semanas/semana7/semana7) | Abril 2 a abril 8       |
+| [Semana 8](semanas/semana8/semana8) | Abril 9 a abril 15      |

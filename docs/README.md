@@ -5,7 +5,7 @@ El material está organizado semana a semana, junto con una sección de generali
 ## Contenido
 
 1. [Generalidades](generalidades)
-2. [Semana 1](semamanas/semana1/semana1)
+2. [Semana 1](semanas/semana1/semana1)
 3. [Semana 2](semanas/semana2/semana2)
 4. [Semana 3](semanas/semana3/semana3)
 5. [Semana 4](semanas/semana4/semana4)
