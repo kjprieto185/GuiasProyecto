@@ -15,5 +15,5 @@ El objetivo de la semana 4 es:
 | [Crear los métodos en los servicios para obtener los detalles de un recurso ](s4_servicios) |
 | [Crear las pruebas de los servicios de listar detalles](s4_probar)                          |
 | [Desplegar detalles](s4_detalles)                                                           |
-| [Implementarla página principal y las rutas de navegación](s4_navegacion)                   |
+| [Implementar la página principal y las rutas de navegación](s4_navegacion)                  |
 | [Hacer seguimiento y planeación ](s4_syp)                                                   |
