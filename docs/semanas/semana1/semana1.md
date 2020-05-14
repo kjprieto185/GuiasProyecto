@@ -12,9 +12,9 @@ Los objetivos de la semana 1 son:
 
 ### Resumen de las Actividades
 
-| Actividad                                              |
-| ------------------------------------------------------ |
-| [Realizar el lanzamiento proyecto](s1_lanzamiento)     |
-| [Distribuir las historias de usuario](s1_distribucion) |
-| [Detallar las historias de usuario](s1_detallar)       |
-| [Hacer seguimiento y planeación ](s1_syp)              |
+| Actividad                                                               |
+| ----------------------------------------------------------------------- |
+| [Realizar el lanzamiento de la iteación 1 del proyecto](s1_lanzamiento) |
+| [Distribuir las historias de usuario](s1_distribucion)                  |
+| [Detallar las historias de usuario](s1_detallar)                        |
+| [Hacer seguimiento y planeación ](s1_syp)                               |
