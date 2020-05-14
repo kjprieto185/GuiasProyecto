@@ -1,4 +1,4 @@
-## Semana 1 - Lanzar el proyecto
+## Semana 1 - Realizar el lanzamiento del proyecto
 
 ---
 
