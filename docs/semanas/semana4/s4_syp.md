@@ -1,18 +1,18 @@
-## Semana 2 - Hacer seguimiento y planeación
+## Semana 4 - Hacer seguimiento y planeación
 
 ---
 
-### Seguimiento de la semana 1
+### Seguimiento de la semana 3
 
-**Descripción:** Los integrantes realizan el seguimiento a lo ocurrido en el desarrollo del proyecto durante la semana 1.
+**Descripción:** Los integrantes realizan el seguimiento a lo ocurrido en el desarrollo del proyecto durante la semana 3.
 
 **Entregable:** Kanban del proyecto actualizado en Github
 
 ---
 
-### Definir las tareas correspondientes a la semana 2
+### Definir las tareas correspondientes a la semana 4
 
-**Descripción:** El líder del proyecto crea el listado de tareas para la semana 2 y las registra en la columna ToDo
+**Descripción:** El líder del proyecto crea el listado de tareas para la semana 4 y las registra en la columna ToDo
 
 **Entregable:** Kanban del proyecto actualizado en Github
 
