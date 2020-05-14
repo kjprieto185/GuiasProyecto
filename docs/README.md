@@ -13,3 +13,5 @@ El material está organizado semana a semana, junto con una sección de generali
 7. [Semana 6](semana6)
 8. [Semana 7](semana7)
 9. [Semana 8](semana8)
+
+[Enlace a subcarpeta](semanas/semana1/pruebasemana1)
