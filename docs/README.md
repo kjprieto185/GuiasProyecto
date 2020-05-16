@@ -5,7 +5,7 @@ El material está organizado semana a semana, junto con una sección de generali
 ## Contenido
 
 1. [Generalidades](https://ticsw.github.io/mt1_guias_proyecto/generalidades)
-2. [Semana 1](https://ticsw.github.io/mt1_guias_proyecto/semanas/semanas/semana1/semana1)
+2. [Semana 1](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/semana1)
 3. [Semana 2](https://ticsw.github.io/mt1_guias_proyecto/semanas/semanas/semana2/semana2)
 4. [Semana 3](https://ticsw.github.io/mt1_guias_proyecto/semanas/semanas/semana3/semana3)
 5. [Semana 4](https://ticsw.github.io/mt1_guias_proyecto/semanas/semanas/semana4/semana4)
