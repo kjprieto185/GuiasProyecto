@@ -1,5 +1,5 @@
 ## Semana 5 - Incorporar accesibilidad
 
-**Descripción:** Los integrantes del equipo deben garantizar que su proyecto cumple con los requisitos mínimos de accesbilidad. Para esto deberán ejecutar la herramienta AXE y corregir los issues que allí se detallan.
+**Descripción:** Los integrantes del equipo deben garantizar que su proyecto cumple con los requisitos mínimos de accesibilidad. Para esto deberán ejecutar la herramienta AXE y corregir los issues que allí se detallan.
 
 **Entregable:** Repositorio de Github actualizado
