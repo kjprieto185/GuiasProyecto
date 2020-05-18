@@ -10,9 +10,9 @@ Los objetivos de la semana 5 son:
 
 ### Resumen de las Actividades
 
-| Actividad                                    |
-| -------------------------------------------- |
-| [Incorporar accesbilidad ](s5_accesibilidad) |
-| [Terminar la implementación](s5_terminar)    |
-| [Hacer la retrospectiva](s5_retrospectiva)   |
-| [Hacer seguimiento y planeación ](s5_syp)    |
+| Actividad                                     |
+| --------------------------------------------- |
+| [Incorporar accesibilidad ](s5_accesibilidad) |
+| [Terminar la implementación](s5_terminar)     |
+| [Hacer la retrospectiva](s5_retrospectiva)    |
+| [Hacer seguimiento y planeación ](s5_syp)     |
