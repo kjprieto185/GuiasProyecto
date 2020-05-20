@@ -7,7 +7,7 @@
 ----
 El objetivo de esta actividad es:
 
-* Crear la planeación de la semana 
+* Construir el plan de la semana para cumplir con los hitos establecidos. 
  
    
 ### Pasos Previos

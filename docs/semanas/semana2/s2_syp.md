@@ -2,24 +2,29 @@
 
 ---
 
-### Seguimiento de la semana 1
+### Objetivos
+----
+Los objetivos de esta actividad son:
 
-**Descripción:** Los integrantes realizan el seguimiento a lo ocurrido en el desarrollo del proyecto durante la semana 1.
+1. Contrastar lo planeado en la semana anterior contra lo logrado para explicar cuál es el avance del proyecto  
+2. Formular el plan de la semana actual con base en el estado del proyecto y para cumplir con los hitos establecidos.
+   
+### Pasos Previos
+----
+1. Cada integrante tiene actualizado el kanban con el estado de sus tareas. 
+2. Los resultados de las tareas fueron entregados y son consistentes con lo reflejado en el kanban. 
 
-**Entregable:** Kanban del proyecto actualizado en Github
+### Tareas
+----
 
+En reunión de equipo:
+1. Los integrantes realizan el seguimiento a lo ocurrido en el desarrollo del proyecto durante la semana 1. 
+   Se revisa el plan y lo logrado. Se verifica que los entregables están en la wiki del proyecto. 
+2. Se actualiza el kanban de acuerdo con la revisión anterior. 
+3. Se discute los hitos de esta semana y se distribuyen las tareas.
+   
+Cada integrante actualiza el kanban con sus tareas para esta semana. 
+
+### Entregables
 ---
-
-### Definir las tareas correspondientes a la semana 2
-
-**Descripción:** El líder del proyecto crea el listado de tareas para la semana 2 y las registra en la columna ToDo
-
-**Entregable:** Kanban del proyecto actualizado en Github
-
----
-
-### Actualizar el kanban con el progreso
-
-**Descripción:** A medida que las tareas se van completando, cada integrante debe actualizar el estado de la tarea en el kanban de Github
-
-**Entregable:** Kanban del proyecto actualizado en Github
+Kanban del proyecto actualizado en Github

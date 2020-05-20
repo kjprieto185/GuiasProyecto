@@ -5,7 +5,7 @@
 ----
 El objetivo de esta actividad es:
 
-* Distribuir las HU que se implementaran en la iteración 1 entre los integrantes del equipo
+* Valorar la complejidad de las HU que se implementarán en la iteración 1 y distribuirlas de forma balanceada entre los integrantes del equipo
    
    
 ### Pasos Previos

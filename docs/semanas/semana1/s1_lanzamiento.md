@@ -4,7 +4,8 @@
 ----
 Los objetivos de esta actividad son:
 
-1. Conocer el equipo de trabajo y establecer los mecanismos de comunicación, las reglas de funcionamiento y compromisos. 
+1. Interactuar con el equipo de trabajo y establecer los mecanismos de comunicación, 
+   las reglas de funcionamiento y compromisos para lograr que el equipo funcione de manera efectiva y eficiente. 
 2. Discutir el enunciado e identificar dudas sobre el mismo. 
    
 ### Pasos Previos
