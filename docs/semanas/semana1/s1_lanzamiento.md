@@ -14,12 +14,13 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 1. Confirmado quienes son sus compañer@s de equipo.
 2. Visto el video de recomendación sobre las reuniones de equipo.
-3. Leído el enunciado del proyecto y tener escritas las dudas sobre el mismo.
-4. Visto el video de presentación del proyecto y entendido, los objetivos, el alcance y las iteraciones. 
-5. Haber definido, junto con los compañer@s de equipo, un horario para realizar la reunión de lanzamiento.
-6. Tener las credenciales de acceso a su espacio en github para el proyecto.
-7. Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. `[ref configuración espacio de trabajo y github]`
-8. `[espacio de trabajo local?]`
+3. Haber leído la [guía de preparación para el lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_guia_lanzamiento)
+4. Leído el enunciado del proyecto y tener escritas las dudas sobre el mismo.
+5. Visto el video de presentación del proyecto y entendido, los objetivos, el alcance y las iteraciones. 
+6. Haber definido, junto con los compañer@s de equipo, un horario para realizar la reunión de lanzamiento.
+7. Tener las credenciales de acceso a su espacio en github para el proyecto.
+8. Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. `[ref configuración espacio de trabajo y github]`
+9. `[espacio de trabajo local?]`
 
 
 ### Tareas
@@ -34,12 +35,8 @@ Durante la reunión de lanzamiento:
 Con la coordinación del líder:
 
 1. El equipo discute y establece las reglas de funcionamiento y 
-   los compromisos para llevar a buen término el proyecto. Esta discusión debe abarcar asuntos como:
-   *  la comunicación, 
-   *  la puntualidad, 
-   *  la colaboración, 
-   *  la calidad del trabajo y 
-   *  todo aquello que los integrantes consideren se debe definir para que el equipo funcione efectiva y eficientemente.
+   los compromisos para llevar a buen término el proyecto. 
+   
 2. El equipo revisa las dudas sobre el enunciado del proyecto, revisa si en el foro de preguntas sobre el enunciado, 
    estas dudas ya han sido resueltas y, en caso contrario, las pregunta en el foro. 
 
