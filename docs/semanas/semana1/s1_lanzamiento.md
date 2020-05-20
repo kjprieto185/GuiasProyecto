@@ -7,7 +7,7 @@ Los objetivos de esta actividad son:
 2. Discutir el enunciado e identificar dudas sobre el mismo. 
    
 ### Pasos Previos
-
+----
 Antes de realizar la reunión de esta actividad, cada estudiante debe haber: 
 
 1. Confirmado quienes son sus compañer@s de equipo.
@@ -21,7 +21,7 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 
 ### Tareas
-
+----
 Durante la reunión de lanzamiento: 
 1. Los integrantes del equipo se conocen, revisan sus disponibilidades y establecen un horario para las reuniones semanales de 
    seguimiento y planeación.
@@ -42,7 +42,7 @@ Con la coordinación del líder:
    estas dudas ya han sido resueltas y, en caso contrario, las pregunta en el foro. 
 
 ### Entregables
-
+---
 En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido y que se 
 encuentra en la misma wiki.
 
