@@ -13,5 +13,5 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                 |
 | ----------------------------------------- |
-| [Elaborar prototipo de la aplicación ](s2_prototipos)      |
 | [Hacer seguimiento y planeación de la semana](s2_syp) |
+| [Elaborar prototipo de la aplicación ](s2_prototipos)      |
