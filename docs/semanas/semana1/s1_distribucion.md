@@ -19,7 +19,7 @@ El objetivo de esta actividad es:
 
 Con la coordinación del líder del equipo:
 1. Se discute el alcance de las HU que se van a implementar en la iteración 1. 
-2. Se distribuye, entre los integrantes, de forma balanceada, las HU para ser implementadas. 
+2. Se distribuye, entre los integrantes, de forma balanceada, las HU para ser `detalladas durante esta semana` e implementadas más adelante. 
    `hablar de mínimos? forma de distribuir?`
    
 
