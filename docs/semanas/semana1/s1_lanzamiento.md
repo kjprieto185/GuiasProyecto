@@ -1,6 +1,7 @@
 ## Semana 1 - Realizar el lanzamiento de la iteración 1 del proyecto
 
 ### Objetivos
+----
 Los objetivos de esta actividad son:
 
 1. Conocer el equipo de trabajo y establecer los mecanismos de comunicación, las reglas de funcionamiento y compromisos. 
@@ -41,8 +42,12 @@ Con la coordinación del líder:
 2. El equipo revisa las dudas sobre el enunciado del proyecto, revisa si en el foro de preguntas sobre el enunciado, 
    estas dudas ya han sido resueltas y, en caso contrario, las pregunta en el foro. 
 
+### Recursos
+----
+* Formato lanzamiento
+
 ### Entregables
----
+----
 En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido y que se 
 encuentra en la misma wiki.
 
