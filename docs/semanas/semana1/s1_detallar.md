@@ -1,5 +1,34 @@
 ## Semana 1 - Detallar y revisar las historias de usuario
 
-**Descripción:** El integrante asignado a cada historia de usuario será responsable de detallarla. En particuar se requiere que complete la tabla de detalle con el nombre de la historia de usuario, su descripción y los criterios de aceptación. En esta semana aún no se debe incluir el Mockup
+### Objetivos
+----
+Los objetivos de esta actividad son:
 
-**Entregable:** Wiki del proyecto con la tabla de detalle de cada historia de usuario
+1. Detallar las historias de usario
+2. Revisar las historias de usuario
+   
+### Pasos Previos
+----
+1. Se realizó la distribución de las historias de usuario tanto para el detalle como para la revisión.
+2. Se creó el plan de la semana en el Kanban del proyecto. 
+
+
+### Tareas
+----
+
+Cada integrante:
+1. Detalla las historias de usuario que tiene asignadas.
+2. Revisa las historias de usuario que tiene asignadas para revisión una vez que 
+   estas hayan sido detalladas por alguno de lus compañeros. 
+3. Actualiza el estado de sus actividades en el Kanban del proyecto.
+
+
+### Recursos
+---
+* Formato de detalle de las historias de usuario
+* Guía de revisión de las historias de usuario
+
+### Entregables
+---
+
+En la wiki del proyecto debe quedar tanto el detalle de las historias de usuario como la revisión.  

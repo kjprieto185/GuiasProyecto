@@ -21,9 +21,11 @@ Con la coordinación del líder del equipo:
 1. Se discute el alcance de las HU que se van a implementar en la iteración 1. 
 2. Se distribuye, entre los integrantes, de forma balanceada, las HU para ser `detalladas durante esta semana` e implementadas más adelante. 
    `hablar de mínimos? forma de distribuir?`
+3. Se distribuye, la revisón de las HU una vez que estén detalladas. 
    
 
 ### Entregables
 ---
 
-Wiki del proyecto con el listado de historias de usuario actualizadas en las que se indica el responsable de la documentación de detalle.
+Wiki del proyecto con el listado de historias de usuario actualizadas en las que se indica 
+el responsable de la documentación de detalle y al lado el responsable de la revisión.

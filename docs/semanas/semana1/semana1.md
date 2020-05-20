@@ -6,9 +6,8 @@
 
 Los objetivos de la semana 1 son:
 
-1. Conocer el equipo de trabajo
-2. Establecer las reglas de funcionamiento
-3. Definir la estrategia de trabajo
+1. Conocer el equipo de trabajo y definir compromisos y reglas de funciomamiento. 
+2. Distribuir las historias de usuario para detallarlas y revisarlas. 
 
 ### Resumen de las actividades
 
