@@ -29,16 +29,17 @@ El objetivo de esta actividad es:
 Formato definición de una tarea:
 
 
-|Tarea: Detallar la HU \<\< aquí va el nombre de la historia >>|
-|--|
-|Responsable: \<\< _aquí va el nombre del responsable_ >>|
-|Fecha entrega: \<\< _aquí va la fecha de entrega_ >>|
-|Tiempo estimado: \<\< _aquí va el tiempo que se estima tomará esta tarea_ >>|
+| Tarea: Detallar la HU \<\< aquí va el nombre de la historia >>               |
+| ---------------------------------------------------------------------------- |
+| Responsable: \<\< _aquí va el nombre del responsable_ >>                     |
+| Fecha entrega: \<\< _aquí va la fecha de entrega_ >>                         |
+| Tiempo estimado: \<\< _aquí va el tiempo que se estima tomará esta tarea_ >> |
 
 Ejemplo: 
 
-|![](./../../assets/images/kanbanTODO.PNG)|
-|---|
+| ![](./../../assets/images/kanbanTODO.PNG) |
+| ----------------------------------------- |
+| Fig. Ejemplo Kanban                       |
 
 ### Entregables
 ---

@@ -3,6 +3,7 @@
  
 
 ### Motivación 
+---
 
 Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurre de forma espontánea. Para que esto suceda, el equipo debe realizar ciertas acciones encaminadas a atacar los retos que enfrenta.  
 
@@ -29,12 +30,14 @@ Los retos más comunes que un equipo de software enfrenta están relacionados co
    *    La mala calidad del trabajo 
 
 ## Objetivo del Lanzamiento 
+---
 
 El objetivo de la actividad el lanzamiento de la iteración es discutir, entre los integrantes del equipo, para precisar cuáles serán las reglas, compromisos y acuerdos que cada uno se compromete a cumplir para enfrentar los retos mencionados y probablemente otros que se presenten.  
 
 Es importante anotar que esta actividad va de la mano de otra que se debe realizar al final de la iteración y que se llama la Retrospectiva de la iteración donde se revisa qué pasó y cómo podemos mejorar.  
 
 ## Preparación para el lanzamiento 
+---
 
 La preparación consiste en una reflexión individual sobre lo que significa trabajo en equipo. Esta reflexión se puede realizar contestando las siguientes preguntas: 
 
@@ -49,6 +52,7 @@ La preparación consiste en una reflexión individual sobre lo que significa tra
 ¿Cómo colaboro con los demás? 
 
 ## Cómo llevar a cabo el lanzamiento 
+---
 
  
 
@@ -68,11 +72,12 @@ Durante la reunión se debe abarcar asuntos como:
 
    *  todo aquello que los integrantes consideren se debe definir para que el equipo funcione efectiva y eficientemente. 
 
- |Nota sobre el alcance de esta actividad|
- |---|
- |   |
+ | Nota sobre el alcance de esta actividad |
+ | --------------------------------------- |
+ |                                         |
 
 ## Referencias 
+---
 
  
 
