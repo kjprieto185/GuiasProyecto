@@ -35,6 +35,10 @@ Formato definición de una tarea:
 |Fecha entrega: \<\< aquí va la fecha de entrega  >>|
 |Tiempo estimado: \<\< aquí va el tiempo que se estima tomará esta tarea >>|
 
+Ejemplo: 
+
+![](./../../assets/images/kanbanTODO.PNG)
+
 ### Entregables
 ---
 
