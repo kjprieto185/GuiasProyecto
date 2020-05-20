@@ -28,10 +28,12 @@ El objetivo de esta actividad es:
 
 Formato definición de una tarea:
 
-Tarea: Detallar la HU \<\< aquí va el nombre de la historia >>
-Responsable: \<\< aquí va el nombre del responsable >>
-Fecha entrega: \<\< aquí va la fecha de entrega  >>
-Tiempo estimado: \<\< aquí va el tiempo que se estima tomará esta tarea >>
+
+|Tarea: Detallar la HU \<\< aquí va el nombre de la historia >>|
+|--|
+|Responsable: \<\< aquí va el nombre del responsable >>|
+|Fecha entrega: \<\< aquí va la fecha de entrega  >>|
+|Tiempo estimado: \<\< aquí va el tiempo que se estima tomará esta tarea >>|
 
 ### Entregables
 ---
