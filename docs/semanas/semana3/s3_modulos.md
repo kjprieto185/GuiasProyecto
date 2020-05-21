@@ -4,7 +4,7 @@
 ----
 Los objetivos de esta actividad son:
 
-1. Implementar la estructura de módulos, componentes y servicios en Angular.
+1. Implementar la estructura de módulos  y servicios en Angular.
 2. Implementar las pruebas unitarias de los Servicios.
    
 ### Pasos Previos
@@ -17,7 +17,6 @@ Los objetivos de esta actividad son:
 ### Tareas
 ----
 
-#### Construir la estructura de módulos y de los recursos
 
 Cada integrante en su espacio local, para cada uno de los recursos que involucrados en las historias de usuario asignadas, debe:
 1. Crear el módulo del recurso correspondiente siguiendo las convenciones de nombramiento.
@@ -30,23 +29,10 @@ Cada integrante en su espacio local, para cada uno de los recursos que involucra
 6. Realizar commit y solicitar un `pull request`.  
 7. (`Aquí va un paso de acpetar o no el pull request debemos verificar con Gloria el proceso del flujo de trabajo para que quede igual al del otro curso`)
 
-#### Implementar los despliegues de los recursos 
-
-Cada integrante en su espacio local, para cada uno de los recursos que involucrados en las historias de usuario asignadas, debe:
-1. Crear el componente de listar odesplegar el recurso correspondiente siguiendo las convenciones de nombramiento.
-2. Crear la vista del componente de acuerdo con el prototipo aprobado por el equipo.
-3. Invocar el servicio construido en el paso anterior. 
-4. `aquí vamos a pedir prueba del componente?`.
-5. Verificar que la aplicaicón funciona correctamente.
-6. Realizar commit y solicitar un `pull request`.  
-
-
 ### Recursos
----
 
-* [Tutorial lista de cursos ](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-courses-basico/index.html#0)
-* [Tutorial galería de libros](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-books-listar/#0)
+* [Tutorial crear módulo, servicio]()
 
 ### Entregables
 ---
-Repositorio de Github actualizado
+Repositorio de Github actualizado.
