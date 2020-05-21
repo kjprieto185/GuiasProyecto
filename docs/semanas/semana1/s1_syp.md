@@ -13,7 +13,7 @@ El objetivo de esta actividad es:
 ### Pasos Previos
 ----
 
-1. El equipo debe haber realizado la actividad de [Dsitribución HU](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_distribucion)
+1. El equipo debe haber realizado la actividad de [Distribución HU](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_distribucion)
 
 
 ### Tareas
