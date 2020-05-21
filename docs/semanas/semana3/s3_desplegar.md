@@ -18,7 +18,7 @@ Los objetivos de esta actividad son:
 asegurarse que la aplicación en su espacio local funciona. 
 * Complete la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrates.
 
-Cada integrante en su espacio local, para cada uno de los recursos que involucrados en las historias de usuario asignadas, debe:
+Cada integrante en su espacio local, para cada uno de los recursos  involucrados en las historias de usuario asignadas, debe:
 1. Crear el componente de listar o desplegar el recurso correspondiente siguiendo las convenciones de nombramiento.
 2. Crear la vista del componente de acuerdo con el prototipo aprobado por el equipo.
 3. Invocar el servicio construido en el paso anterior. 
