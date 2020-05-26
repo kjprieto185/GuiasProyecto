@@ -1,7 +1,7 @@
 ## Semana 1 - Realizar el lanzamiento de la iteración 1 del proyecto
 
 
-#### Objetivos
+### Objetivos
 ----
 Los objetivos de esta actividad son:
 
