@@ -15,15 +15,15 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 #### Equipo 
 1. Confirmado quienes son sus compañer@s de equipo.
-6. Haber definido, junto con los compañer@s de equipo, un horario para realizar la reunión de lanzamiento.
+2. Haber definido, junto con los compañer@s de equipo, un horario para realizar la reunión de lanzamiento.
 
 #### Proyecto
-4. Leído el enunciado del proyecto y tener escritas las dudas sobre el mismo.
-5. Visto el video de presentación del proyecto y entendido, los objetivos, el alcance y las iteraciones. 
+1. Leído el enunciado del proyecto y tener escritas las dudas sobre el mismo.
+2. Visto el video de presentación del proyecto y entendido, los objetivos, el alcance y las iteraciones. 
 
 #### Configuración ambiente
-7. Tener las credenciales de acceso a su espacio en github para el proyecto.
-8. Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. `[ref configuración espacio de trabajo y github]`
+1. Tener las credenciales de acceso a su espacio en github para el proyecto.
+2. Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. `[ref configuración espacio de trabajo y github]`
 
 #### Guías
 
