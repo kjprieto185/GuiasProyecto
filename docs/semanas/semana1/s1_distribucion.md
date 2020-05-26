@@ -1,27 +1,27 @@
-## Semana 1 - Distribuir las historias de usuario
+## Semana 1 - Distribuir las historias de usuario (HU)
 
 
 ### Objetivos
 ----
 El objetivo de esta actividad es:
 
-* Valorar la complejidad de las HU que se implementarán en la iteración 1 y distribuirlas de forma balanceada entre los integrantes del equipo
+* Valorar la complejidad de las HU que se implementarán en la iteración 1.
+* Distribuir las HU para detallarlas y revisarlas, de forma balanceada, entre los integrantes del equipo.
    
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. Cada estudiante debe haber leído la lista de HU propuesta para implementación en la iteración 1. `[link a  la lista`]
 2. El equipo debe haber realizado la actividad de [Lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_lanzamiento)
 
-### Tareas
+### Descripción actividad
 ----
 
 Con la coordinación del líder del equipo:
 1. Se discute el alcance de las HU que se van a implementar en la iteración 1. 
 2. Se distribuye, entre los integrantes, de forma balanceada, las HU para ser `detalladas durante esta semana` e implementadas más adelante. 
-   `hablar de mínimos? forma de distribuir?`
-3. Se distribuye, la revisón de las HU una vez que estén detalladas. 
+3. Se distribuyen las HU para ser revisardas una vez que estén detalladas. 
    
 
 ### Entregables
