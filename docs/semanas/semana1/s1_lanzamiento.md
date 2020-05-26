@@ -1,6 +1,7 @@
 ## Semana 1 - Realizar el lanzamiento de la iteración 1 del proyecto
 
-### Objetivos
+
+#### Objetivos
 ----
 Los objetivos de esta actividad son:
 
@@ -8,36 +9,43 @@ Los objetivos de esta actividad son:
    las reglas de funcionamiento y compromisos para lograr que el equipo funcione de manera efectiva y eficiente. 
 2. Discutir el enunciado e identificar dudas sobre el mismo. 
    
-### Pasos Previos
+### Pasos previos
 ----
 Antes de realizar la reunión de esta actividad, cada estudiante debe haber: 
 
+#### Equipo 
 1. Confirmado quienes son sus compañer@s de equipo.
-2. Visto el video de recomendación sobre las reuniones de equipo.
-3. Haber leído la [guía de preparación para el lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_guia_lanzamiento)
+6. Haber definido, junto con los compañer@s de equipo, un horario para realizar la reunión de lanzamiento.
+
+#### Proyecto
 4. Leído el enunciado del proyecto y tener escritas las dudas sobre el mismo.
 5. Visto el video de presentación del proyecto y entendido, los objetivos, el alcance y las iteraciones. 
-6. Haber definido, junto con los compañer@s de equipo, un horario para realizar la reunión de lanzamiento.
+
+#### Configuración ambiente
 7. Tener las credenciales de acceso a su espacio en github para el proyecto.
 8. Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. `[ref configuración espacio de trabajo y github]`
-9. `[espacio de trabajo local?]`
+
+#### Guías
+
+2. Visto el video de recomendación sobre las reuniones de equipo.
+3. Haber leído la [guía de preparación para el lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_guia_lanzamiento)
 
 
-### Tareas
+### Descripción actividad
 ----
 Durante la reunión de lanzamiento: 
 1. Los integrantes del equipo se conocen, revisan sus disponibilidades y establecen un horario para las reuniones semanales de 
    seguimiento y planeación.
 2. Revisan si hay entendimiento sobre los objetivos y alcance del proyecto, 
    la estrategia de las iteraciones y el proceso de planeación y seguimiento. En caso de dudas, estas se transmiten al Tutor. 
-3. De común acuerdo, el equipo define quién será el líder del equipo. `[ref: Qué es ser líder de equipo en ese curso.]`
+3. De común acuerdo, el equipo define quién será el líder del equipo. 
 
 Con la coordinación del líder:
 
-1. El equipo discute y establece las reglas de funcionamiento y 
+1. El equipo discute y establece las reglas de funcionamiento, mínimo 5 reglas, y 
    los compromisos para llevar a buen término el proyecto. 
    
-2. El equipo revisa las dudas sobre el enunciado del proyecto, revisa si en el foro de preguntas sobre el enunciado, 
+2. El equipo revisa las dudas sobre el **enunciado** del proyecto, revisa si en el foro de preguntas sobre el enunciado, 
    estas dudas ya han sido resueltas y, en caso contrario, las pregunta en el foro. 
 
 ### Recursos
