@@ -1,5 +1,13 @@
 ## Semana 8 - Terminar la implementación del proyecto
 
-**Descripción:** Los integrantes finalizan la implementación del proyecto
+### Objetivos
 
-**Entregable:** Repositorio de Github actualizado
+Completar la implementación de las HU del proyecto siguiendo el proceso de integración continua.
+
+### Descripción actividad
+
+Los integrantes finalizan la implementación del proyecto de acuerdo con la planeación en el kanban.
+
+### Entregable
+
+Repositorio de Github actualizado
