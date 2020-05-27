@@ -7,12 +7,12 @@ Los objetivos de esta actividad son:
 1. Preparar el detalle de las historias de usuario, utilizando el conocimiento que se tiene del proyecto.
 2. Evaluar las historias de usuario para identificar potenciales inconsistencias o información incompleta. 
    
-### Pasos Previos
+### Pasos previos
 ----
 1. Se realizó la distribución de las historias de usuario tanto para el detalle como para la revisión.
 2. Se creó el plan de la semana en el Kanban del proyecto. 
 
-### Tareas
+### Descrición actividad
 ----
 
 Cada integrante:
