@@ -10,13 +10,13 @@ Los objetivos de esta actividad son:
    los patrones básicos de usabilidad.
 
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. Haber  detallado y revisado las Historias de usuario.  
 
 
-### Tareas
+### Descrición actividad
 ----
 1. De manera individual, cada integrante realiza un prototipo de la página principal, del listado de un recurso y de sus detalles. Para esto se usará la herramienta (app.diagrams.net)
 

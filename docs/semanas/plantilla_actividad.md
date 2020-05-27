@@ -7,12 +7,12 @@ Los objetivos de esta actividad son:
 1. aaar
 2. 
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. aaar
 
-### Tareas
+### Descripción actividad
 ----
 
 ### Recursos

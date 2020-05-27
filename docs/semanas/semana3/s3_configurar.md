@@ -10,12 +10,12 @@ Los objetivos de esta actividad son:
 1. Configurar el ambiente local de trabajo para el proyecto del curso.
 2. 
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. N/A
 
-### Tareas
+### Descripción actividad
 ----
 
 Cada integrante en su máquina local debe instalar las herramientas necesarias para desarrollar el proyecto.

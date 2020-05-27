@@ -8,12 +8,12 @@ Los objetivos de esta actividad son:
 1. Implementar la página principal de la aplicación 
    
    
-### Pasos Previos
+### Pasos previos
 ----
 1. Haber implementado los componentes relacionados con las historias de usuario de desplegar recursos y sus detalles.
 2. Haber realizdo el tutorial sobre enrutamiento.
    
-### Tareas
+### Descripción actividad
 ----
 
 Tomando como referencia el prototipo consolidado durante la semana 2, se debe:

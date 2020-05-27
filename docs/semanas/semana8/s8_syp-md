@@ -8,12 +8,12 @@ Los objetivos de esta actividad son:
 1. Contrastar lo planeado en la semana anterior contra lo logrado para explicar cuál es el avance del proyecto.
 2. Formular el plan de la semana actual con base en el estado del proyecto y los hitos establecidos.
    
-### Pasos Previos
+### Pasos previos
 ----
 1. Cada integrante tiene actualizado el Kanban con el estado de sus tareas. 
 2. Los resultados de las tareas fueron entregados y son consistentes con lo reflejado en el Kanban. 
 
-### Tareas
+### Descripción actividad
 ----
 
 En reunión de equipo:

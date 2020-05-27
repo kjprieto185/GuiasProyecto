@@ -8,7 +8,7 @@ Los objetivos de esta actividad son:
 1. Implementar los componentes relacionados con las historias de usuario de desplegar detalles de los recursos
 
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. Haber implementado los componentes relacionados con las historias de usuario de desplegar recursos.

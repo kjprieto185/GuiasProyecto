@@ -7,7 +7,7 @@ Los objetivos de esta actividad son:
 1. Implementar los componentes relacionados con las historias de usuario de desplegar recursos
 
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. Haber realizado el paso de creación, módulos, servicios e integrado en el repositorio del equipo.

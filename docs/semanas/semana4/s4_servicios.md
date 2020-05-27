@@ -11,13 +11,13 @@ Los objetivos de esta actividad son:
 1. Implementar los servicios para obtener los recursos individuales del backend.
 2. Implementar las pruebas unitarias de los servicios.
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. Haber sincronizado su espacio local con el repositorio github del equipo.
 2. Haber realizado la implementación de las HU de listar recursos. 
 
-### Tareas
+### Descripción actividad
 ----
 
 

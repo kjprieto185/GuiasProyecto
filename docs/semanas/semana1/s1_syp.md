@@ -10,13 +10,13 @@ El objetivo de esta actividad es:
 * Construir el plan de la semana para cumplir con los hitos establecidos. 
  
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. El equipo debe haber realizado la actividad de [Distribución HU](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_distribucion)
 
 
-### Tareas
+### Descrición actividad
 ----
 
 1. Cada integrante crea en la columna **Por Hacer** del `Kanban` del github de su proyecto, una tarea por cada una de las HU que debe detallar. 

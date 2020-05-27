@@ -7,14 +7,14 @@ Los objetivos de esta actividad son:
 1. Implementar la estructura de módulos  y servicios en Angular.
 2. Implementar las pruebas unitarias de los Servicios.
    
-### Pasos Previos
+### Pasos previos
 ----
 
 1. Haber configurado el ambiente local
 2. Tener el listado de las HU que se van a implementar `falta algo para identificar el recurso`
 3. Realizar el tutorial ejemplo de este paso `falta completar este tutorial`
 
-### Tareas
+### Descripción actividad
 ----
 
 
