@@ -4,7 +4,7 @@
 ### Objetivos
 
 
-1. Diseñar, implemnetar y automatizar la ejecución de las pruebas end-to-end en una aplicación web.
+1. Diseñar, implementar y automatizar la ejecución de las pruebas end-to-end en una aplicación web.
 
 ### Resumen de las Actividades
 
