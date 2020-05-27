@@ -1,4 +1,4 @@
-## Semana 6 - Hacer seguimiento y planeación
+## Semana 6 - Hacer planeación
 
 
 
@@ -6,8 +6,8 @@
 ----
 Los objetivos de esta actividad son:
 
-1. Contrastar lo planeado en la semana anterior contra lo logrado para explicar cuál es el avance del proyecto.
-2. Formular el plan de la semana actual con base en el estado del proyecto y los hitos establecidos.
+
+1. Formular el plan de la semana actual con base en el estado del proyecto y los hitos establecidos.
    
 ### Pasos Previos
 ----
