@@ -8,7 +8,7 @@ Los objetivos de esta actividad son:
 
 Implementar los componentes relacionados con las historias de usuario de crear recursos
 
-### Pasos Previos
+### Pasos previos
 
 ---
 
