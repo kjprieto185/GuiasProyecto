@@ -1,5 +1,11 @@
-## Semana 5 - Hacer la retrospectiva
+## Semana 5 - Hacer la retrospectiva iteración 1
 
-**Descripción:** Usando la herramienta DAKI el equipo realiza la retrospectiva
+### Objetivos
 
-**Entregable:** Wiki del proyecto actualizada con la retrospectiva
+### **Descripción actividad**
+
+Usando la herramienta DAKI el equipo realiza la retrospectiva
+
+### **Entregable**
+
+Wiki del proyecto actualizada con la retrospectiva
