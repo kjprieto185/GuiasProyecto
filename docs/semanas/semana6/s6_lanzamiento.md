@@ -2,24 +2,20 @@
 
 ---
 
-### Definir las reglas de funcionamiento
+### Objetivos
 
-**Descripcion:** El equipo discute y plantea las reglas de funcionamiento, es decir, los compromisos que cada uno debe cumplir con respecto al trabajo, la puntualidad, las reuniones, la comunicación y la calidad de lo que hace.
+AJustar las reglas de funcionamiento y los compromisos del equipo, de acuerdo con las conclusiones de la retrospectiva de la iteración 1.
 
-**Entregable:** Wiki del proyecto actualizada con las reglas.
+### Pasos previos
 
----
+1.  Haber terminado la retrospectiva de la iteración anterior
+2.  Tener claro el alcance de esta iteración
 
-### Definir el líder
+### Descripción actividad
 
-**Descripción:** El equipo se reúne y se pone de acuerdo en quién será el líder. Una herramienta que les puede ayudar a definir el líder es el Test de Hermann.
+1.  Definir las reglas de funcionamiento: El equipo discute y plantea las reglas de funcionamiento y los compromisos teniendo en cuenta el documento de retrospectiva.  
+2.   Definir el líder: Si así lo considera el equipo, se debe definir quién será el nuevo líder del proyecto.
 
-**Entregable:** Wiki del proyecto actualizada con la definición del líder
+### **Entregable**
 
----
-
-### Revisar el enunciado
-
-**Descripción:** Con base en la lectura indidivual del enunciado, los integrantes del equipo realizan una discusión donde se consolidan las preguntas que puedan surgir.
-
-**Entregable:** Listado de preguntas en el foro del curso
+Wiki del proyecto actualizada con el lanzamiento de la iteración 2.
