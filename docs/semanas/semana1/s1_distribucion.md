@@ -58,16 +58,6 @@ Ejemplo:
 | ----------------------------------------- |
 | Fig. Ejemplo Kanban                       |
 
-### Criterios de evaluación
-
----
-
-La tabla quedó completada con la asígnación del detalle y de la revisión.
-
-El Kanban quedó actualizado siguiendo el formato solicitado.
-
----
-
 ### Entregables
 
 ---
@@ -76,3 +66,14 @@ El Kanban quedó actualizado siguiendo el formato solicitado.
   el responsable de la documentación de detalle y al lado el responsable de la revisión.
 
 - Kanban del proyecto actualizado en Github.
+
+### Criterios de evaluación
+
+---
+
+La tabla quedó completada con la asígnación del detalle y de la revisión.
+
+El Kanban quedó actualizado siguiendo el formato solicitado,
+El Kanban refleja el estado de las actividades durante el proceso.
+
+---
