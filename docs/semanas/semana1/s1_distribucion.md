@@ -25,7 +25,7 @@ Actividad de equipo
 
 1. Se discute el alcance de las HU que se van a implementar en la iteración 1.
 
-2. Se distribuye, entre los integrantes, de forma balanceada, las HU para ser `detalladas durante esta semana` e implementadas más adelante. La distribución para el detalle de las historias de usuario se hará asi:
+2. Se distribuye, entre los integrantes, de forma balanceada, las HU para ser detalladas e implementadas más adelante. La distribución para el detalle de las historias de usuario se hará asi:
 
 - Integrante 1: HU_01 y HU_02
 - Integrante 2: HU_03 y HU_04
