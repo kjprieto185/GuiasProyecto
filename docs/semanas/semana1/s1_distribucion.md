@@ -75,4 +75,4 @@ El Kanban quedó actualizado siguiendo el formato solicitado.
 - Wiki del proyecto con el listado de historias de usuario actualizadas en las que se indica
   el responsable de la documentación de detalle y al lado el responsable de la revisión.
 
-- Kanban del proyecto actualizado en Github
+- Kanban del proyecto actualizado en Github.
