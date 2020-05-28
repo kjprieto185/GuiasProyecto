@@ -6,8 +6,7 @@
 
 Los objetivos de esta actividad son:
 
-1. Interactuar con el equipo de trabajo y establecer los mecanismos de comunicación,
-   las reglas de funcionamiento y compromisos para lograr que el equipo funcione de manera efectiva y eficiente.
+1. Interactuar con el equipo de trabajo y establecer las reglas de funcionamiento para lograr que el equipo funcione de manera efectiva y eficiente.
 2. Discutir el enunciado e identificar dudas sobre el mismo.
 
 ### Pasos previos
@@ -68,3 +67,9 @@ Con la coordinación del líder:
 
 1. En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido.
 2. Preguntas en el foro en caso de tenerlas
+
+## Criterios de evaluación
+
+1. Existe mínimo 5 reglas y todas son verfiricables
+2. Existe mínimo una regla asociada con cada categoría
+3. La tabla de conformación del equipo está completa
