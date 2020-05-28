@@ -46,11 +46,10 @@ Los objetivos de esta actividad son:
 
 El siguiente es el formato que deben usar en el Kanban para la definición de una tarea:
 
-| Tarea: Detallar la HU \<\< aquí va el nombre de la historia >>               |
-| ---------------------------------------------------------------------------- |
-| Responsable: \<\< _aquí va el nombre del responsable_ >>                     |
-| Fecha entrega: \<\< _aquí va la fecha de entrega_ >>                         |
-| Tiempo estimado: \<\< _aquí va el tiempo que se estima tomará esta tarea_ >> |
+| Tarea: Detallar la HU \<\< aquí va el nombre de la historia >> |
+| -------------------------------------------------------------- |
+| Responsable: \<\< _aquí va el nombre del responsable_ >>       |
+| Fecha entrega: \<\< _aquí va la fecha de entrega_ >>           |
 
 Ejemplo:
 
@@ -71,9 +70,8 @@ Ejemplo:
 
 ---
 
-La tabla quedó completada con la asígnación del detalle y de la revisión.
-
-El Kanban quedó actualizado siguiendo el formato solicitado.
-El Kanban refleja el estado de las actividades durante el proceso.
+- La tabla quedó completada con la asígnación del detalle y de la revisión.
+- El Kanban quedó actualizado siguiendo el formato solicitado.
+- El Kanban refleja el estado de las actividades durante el proceso.
 
 ---
