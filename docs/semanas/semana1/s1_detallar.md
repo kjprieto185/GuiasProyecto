@@ -23,7 +23,7 @@ Para realizar esta actividad el equipo debió haber:
 
 ---
 
-Cada integrante:
+![](https://github.com/TiCSw/mt1_guias_proyecto/blob/master/docs/assets/images/individuo.PNG)Cada integrante:
 
 1. Incluye los criterios de aceptación en las historias de usuario que tiene asignadas. Tenga en cuenta que en esta semana no se necesita el mockup de la historia de usuario.
 2. Revisa las historias de usuario que tiene asignadas para revisión una vez que
