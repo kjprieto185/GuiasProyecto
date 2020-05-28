@@ -27,9 +27,9 @@ Actividad de equipo
 
 2. Se distribuye, entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. La distribución para el detalle de las historias de usuario se hará asi:
 
-- Integrante 1: HU_01 y HU_02
-- Integrante 2: HU_03 y HU_04
-- Integrante 3: HU_05 y HU_06
+   *  Integrante 1: HU_01 y HU_02
+   *  Integrante 2: HU_03 y HU_04
+   *  Integrante 3: HU_05 y HU_06
 
 3. Se distribuyen las HU para ser revisadas por un integrante distinto a quién la detalló
 
