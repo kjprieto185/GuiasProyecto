@@ -17,13 +17,13 @@ Los objetivos de esta actividad son:
 1. Se realizó la distribución de las historias de usuario tanto para el detalle como para la revisión.
 2. Se creó el plan de la semana en el Kanban del proyecto.
 
-### Descrición actividad
+### Descripción actividad
 
 ---
 
 Cada integrante:
 
-1. Detalla las historias de usuario que tiene asignadas.
+1. Incluye los criterios de aceptación en las historias de usuario que tiene asignadas. Tenga en cuenta que en esta semana no se necesita el mockup de la historia de usuario.
 2. Revisa las historias de usuario que tiene asignadas para revisión una vez que
    estas hayan sido detalladas por alguno de los compañeros.
 3. Actualiza el estado de sus actividades en el Kanban del proyecto.
