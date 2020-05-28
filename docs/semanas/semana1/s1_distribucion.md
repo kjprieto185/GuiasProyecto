@@ -42,4 +42,6 @@ el responsable de la documentación de detalle y al lado el responsable de la re
 
 ### Criterios de evaluación
 
+---
+
 La tabla quedó completada con la asígnación del detalle y de la revisión.
