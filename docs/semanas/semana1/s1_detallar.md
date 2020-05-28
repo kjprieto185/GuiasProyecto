@@ -28,7 +28,8 @@ Para realizar esta actividad el equipo debió haber:
 1. Incluir los criterios de aceptación en las historias de usuario que tiene asignadas. Tenga en cuenta que en esta semana no es necesario adjuntar el mockup de la historia de usuario.
 2. Revisar las historias de usuario que asignadas una vez que
    estas hayan sido detalladas por alguno de los compañeros.
-3. Actualizar el estado de sus actividades en el Kanban del proyecto.
+3. Incorporar las observaciones del revisor a las historias de usuario.
+4. Actualizar el estado de sus actividades en el Kanban del proyecto.
 
 ### Recursos
 
@@ -42,3 +43,8 @@ Para realizar esta actividad el equipo debió haber:
 ---
 
 En la wiki del proyecto debe quedar tanto el detalle de las historias de usuario como la guía de revisión diligenciada para cada historia revisada.
+
+### Criterios de evaluación
+
+Formatos de las historias de usuario con los criterios de aceptación.
+Formato de revisión diligenciado
