@@ -22,7 +22,7 @@ Los objetivos de esta actividad son:
 
 ---
 
-#### Actividad de equipo
+![](https://github.com/TiCSw/mt1_guias_proyecto/blob/master/docs/assets/images/grupo.PNG) Actividad de equipo
 
 1. Se discute el alcance de las HU que se van a implementar en la iteración 1.
 
@@ -34,7 +34,7 @@ Los objetivos de esta actividad son:
 
 3. Se distribuyen las HU para ser revisadas por un integrante distinto a quién la detalló.
 
-#### Actividad individual
+![](https://github.com/TiCSw/mt1_guias_proyecto/blob/master/docs/assets/images/individuo.PNG) Actividad individual
 
 1. Cada integrante crea en la columna **Por Hacer** del `Kanban` del Github de su proyecto, una tarea por cada una de las HU que debe detallar.
 2. Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
