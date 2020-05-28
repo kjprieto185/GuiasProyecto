@@ -39,3 +39,7 @@ Actividad de equipo
 
 Wiki del proyecto con el listado de historias de usuario actualizadas en las que se indica
 el responsable de la documentación de detalle y al lado el responsable de la revisión.
+
+### Criterios de evaluación
+
+La tabla quedó completada con la asígnación del detalle y de la revisión.
