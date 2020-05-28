@@ -68,7 +68,9 @@ Con la coordinación del líder:
 1. En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido.
 2. Preguntas en el foro en caso de tenerlas
 
-## Criterios de evaluación
+### Criterios de evaluación
+
+---
 
 1. Existe mínimo 5 reglas y todas son verfiricables
 2. Existe mínimo una regla asociada con cada categoría
