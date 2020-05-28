@@ -51,8 +51,7 @@ Durante la reunión de lanzamiento:
 
 Con la coordinación del líder:
 
-1. El equipo discute y establece las reglas de funcionamiento, mínimo 5 reglas, y
-   los compromisos para llevar a buen término el proyecto.
+1. El equipo discute y establece las reglas de funcionamiento, mínimo 5, los cuales serán los compromisos que asumen los integrantes del equipo para llevar a buen término el proyecto.
 
 2. El equipo revisa las dudas sobre el **enunciado** del proyecto, revisa si en el foro de preguntas sobre el enunciado,
    estas dudas ya han sido resueltas y, en caso contrario, las pregunta en el foro.
