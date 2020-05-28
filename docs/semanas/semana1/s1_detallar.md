@@ -14,8 +14,10 @@ Los objetivos de esta actividad son:
 
 ---
 
-1. Se realizó la distribución de las historias de usuario tanto para el detalle como para la revisión.
-2. Se creó el plan de la semana en el Kanban del proyecto.
+Para realizar esta actividad el equipo debió haber:
+
+1. Distribuído las historias de usuario tanto para el detalle como para la revisión.
+2. Creado el plan de la semana en el Kanban del proyecto.
 
 ### Descripción actividad
 
