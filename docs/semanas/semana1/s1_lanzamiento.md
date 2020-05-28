@@ -53,18 +53,18 @@ Con la coordinación del líder:
 
 1. El equipo discute y establece las reglas de funcionamiento, mínimo 5, los cuales serán los compromisos que asumen los integrantes del equipo para llevar a buen término el proyecto.
 
-2. El equipo revisa las dudas sobre el **enunciado** del proyecto, revisa si en el foro de preguntas sobre el enunciado,
-   estas dudas ya han sido resueltas y, en caso contrario, las pregunta en el foro.
+2. El equipo revisa las dudas sobre el **enunciado** del proyecto; revisa si en el foro de preguntas
+   estas dudas ya han sido resueltas y, en caso contrario, las formula en el foro.
 
 ### Recursos
 
 ---
 
-- Formato lanzamiento
+- Formato lanzamiento disponible en la wiki del equipo
 
 ### Entregables
 
 ---
 
-En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido y que se
-encuentra en la misma wiki.
+1. En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido.
+2. Preguntas en el foro en caso de tenerlas
