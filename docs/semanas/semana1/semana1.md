@@ -21,5 +21,4 @@ Los objetivos de la semana 1 son:
 | ------------------------------------------------------------------------ |
 | [Realizar el lanzamiento de la iteración 1 del proyecto](s1_lanzamiento) |
 | [Distribuir las historias de usuario](s1_distribucion)                   |
-| [Registrar el plan](s1_syp)                                              |
 | [Detallar y revisar las historias de usuario](s1_detallar)               |
