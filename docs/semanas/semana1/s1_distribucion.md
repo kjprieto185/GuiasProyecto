@@ -73,7 +73,7 @@ Ejemplo:
 
 La tabla quedó completada con la asígnación del detalle y de la revisión.
 
-El Kanban quedó actualizado siguiendo el formato solicitado,
+El Kanban quedó actualizado siguiendo el formato solicitado.
 El Kanban refleja el estado de las actividades durante el proceso.
 
 ---
