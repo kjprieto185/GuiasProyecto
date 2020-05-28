@@ -40,25 +40,6 @@ Los objetivos de esta actividad son:
 2. Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
    estado de la tarea en el Kanban de Github, moviéndola a la columna **En progreso** o **Terminada** respectivamente.
 
-### Entregables
-
----
-
-- Wiki del proyecto con el listado de historias de usuario actualizadas en las que se indica
-  el responsable de la documentación de detalle y al lado el responsable de la revisión.
-
-- Kanban del proyecto actualizado en Github
-
-### Criterios de evaluación
-
----
-
-La tabla quedó completada con la asígnación del detalle y de la revisión.
-
-El Kanban quedó actualizado siguiendo el formato solicitado.
-
----
-
 ### Recursos
 
 ---
@@ -76,3 +57,22 @@ Ejemplo:
 | ![](./../../assets/images/kanbanTODO.PNG) |
 | ----------------------------------------- |
 | Fig. Ejemplo Kanban                       |
+
+### Criterios de evaluación
+
+---
+
+La tabla quedó completada con la asígnación del detalle y de la revisión.
+
+El Kanban quedó actualizado siguiendo el formato solicitado.
+
+---
+
+### Entregables
+
+---
+
+- Wiki del proyecto con el listado de historias de usuario actualizadas en las que se indica
+  el responsable de la documentación de detalle y al lado el responsable de la revisión.
+
+- Kanban del proyecto actualizado en Github
