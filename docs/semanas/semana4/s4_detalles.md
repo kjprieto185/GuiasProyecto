@@ -15,6 +15,8 @@ Los objetivos de esta actividad son:
 
 ### Pasos
 
+#### ![](./../../assets/images/individuo.png) Actividad individual
+
 * Antes de iniciar esta actividad, ud. debe realizar un pull sobre el repositorio y 
 asegurarse que la aplicación en su espacio local funciona. 
 * Complete la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrates.

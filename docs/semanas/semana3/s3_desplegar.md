@@ -12,7 +12,9 @@ Los objetivos de esta actividad son:
 
 1. Haber realizado el paso de creación, módulos, servicios e integrado en el repositorio del equipo.
 
-### Pasos
+### Descripci+on actividad
+
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Antes de iniciar esta actividad, ud. debe realizar un pull sobre el repositorio y 
 asegurarse que la aplicación en su espacio local funciona. 

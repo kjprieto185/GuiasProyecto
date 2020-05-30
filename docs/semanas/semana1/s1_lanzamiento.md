@@ -39,6 +39,7 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 ### Descripción actividad
 
 ---
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
 
 Durante la reunión de lanzamiento:
 

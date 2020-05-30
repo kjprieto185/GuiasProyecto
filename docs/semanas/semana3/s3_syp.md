@@ -16,7 +16,8 @@ Los objetivos de esta actividad son:
 ### Descripción actividad
 ----
 
-En reunión de equipo:
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
+
 1. Los integrantes realizan el seguimiento a lo ocurrido en el desarrollo del proyecto durante la semana anterior. 
    Se revisa el plan y lo logrado. Se verifica que los entregables están en la wiki del proyecto. 
 2. Se actualiza el Kanban de acuerdo con la revisión anterior. 

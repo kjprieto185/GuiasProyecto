@@ -13,7 +13,7 @@
 
 Usando la herramienta DAKI (Drop, Add, Keep, Improve)  el equipo realiza la retrospectiva. Esta actividad tiene primero un trabajo individual y luego una reunión del equipo. 
 
-#### Trabajo individual
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 Cada integrante completa la matriz DAKI con respecto a su comportamiento en el trabajo llevado a cabo en la iteración 1.  
 
@@ -31,7 +31,7 @@ Completar la matriz DAKI:
 
 <table><tbody><tr><td><strong>¿Qué debo hacer mejor? (IMPROVE)</strong>&nbsp;</td><td><strong>¿Por qué debo hacer más de esto?</strong>&nbsp;</td><td><strong>¿Qué acciones o compromisos me ayudarían a hacer más de esto?</strong>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
-### Reunión del equipo
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
 
 Con la coordinación del líder, el equipo discute las reflexiones individuales y completa las acciones concretas que llevará a cabo en la siguiente iteración:
 

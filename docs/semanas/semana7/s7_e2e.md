@@ -4,14 +4,14 @@
 
 1.   Diseñar, implementar y automatizar la ejecución de las pruebas end-to-end en una aplicación web.
 
-### **Pasos previos**
+### Pasos previos
 
 1.  Tener HU completas para probar de extremo a extremo
 
-### **Descripción actividad**
+### Descripción actividad
 
  Los integrantes realizan la implementación de las pruebas e2e para la aplicación.
 
-### **Entregable**
+### Entregable
 
 Repositorio de Github actualizado

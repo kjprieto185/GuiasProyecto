@@ -20,6 +20,7 @@ Los objetivos de esta actividad son:
 ### Descripción actividad
 ----
 
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 Cada integrante en su espacio local, para cada uno de los recursos que involucrados en las historias de usuario asignadas, debe:
 

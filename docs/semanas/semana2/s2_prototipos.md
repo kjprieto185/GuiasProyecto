@@ -16,13 +16,13 @@ Los objetivos de esta actividad son:
 1. Haber  detallado y revisado las Historias de usuario.  
 
 
-### Descrición actividad
-----
-1. De manera individual, cada integrante realiza un prototipo de la página principal, del listado de un recurso y de sus detalles. Para esto se usará la herramienta (app.diagrams.net)
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
-En reunión de equipo:
+Cada integrante realiza un prototipo de la página principal, del listado de un recurso y de sus detalles. Para esto se usará la herramienta (app.diagrams.net)
 
-2. Tomando como referencia los prototipos indiviuales, se realiza una discusión y se decide cuál será el prototipo general de la aplicación y los prototipos para listar y detallar los recursos.
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
+
+Tomando como referencia los prototipos indiviuales, se realiza una discusión y se decide cuál será el prototipo general de la aplicación y los prototipos para listar y detallar los recursos.
 
 ### Recursos
 ---

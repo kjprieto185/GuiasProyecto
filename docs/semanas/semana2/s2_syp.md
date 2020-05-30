@@ -25,6 +25,8 @@ En reunión de equipo:
 2. Se actualiza el Kanban de acuerdo con la revisión anterior. 
 3. Se discute los hitos de esta semana y se distribuyen las tareas.
    
+#### ![](./../../assets/images/individuo.png) Actividad individual
+
 Cada integrante actualiza el Kanban con sus tareas para esta semana. 
 
 ### Entregables

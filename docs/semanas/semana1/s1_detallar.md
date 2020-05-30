@@ -23,7 +23,7 @@ Para realizar esta actividad el equipo debió haber:
 
 ---
 
-#### Actividad individual
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 1. Incluir los criterios de aceptación en las historias de usuario que tiene asignadas. Tenga en cuenta que en esta semana no es necesario adjuntar el mockup de la historia de usuario.
 2. Revisar las historias de usuario que asignadas una vez que
