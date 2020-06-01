@@ -73,6 +73,6 @@ Con la coordinación del líder:
 
 ---
 
-1. Existe mínimo 5 reglas y todas son verfiricables
+1. Existe mínimo 5 reglas y todas son verificables
 2. Existe mínimo una regla asociada con cada categoría
 3. La tabla de conformación del equipo está completa
