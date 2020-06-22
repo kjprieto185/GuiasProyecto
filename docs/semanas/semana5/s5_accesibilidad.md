@@ -15,7 +15,7 @@ Cada estudiante debe haber:
 
 Durante el proceso de elaboración de la aplicación web, el equipo debe constratar que cada una de las guías correspondientes al nivel de conformidad AA según la pauta WCAG 2.1 2018 se cumplen.
 
-Para efectos de brevedad, la tabla solo presenta un resumen de criterios, no obstante en la [referencia rápida de la guía](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships) se encuentra información detallada de cómo cumplir cada uno.
+Para efectos de brevedad, la tabla solo presenta un resumen de criterios alineados con el nivel AA; no obstante en la [referencia rápida de la guía](https://www.w3.org/WAI/WCAG21/quickref/) se encuentra información detallada de cada uno.
 
 | Criterio       | Categoría                             | Guía                                           |
 | -------------- | ------------------------------------- | ---------------------------------------------- |
@@ -69,6 +69,14 @@ Para efectos de brevedad, la tabla solo presenta un resumen de criterios, no obs
 | 4. Robusto     | 4.1 Compatible                        | 4.1.1 Parsing                                  |
 |                |                                       | 4.1.2 Nombre, rol, valor                       |
 |                |                                       | 4.1.3 Mensajes de estado                       |
+
+Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizad utilizando el plugin AXE.
+
+Para eso, instale el plugin AXE en su navegador. Está disponible para [Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/) y para [Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
+
+En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de revisarlos.
+
+Luego de la corrección, ejectute la herramienta hasta asegurarse de que no queda ningún issue por resolver.
 
 **Recursos**
 
