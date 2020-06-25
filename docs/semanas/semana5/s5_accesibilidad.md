@@ -9,9 +9,14 @@
 Cada estudiante debe haber:
 
 1.  Revisado el material sobre accesibilidad.
-2.  Avanzado en la implementación de las HU relacionadas con los despliegues.
+2.  Realizado la lectura sobre "Historias de accesibilidad"
+3.  Avanzado en la implementación de las HU relacionadas con los despliegues.
 
 ### Descripción actividad
+
+---
+
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
 
 Durante el proceso de elaboración de la aplicación web, el equipo debe constratar que cada una de las guías correspondientes al nivel de conformidad AA según la pauta WCAG 2.1 2018 se cumplen.
 
@@ -70,18 +75,31 @@ Para efectos de brevedad, la tabla solo presenta un resumen de criterios alinead
 |                |                                       | 4.1.2 Nombre, rol, valor                       |
 |                |                                       | 4.1.3 Mensajes de estado                       |
 
-Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizad utilizando el plugin AXE.
+#### ![](./../../assets/images/individuo.png) Actividad individual
+
+La primera actividad consiste en la revisión de los criterios. Para esto de común acuerdo con su grupo, distribuya los criterios de forma equitativa. A quien se le asigne el criterio será responsable de verificar si este está o no presente en la aplicación.
+
+La segunda actividad consiste en la correción de los hallazgos. De igual forma, la asignación de las correciones se hará de forma equitativa.
+
+Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE.
 
 Para eso, instale el plugin AXE en su navegador. Está disponible para [Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/) y para [Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
 
-En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de revisarlos.
+En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de resolverlos.
 
 Luego de la corrección, ejectute la herramienta hasta asegurarse de que no queda ningún issue por resolver.
 
-**Recursos**
+### Recursos
 
 - Herramienta de verificación de accesibilidad.
 
-**Entregable**
+### Entregable
 
-Repositorio de Github actualizado.
+- Lista de chequeo diligenciada.
+- Repositorio de Github actualizado.
+
+### Criterios de evaluación
+
+- La lista de chequeo debe estar correctamente diligenciada
+
+- Para evaluar el cumplimiento de esta tarea, el tutor descargará el código del repositorio y ejecutará la herramienta de validación. Se espera no encontrar ningún issue reportado.
