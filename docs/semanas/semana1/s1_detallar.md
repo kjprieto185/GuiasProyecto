@@ -46,5 +46,7 @@ En la wiki del proyecto debe quedar tanto el detalle de las historias de usuario
 
 ### Criterios de evaluación
 
-Formatos de las historias de usuario con los criterios de aceptación.
-Formato de revisión diligenciado
+---
+
+- Formatos de las historias de usuario con los criterios de aceptación diligenciados y completos.
+- Formato de revisión diligenciado.
