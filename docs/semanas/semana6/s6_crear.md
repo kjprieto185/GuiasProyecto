@@ -16,7 +16,10 @@ Implementar los componentes relacionados con las historias de usuario de crear r
 
 ### Descripción actividad
 
+---
+
 #### ![](./../../assets/images/individuo.png) Actividad individual
+
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
 1.  Crear en el servicio del módulo del recurso, la función que permite llamar al API REST para crear un recurso.
@@ -31,7 +34,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-*   \[Tutorial crear un formulario \](https://https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0)
+- \[Tutorial crear un formulario \](https://https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0)
 
 ### Entregables
 

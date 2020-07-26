@@ -7,17 +7,21 @@
 
 ### Pasos previos
 
-*   Haber revisado el material sobre retrospectivas de equipo.
+- Haber revisado el material sobre retrospectivas de equipo.
 
-### **Descripción actividad**
+### Descripción actividad
 
-Usando la herramienta DAKI (Drop, Add, Keep, Improve)  el equipo realiza la retrospectiva. Esta actividad tiene primero un trabajo individual y luego una reunión del equipo. 
+---
+
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
+
+Usando la herramienta DAKI (Drop, Add, Keep, Improve)  el equipo realiza la retrospectiva. Esta actividad tiene primero un trabajo individual y luego una reunión del equipo.
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-Cada integrante completa la matriz DAKI con respecto a su comportamiento en el trabajo llevado a cabo en la iteración 1.  
+Cada integrante completa la matriz DAKI con respecto a su comportamiento en el trabajo llevado a cabo en la iteración 1.
 
-Para esto primero contesta las preguntas: 
+Para esto primero contesta las preguntas:
 
 <table><tbody><tr><td><strong>Pregunta</strong>&nbsp;</td><td><strong>Calificación</strong>&nbsp;</td></tr><tr><td>Mi disponibilidad durante el ciclo para atender las tareas del proyecto fue (califique de 1 a 5 donde 5 corresponde a una alta disponibilidad)&nbsp;</td><td>&nbsp;</td></tr><tr><td>Mi contribución al trabajo del equipo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a un desempeño superior)&nbsp;</td><td>&nbsp;</td></tr><tr><td>La calidad de mi trabajo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a una alta calidad)&nbsp;</td><td>&nbsp;</td></tr><tr><td>Durante el ciclo, me ocupe de realizar la planeación y ejecución de las actividades semana a semana y de registrarlas en teamwork (califique de 1 a 5 donde 5 corresponde a una alta ocupación)&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
