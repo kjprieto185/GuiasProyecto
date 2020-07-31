@@ -2,8 +2,10 @@
 
 ### Objetivos
 
-1.  Diagnosticar el trabajo del equipo en términos del cumplimiento de las reglas de funcionamiento y de los compromisos.
-2.  Identificar acciones de mejora para que el trabajo del equipo sea más efectivo y eficiente.
+Los objetivos de esta actividad son:
+
+- Diagnosticar el trabajo del equipo en términos del cumplimiento de las reglas de funcionamiento y de los compromisos.
+- Identificar acciones de mejora para que el trabajo del equipo sea más efectivo y eficiente.
 
 ### Pasos previos
 
@@ -15,7 +17,7 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-Usando la herramienta DAKI (Drop, Add, Keep, Improve)  el equipo realiza la retrospectiva. Esta actividad tiene primero un trabajo individual y luego una reunión del equipo.
+- Usando la herramienta DAKI (Drop, Add, Keep, Improve)  el equipo realiza la retrospectiva. Esta actividad tiene primero un trabajo individual y luego una reunión del equipo.
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
@@ -25,7 +27,7 @@ Para esto primero contesta las preguntas:
 
 <table><tbody><tr><td><strong>Pregunta</strong>&nbsp;</td><td><strong>Calificación</strong>&nbsp;</td></tr><tr><td>Mi disponibilidad durante el ciclo para atender las tareas del proyecto fue (califique de 1 a 5 donde 5 corresponde a una alta disponibilidad)&nbsp;</td><td>&nbsp;</td></tr><tr><td>Mi contribución al trabajo del equipo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a un desempeño superior)&nbsp;</td><td>&nbsp;</td></tr><tr><td>La calidad de mi trabajo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a una alta calidad)&nbsp;</td><td>&nbsp;</td></tr><tr><td>Durante el ciclo, me ocupe de realizar la planeación y ejecución de las actividades semana a semana y de registrarlas en teamwork (califique de 1 a 5 donde 5 corresponde a una alta ocupación)&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
-Completar la matriz DAKI:
+Luego completa la matriz DAKI:
 
 <table><tbody><tr><td><strong>¿Qué debo dejar de hacer? (DROP)</strong>&nbsp;</td><td><strong>¿Por qué quiero dejar de hacerlo?</strong>&nbsp;</td><td><strong>¿Qué acciones o compromisos me ayudarían a dejar de hacerlo?</strong>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
@@ -39,6 +41,10 @@ Completar la matriz DAKI:
 
 Con la coordinación del líder, el equipo discute las reflexiones individuales y completa las acciones concretas que llevará a cabo en la siguiente iteración:
 
-### **Entregable**
+### Entregable
 
-Wiki del proyecto actualizada con la retrospectiva
+- Wiki del proyecto actualizada con la retrospectiva
+
+### Criterios de evaluación
+
+- La wiki del proyecto está actualizada con la respuesta a las preguntas y con la matriz DAKI diligenciada.

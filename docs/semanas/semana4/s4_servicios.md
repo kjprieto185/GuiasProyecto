@@ -1,39 +1,45 @@
 ## Semana 4 - Crear los métodos en los servicios para obtener los detalles de un recurso
 
-**Descripción:** De acuerdo con los recursos asignados, cada integrante crea un método en el servicio para obtener el detalle de un recurso
-
-**Entregable:** Repositorio de Github actualizado
-
 ### Objetivos
-----
+
+---
+
 Los objetivos de esta actividad son:
 
-1. Implementar los servicios para obtener los recursos individuales del backend.
-2. Implementar las pruebas unitarias de los servicios.
-   
-### Pasos previos
-----
+- Implementar los servicios para obtener los recursos individuales del backend.
+- Implementar las pruebas unitarias de los servicios.
 
-1. Haber sincronizado su espacio local con el repositorio github del equipo.
-2. Haber realizado la implementación de las HU de listar recursos. 
+### Pasos previos
+
+---
+
+- Haber sincronizado su espacio local con el repositorio github del equipo.
+- Haber realizado la implementación de las HU de listar recursos.
 
 ### Descripción actividad
-----
+
+---
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 Cada integrante en su espacio local, para cada uno de los recursos que involucrados en las historias de usuario asignadas, debe:
 
-1. Programar el método `http get` para traer un elemento de un recurso.
-2. Programar la prueba del servicio.
-3. Verificar que todo esté funcionando.
-4. Realizar commit y solicitar un `pull request`.  
-5. (`Aquí va un paso de acpetar o no el pull request debemos verificar con Gloria el proceso del flujo de trabajo para que quede igual al del otro curso`)
+- Programar el método `http get` para traer un elemento de un recurso.
+- Programar la prueba del servicio.
+- Verificar que todo esté funcionando.
+- Realizar commit y solicitar un `pull request`.
+- (`Aquí va un paso de acpetar o no el pull request debemos verificar con Gloria el proceso del flujo de trabajo para que quede igual al del otro curso`)
 
 ### Recursos
 
-N/A
+- N/A
 
 ### Entregables
+
 ---
-Repositorio de Github actualizado.
+
+- Repositorio de Github actualizado.
+
+### Criterios de evaluación
+
+- Las pruebas de los servicios se ejectutan correctamente

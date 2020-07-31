@@ -6,13 +6,13 @@
 
 Los objetivos de esta actividad son:
 
-Implementar los componentes relacionados con las historias de usuario de crear recursos
+- Implementar los componentes relacionados con las historias de usuario de crear recursos
 
 ### Pasos previos
 
 ---
 
-1.  Haber terminado la implementación del las HU de la iteración 1.
+- Haber terminado la implementación del las HU de la iteración 1.
 
 ### Descripción actividad
 
@@ -22,13 +22,13 @@ Implementar los componentes relacionados con las historias de usuario de crear r
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
-1.  Crear en el servicio del módulo del recurso, la función que permite llamar al API REST para crear un recurso.
-2.  Probar el servicio dele paso anterior.
-3.  Crear el componente de crear el recurso correspondiente siguiendo las convenciones de nombramiento.
-4.  Crear la vista del componente (formulario) de acuerdo con el prototipo aprobado por el equipo.
-5.  Invocar el servicio de creación.
-6.  Verificar que la aplicación funciona correctamente..
-7.  Realizar commit y solicitar un \`pull request\`.
+- Crear en el servicio del módulo del recurso, la función que permite llamar al API REST para crear un recurso.
+- Probar el servicio del paso anterior.
+- Crear el componente de crear el recurso correspondiente siguiendo las convenciones de nombramiento.
+- Crear la vista del componente (formulario) de acuerdo con el prototipo aprobado por el equipo.
+- Invocar el servicio de creación.
+- Verificar que la aplicación funciona correctamente..
+- Realizar commit y solicitar un \`pull request\`.
 
 ### Recursos
 
@@ -40,4 +40,12 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-Repositorio de Github actualizado.
+- Repositorio de Github actualizado.
+
+### Criterios de evaluación
+
+- El formulario para la creación de recursos se visualiza correctamente
+- Cuando se ingresan los datos se validan antes de enviar
+- Se muestra un mensaje descriptivo de los errores del formulario
+- Si los datos son correctos y se da clic en el botón agregar se muestra un mensaje de confirmación
+- Cuando se regresa al listado de recursos, el nuevo recurso asignado se muestra correctamente

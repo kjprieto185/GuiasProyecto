@@ -2,15 +2,17 @@
 
 ### Objetivos
 
+El objetivo de esta actividad es:
+
 - Incorporar elementos de accesibilidad en la aplicación web, para garantizar un nivel de conformidad equivalente a AA según la pauta WCAG 2.1 de 2018.
 
 ### Pasos previos
 
 Cada estudiante debe haber:
 
-1.  Revisado el material sobre accesibilidad.
-2.  Realizado la lectura sobre "Historias de accesibilidad"
-3.  Avanzado en la implementación de las HU relacionadas con los despliegues.
+- Revisado el material sobre accesibilidad.
+- Realizado la lectura sobre "Historias de accesibilidad"
+- Avanzado en la implementación de las HU relacionadas con los despliegues.
 
 ### Descripción actividad
 

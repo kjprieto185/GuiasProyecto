@@ -4,15 +4,15 @@
 
 ---
 
-Los objetivos de esta actividad son:
+El objetivo de esta actividad es:
 
-1. Implementar los componentes relacionados con las historias de usuario de desplegar recursos
+- Implementar los componentes relacionados con las historias de usuario de desplegar recursos.
 
 ### Pasos previos
 
 ---
 
-1. Haber realizado el paso de creación, módulos, servicios e integrado en el repositorio del equipo.
+- Haber realizado el paso de creación, módulos, servicios e integrado en el repositorio del equipo.
 
 ### Descripci+on actividad
 
@@ -26,12 +26,12 @@ Los objetivos de esta actividad son:
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
-1. Crear el componente de listar o desplegar el recurso correspondiente siguiendo las convenciones de nombramiento.
-2. Crear la vista del componente de acuerdo con el prototipo aprobado por el equipo.
-3. Invocar el servicio construido en el paso anterior.
-4. `aquí vamos a pedir prueba del componente?`.
-5. Verificar que la aplicación funciona correctamente.
-6. Realizar commit y solicitar un `pull request`.
+- Crear el componente de listar o desplegar el recurso correspondiente siguiendo las convenciones de nombramiento.
+- Crear la vista del componente de acuerdo con el prototipo aprobado por el equipo.
+- Invocar el servicio construido en el paso anterior.
+- `aquí vamos a pedir prueba del componente?`.
+- Verificar que la aplicación funciona correctamente.
+- Realizar commit y solicitar un `pull request`.
 
 ### Recursos
 
@@ -44,4 +44,8 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-Repositorio de Github actualizado.
+- Repositorio de Github actualizado.
+
+### Criterios de evaluación
+
+- El listado de recursos se despliega correctamente.

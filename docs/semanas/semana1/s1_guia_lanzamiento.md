@@ -42,15 +42,15 @@ Es importante anotar que esta actividad va de la mano de otra que se debe realiz
 
 La preparación consiste en una reflexión individual sobre lo que significa trabajo en equipo. Esta reflexión se puede realizar contestando las siguientes preguntas:
 
-¿Cómo vamos a comunicarnos?
+- ¿Cómo vamos a comunicarnos?
 
-¿Cómo vamos a dirimir los conflictos si se presentan?
+- ¿Cómo vamos a dirimir los conflictos si se presentan?
 
-¿Cómo vamos a revisar la calidad del trabajo propio y el de los demás?
+- ¿Cómo vamos a revisar la calidad del trabajo propio y el de los demás?
 
-¿Qué hago si necesito ayuda?
+- ¿Qué hago si necesito ayuda?
 
-¿Cómo colaboro con los demás?
+- ¿Cómo colaboro con los demás?
 
 ## Cómo llevar a cabo el lanzamiento
 
@@ -80,16 +80,16 @@ Durante la reunión se debe abarcar asuntos como:
 
 Las siguientes son las tareas que debe realizar el líder:
 
-1. Coordinar las reuniones
-2. Estar atento a que se gestione el kanban
-3. Ser el canal de comunicación entre el equipo y el tutor
+- Coordinar las reuniones
+- Estar atento a que se gestione el kanban
+- Ser el canal de comunicación entre el equipo y el tutor
 
 ## Referencias
 
 ---
 
-Watts Humphrey. Introduction to the team software process(sm). 2000. Addison-Wesley Professional.
+- Watts Humphrey. Introduction to the team software process(sm). 2000. Addison-Wesley Professional.
 
-Stuart, A. (2014). Ground rules for a high performing team. Paper presented at PMI® Global Congress 2014—North America, Phoenix, AZ. Newtown Square, PA: Project Management Institute.
+- Stuart, A. (2014). Ground rules for a high performing team. Paper presented at PMI® Global Congress 2014—North America, Phoenix, AZ. Newtown Square, PA: Project Management Institute.
 
-Yngve Lindsjørn, Dag I.K. Sjøberg, Torgeir Dingsøyr, Gunnar R. Bergersen, Tore Dybå, Teamwork quality and project success in software development: A survey of agile development teams,Journal of Systems and Software, Volume 122, 2016,
+- Yngve Lindsjørn, Dag I.K. Sjøberg, Torgeir Dingsøyr, Gunnar R. Bergersen, Tore Dybå, Teamwork quality and project success in software development: A survey of agile development teams,Journal of Systems and Software, Volume 122, 2016,

@@ -4,12 +4,14 @@
 
 ### Objetivos
 
-AJustar las reglas de funcionamiento y los compromisos del equipo, de acuerdo con las conclusiones de la retrospectiva de la iteración 1.
+El objetivo de esta actividad es:
+
+- Ajustar las reglas de funcionamiento y los compromisos del equipo, de acuerdo con las conclusiones de la retrospectiva de la iteración 1.
 
 ### Pasos previos
 
-1.  Haber terminado la retrospectiva de la iteración anterior
-2.  Tener claro el alcance de esta iteración
+- Haber terminado la retrospectiva de la iteración anterior
+- Tener claro el alcance de esta iteración
 
 ### Descripción actividad
 
@@ -17,9 +19,15 @@ AJustar las reglas de funcionamiento y los compromisos del equipo, de acuerdo co
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-1.  Definir las reglas de funcionamiento: El equipo discute y plantea las reglas de funcionamiento y los compromisos teniendo en cuenta el documento de retrospectiva.
-2.  Definir el líder: Si así lo considera el equipo, se debe definir quién será el nuevo líder del proyecto.
+- Definir las reglas de funcionamiento: El equipo discute y plantea las reglas de funcionamiento y los compromisos teniendo en cuenta el documento de retrospectiva.
+- Definir el líder: Si así lo considera el equipo, se debe definir quién será el nuevo líder del proyecto.
 
 ### Entregable
 
-Wiki del proyecto actualizada con el lanzamiento de la iteración 2.
+- Wiki del proyecto actualizada con el lanzamiento de la iteración 2.
+
+### Criterio de calificación
+
+- Existe mínimo 5 reglas y todas son verificables
+- Existe mínimo una regla asociada con cada categoría
+- La tabla de conformación del equipo está completa

@@ -4,13 +4,15 @@
 
 ---
 
-1.  Diseñar, implementar y automatizar la ejecución de las pruebas end-to-end en una aplicación web.
+El objetivo de esta actividad es:
+
+- Diseñar, implementar y automatizar la ejecución de las pruebas end-to-end en una aplicación web.
 
 ### Pasos previos
 
 ---
 
-1.  Tener HU completas para probar de extremo a extremo
+Tener HU completas para probar de extremo a extremo
 
 ### Descripción actividad
 
@@ -18,10 +20,19 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-Los integrantes realizan la implementación de las pruebas e2e para la aplicación.
+- Los integrantes realizan la implementación de las pruebas e2e para la aplicación.
+
+### Recursos
+
+- Tutorial de pruebas e2e `TODO: Incluir URL del tutorial de pruebas e2e`
 
 ### Entregable
 
 ---
 
-Repositorio de Github actualizado
+- Repositorio de Github actualizado
+
+### Criterios de calificación
+
+- Hay definidas al menos 5 pruebas e2e
+- Las pruebas se ejecutan correctamente

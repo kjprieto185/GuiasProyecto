@@ -1,21 +1,19 @@
 ## Semana 4 - Implementar la página principal y las rutas de navegación
 
-**Descripción:**
-
 ### Objetivos
 
 ---
 
-Los objetivos de esta actividad son:
+El objetivo de esta actividad es:
 
-1. Implementar la página principal de la aplicación
+- Implementar la página principal de la aplicación
 
 ### Pasos previos
 
 ---
 
-1. Haber implementado los componentes relacionados con las historias de usuario de desplegar recursos y sus detalles.
-2. Haber realizdo el tutorial sobre enrutamiento.
+- Haber implementado los componentes relacionados con las historias de usuario de desplegar recursos y sus detalles.
+- Haber realizdo el tutorial sobre enrutamiento.
 
 ### Descripción actividad
 
@@ -25,8 +23,8 @@ Los objetivos de esta actividad son:
 
 Tomando como referencia el prototipo consolidado durante la semana 2, se debe:
 
-1. Crear los módulos de rounting de acuerdo con los recursos
-2. Crear la página principal de la aplicación, junto con el menú que permita la navegación por los recursos y sus detalles
+- Crear los módulos de rounting de acuerdo con los recursos
+- Crear la página principal de la aplicación, junto con el menú que permita la navegación por los recursos y sus detalles
 
 ### Recursos
 
@@ -38,4 +36,9 @@ Tomando como referencia el prototipo consolidado durante la semana 2, se debe:
 
 ---
 
-Repositorio de Github actualizado.
+- Repositorio de Github actualizado.
+
+### Criterios de evaluación
+
+- Al ejecutar la aplicación aparece una página en la que se presenta un menú de navegación
+- Cuando se hace clic en cada opción del menú la aplicación carga el componente respectivo
