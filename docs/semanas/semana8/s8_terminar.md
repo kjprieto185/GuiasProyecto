@@ -6,14 +6,14 @@
 
 El objetivo de esta actividad es:
 
-1. Completar la implementación de las HU del proyecto siguiendo el proceso de integración continua.
+- Completar la implementación de las HU del proyecto siguiendo el proceso de integración continua.
 
 ### Pasos previos
 
 ---
 
-1. Cada integrante tiene actualizado el Kanban con el estado de sus tareas.
-2. Los resultados de las tareas fueron entregados y son consistentes con lo reflejado en el Kanban.
+- Cada integrante tiene actualizado el Kanban con el estado de sus tareas.
+- Los resultados de las tareas fueron entregados y son consistentes con lo reflejado en el Kanban.
 
 ### Descripción actividad
 
@@ -23,8 +23,20 @@ El objetivo de esta actividad es:
 
 Cada integrante termina la implementación del proyecto de acuerdo con la planeación en el kanban.
 
+### Recursos
+
+---
+
+- Enlaces a todos los tutoriales del curso `TODO: Enlazar todos los tutoriales`
+
 ### Entregable
 
 ---
 
-Repositorio de Github actualizado
+- Repositorio de Github actualizado
+
+### Criterios de calificación
+
+---
+
+- Ver rúbrica de la iteración 2 `TODO: enlazar rúbrica de la iteración 2`

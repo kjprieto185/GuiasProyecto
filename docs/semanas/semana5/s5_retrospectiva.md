@@ -2,12 +2,16 @@
 
 ### Objetivos
 
+---
+
 Los objetivos de esta actividad son:
 
 - Diagnosticar el trabajo del equipo en términos del cumplimiento de las reglas de funcionamiento y de los compromisos.
 - Identificar acciones de mejora para que el trabajo del equipo sea más efectivo y eficiente.
 
 ### Pasos previos
+
+---
 
 - Haber revisado el material sobre retrospectivas de equipo.
 
@@ -39,12 +43,20 @@ Luego completa la matriz DAKI:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-Con la coordinación del líder, el equipo discute las reflexiones individuales y completa las acciones concretas que llevará a cabo en la siguiente iteración:
+Con la coordinación del líder, el equipo discute las reflexiones individuales y completa las acciones concretas que llevará a cabo en la siguiente iteración.
+
+### Recursos
+
+- Material sobre la retrospectiva DAKI `TODO: Incluir material`
 
 ### Entregable
+
+---
 
 - Wiki del proyecto actualizada con la retrospectiva
 
 ### Criterios de evaluación
+
+---
 
 - La wiki del proyecto está actualizada con la respuesta a las preguntas y con la matriz DAKI diligenciada.

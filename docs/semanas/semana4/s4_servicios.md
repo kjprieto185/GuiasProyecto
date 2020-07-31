@@ -32,6 +32,8 @@ Cada integrante en su espacio local, para cada uno de los recursos que involucra
 
 ### Recursos
 
+---
+
 - N/A
 
 ### Entregables
@@ -41,5 +43,7 @@ Cada integrante en su espacio local, para cada uno de los recursos que involucra
 - Repositorio de Github actualizado.
 
 ### Criterios de evaluación
+
+---
 
 - Las pruebas de los servicios se ejectutan correctamente

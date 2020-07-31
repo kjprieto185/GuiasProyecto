@@ -2,11 +2,15 @@
 
 ### Objetivos
 
+---
+
 El objetivo de esta actividad es:
 
 - Incorporar elementos de accesibilidad en la aplicación web, para garantizar un nivel de conformidad equivalente a AA según la pauta WCAG 2.1 de 2018.
 
 ### Pasos previos
+
+---
 
 Cada estudiante debe haber:
 
@@ -93,15 +97,20 @@ Luego de la corrección, ejectute la herramienta hasta asegurarse de que no qued
 
 ### Recursos
 
+---
+
 - Herramienta de verificación de accesibilidad.
 
 ### Entregable
+
+---
 
 - Lista de chequeo diligenciada.
 - Repositorio de Github actualizado.
 
 ### Criterios de evaluación
 
-- La lista de chequeo debe estar correctamente diligenciada
+---
 
+- La lista de chequeo debe estar correctamente diligenciada
 - Para evaluar el cumplimiento de esta tarea, el tutor descargará el código del repositorio y ejecutará la herramienta de validación. Se espera no encontrar ningún issue reportado.

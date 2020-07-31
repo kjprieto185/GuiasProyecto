@@ -24,6 +24,8 @@ Tener HU completas para probar de extremo a extremo
 
 ### Recursos
 
+---
+
 - Tutorial de pruebas e2e `TODO: Incluir URL del tutorial de pruebas e2e`
 
 ### Entregable
@@ -33,6 +35,8 @@ Tener HU completas para probar de extremo a extremo
 - Repositorio de Github actualizado
 
 ### Criterios de calificación
+
+---
 
 - Hay definidas al menos 5 pruebas e2e
 - Las pruebas se ejecutan correctamente

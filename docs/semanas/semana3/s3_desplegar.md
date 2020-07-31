@@ -48,4 +48,6 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ### Criterios de evaluación
 
+---
+
 - El listado de recursos se despliega correctamente.

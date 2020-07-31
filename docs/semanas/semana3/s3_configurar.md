@@ -33,3 +33,7 @@ El objetivo de esta actividad es:
 ---
 
 - N/A
+
+### Criterios de evaluación
+
+- N/A

@@ -19,6 +19,8 @@ Los objetivos de esta actividad son:
 
 ### Recursos
 
+---
+
 - Material sobre la retrospectiva de estrella de mar `TODO: Incluir la URL al material`
 
 ### Entregable

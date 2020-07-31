@@ -37,6 +37,8 @@ Cada integrante en su espacio local, para cada uno de los recursos que involucra
 
 ### Recursos
 
+---
+
 - [Tutorial crear módulo, servicio]()
 
 ### Entregables
@@ -46,5 +48,7 @@ Cada integrante en su espacio local, para cada uno de los recursos que involucra
 - Repositorio de Github actualizado.
 
 ### Criterios de evaluación
+
+---
 
 - Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando ng test. Se espera que todos los test pasen sin errores.

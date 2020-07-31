@@ -40,5 +40,7 @@ Tomando como referencia el prototipo consolidado durante la semana 2, se debe:
 
 ### Criterios de evaluación
 
+---
+
 - Al ejecutar la aplicación aparece una página en la que se presenta un menú de navegación
 - Cuando se hace clic en cada opción del menú la aplicación carga el componente respectivo
