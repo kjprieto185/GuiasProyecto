@@ -18,6 +18,8 @@ El objetivo de esta actividad es:
 
 ---
 
+#### ![](./../../assets/images/individuo.png) Actividad individual
+
 - Cada integrante crea en la columna **Por Hacer** del `Kanban` del github de su proyecto, una tarea por cada una de las HU que debe detallar.
 - Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
   estado de la tarea en el kanban de Github, moviendola a la comumna,"En progreso" o "Terminada" respectivamente.

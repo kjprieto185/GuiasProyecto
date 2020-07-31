@@ -13,11 +13,13 @@ El objetivo de esta actividad es:
 
 ---
 
-- El equipo debe haber realizado la actividad de [Distribución HU](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_distribucion)
+- El equipo debe haber realizado las tareas de la semana anterior.
 
 ### Descrición actividad
 
 ---
+
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 - Cada integrante crea en la columna **Por Hacer** del `Kanban` del github de su proyecto, una tarea por cada una de las HU que debe detallar.
 - Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
