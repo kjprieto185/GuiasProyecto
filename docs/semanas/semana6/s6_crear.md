@@ -4,9 +4,9 @@
 
 ---
 
-Los objetivos de esta actividad son:
+El objetivo de esta actividad es:
 
-- Implementar los componentes relacionados con las historias de usuario de crear recursos
+- Implementar los componentes relacionados con las historias de usuario de crear recursos.
 
 ### Pasos previos
 
@@ -22,19 +22,19 @@ Los objetivos de esta actividad son:
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
-- Crear en el servicio del módulo del recurso, la función que permite llamar al API REST para crear un recurso.
+- Crear en el servicio del módulo del recurso la función que permite llamar al API REST para crear un recurso.
 - Probar el servicio del paso anterior.
 - Crear el componente de crear el recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente (formulario) de acuerdo con el prototipo aprobado por el equipo.
 - Invocar el servicio de creación.
-- Verificar que la aplicación funciona correctamente..
-- Realizar commit y solicitar un \`pull request\`.
+- Verificar que la aplicación funciona correctamente
+- Realizar commit y solicitar un pull request.
 
 ### Recursos
 
 ---
 
-- \[Tutorial crear un formulario \](https://https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0)
+- \[Tutorial crear un formulario \](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0)
 
 ### Entregables
 
@@ -46,8 +46,8 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- El formulario para la creación de recursos se visualiza correctamente
-- Cuando se ingresan los datos se validan antes de enviar
-- Se muestra un mensaje descriptivo de los errores del formulario
-- Si los datos son correctos y se da clic en el botón agregar se muestra un mensaje de confirmación
-- Cuando se regresa al listado de recursos, el nuevo recurso asignado se muestra correctamente
+- El formulario para la creación de recursos se visualiza correctamente.
+- Cuando se ingresan los datos se validan antes de enviar.
+- Se muestra un mensaje descriptivo de los errores del formulario.
+- Si los datos son correctos y se da clic en el botón agregar se muestra un mensaje de confirmación.
+- Cuando se regresa al listado de recursos, el nuevo recurso asignado se muestra correctamente.

@@ -1,4 +1,4 @@
-## Semana 8 - Terminar la implementación del proyecto
+## Semana 8 - Terminar la implementación iteración 2
 
 ### Objetivos
 
@@ -21,13 +21,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-Cada integrante termina la implementación del proyecto de acuerdo con la planeación en el kanban.
-
-### Recursos
-
----
-
-- Enlaces a todos los tutoriales del curso `TODO: Enlazar todos los tutoriales`
+- Cada integrante termina la implementación del proyecto de acuerdo con la planeación en el kanban, para esto revisará que no tenga tareas por terminar.
 
 ### Entregable
 

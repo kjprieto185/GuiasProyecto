@@ -14,8 +14,8 @@ El objetivo de esta actividad es:
 
 ---
 
-- Haber terminado la retrospectiva de la iteración anterior
-- Tener claro el alcance de esta iteración
+- Haber terminado la retrospectiva de la iteración anterior.
+- Tener claro el alcance de esta iteración.
 
 ### Descripción actividad
 
@@ -23,14 +23,15 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-- Definir las reglas de funcionamiento: El equipo discute y plantea las reglas de funcionamiento y los compromisos teniendo en cuenta el documento de retrospectiva.
-- Definir el líder: Si así lo considera el equipo, se debe definir quién será el nuevo líder del proyecto.
+- Tomar el listado de reglas del lanzamiento 1 e incluyan un comentario al lado indicando si se cumplieron o no, si fueron útiles o no.
+- Sobre la reflexión anterior, definir las reglas de funcionamiento. Para esto el equipo discute y plantea las reglas de funcionamiento y los compromisos teniendo en cuenta el documento de retrospectiva.
+- Definir el líder. Si así lo considera el equipo, se debe definir quién será el nuevo líder del proyecto.
 
 ### Recursos
 
 ---
 
-- Formato de lanzamiento disponible en la wiki del equipo
+- Formato de lanzamiento disponible en la wiki del equipo.
 
 ### Entregable
 
@@ -42,6 +43,6 @@ El objetivo de esta actividad es:
 
 ---
 
-- Existe mínimo 5 reglas y todas son verificables
-- Existe mínimo una regla asociada con cada categoría
-- La tabla de conformación del equipo está completa
+- Existe mínimo 5 reglas y todas son verificables.
+- Existe mínimo una regla asociada con cada categoría.
+- La tabla de conformación del equipo está completa.

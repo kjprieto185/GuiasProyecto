@@ -12,7 +12,7 @@ El objetivo de esta actividad es:
 
 ---
 
-Tener HU completas para probar de extremo a extremo
+- Tener HU completas para probar de extremo a extremo.
 
 ### Descripción actividad
 
@@ -20,13 +20,13 @@ Tener HU completas para probar de extremo a extremo
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-- Los integrantes realizan la implementación de las pruebas e2e para la aplicación.
+- Los integrantes realizan la implementación de las pruebas e2e para la aplicación para cada una de las HU asignadas.
 
 ### Recursos
 
 ---
 
-- Tutorial de pruebas e2e `TODO: Incluir URL del tutorial de pruebas e2e`
+- [Tutorial de pruebas e2e](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-pruebas-e2e/index.html#0).
 
 ### Entregable
 
@@ -38,5 +38,5 @@ Tener HU completas para probar de extremo a extremo
 
 ---
 
-- Hay definidas al menos 5 pruebas e2e
-- Las pruebas se ejecutan correctamente
+- Hay definidas al menos una prueba e2e para cada historia de usuario.
+- Las pruebas se ejecutan correctamente.
