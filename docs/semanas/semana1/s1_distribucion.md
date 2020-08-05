@@ -18,7 +18,7 @@ Para realizar esta actividad:
 
 - Cada estudiante debe haber leído la lista de historias de usuario propuesta para implementación en la iteración 1. Esta lista está disponible en la wiki del proyecto.
 
-- El equipo debe haber realizado la actividad de [Lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_lanzamiento)
+- El equipo debe haber realizado la actividad de [Lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_lanzamiento).
 
 ### Descripción actividad
 
@@ -28,7 +28,7 @@ Para realizar esta actividad:
 
 - Se discute el alcance de las HU que se van a implementar en la iteración 1.
 
-- Se distribuye, entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. La distribución para el detalle de las historias de usuario se hará asi:
+- Se distribuyen, entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. La distribución para el detalle de las historias de usuario se hará asi:
 
   - Integrante 1: HU_01 y HU_02
   - Integrante 2: HU_03 y HU_04
@@ -73,7 +73,7 @@ Ejemplo:
 
 ---
 
-- La tabla quedó completada con la asígnación del detalle y de la revisión.
+- La tabla quedó completada con la asignación del detalle y de la revisión.
 
 - El Kanban quedó actualizado siguiendo el formato solicitado.
 

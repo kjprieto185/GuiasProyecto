@@ -6,7 +6,7 @@
 
 El objetivo de esta actividad es:
 
-- Implementar la página principal de la aplicación
+- Implementar la página principal de la aplicación.
 
 ### Pasos previos
 
@@ -21,10 +21,10 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-Tomando como referencia el prototipo consolidado durante la semana 2, se debe:
+Tomando como referencia el prototipo consolidado durante la semana 2, el equipo debe:
 
-- Crear los módulos de rounting de acuerdo con los recursos
-- Crear la página principal de la aplicación, junto con el menú que permita la navegación por los recursos y sus detalles
+- Crear los módulos de routing de acuerdo con los recursos.
+- Crear la página principal de la aplicación, junto con el menú que permita la navegación por los recursos y sus detalles.
 
 ### Recursos
 
@@ -42,5 +42,5 @@ Tomando como referencia el prototipo consolidado durante la semana 2, se debe:
 
 ---
 
-- Al ejecutar la aplicación aparece una página en la que se presenta un menú de navegación
-- Cuando se hace clic en cada opción del menú la aplicación carga el componente respectivo
+- Al ejecutar la aplicación aparece una página en la que se presenta un menú de navegación.
+- Cuando se hace clic en cada opción del menú la aplicación carga el componente respectivo.

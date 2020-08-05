@@ -13,7 +13,7 @@ Los objetivos de esta actividad son:
 
 ---
 
-- Haber sincronizado su espacio local con el repositorio github del equipo.
+- Haber sincronizado su espacio local con el repositorio Github del equipo.
 - Haber realizado la implementación de las HU de listar recursos.
 
 ### Descripción actividad
@@ -22,19 +22,19 @@ Los objetivos de esta actividad son:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-Cada integrante en su espacio local, para cada uno de los recursos que involucrados en las historias de usuario asignadas, debe:
+Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
 - Programar el método `http get` para traer un elemento de un recurso.
 - Programar la prueba del servicio.
-- Verificar que todo esté funcionando.
+- Ejecutar la prueba del servicio.
 - Realizar commit y solicitar un `pull request`.
-- (`Aquí va un paso de acpetar o no el pull request debemos verificar con Gloria el proceso del flujo de trabajo para que quede igual al del otro curso`)
+- (`Aquí va un paso de aceptar o no el pull request debemos verificar con Gloria el proceso del flujo de trabajo para que quede igual al del otro curso`)
 
 ### Recursos
 
 ---
 
-- N/A
+- [Tutorial de pruebas unitarias en Angular](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-pruebas-unitarias/index.html#0)
 
 ### Entregables
 
@@ -46,4 +46,6 @@ Cada integrante en su espacio local, para cada uno de los recursos que involucra
 
 ---
 
-- Las pruebas de los servicios se ejectutan correctamente
+- En el código se incluye al menos una prueba por cada servicio.
+
+- Las pruebas de los servicios se ejectutan correctamente.

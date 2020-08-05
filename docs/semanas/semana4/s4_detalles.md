@@ -6,23 +6,21 @@
 
 El objetivo de esta actividad es:
 
-- Implementar los componentes relacionados con las historias de usuario de desplegar detalles de los recursos
+- Implementar los componentes relacionados con las historias de usuario de desplegar detalles de los recursos.
 
 ### Pasos previos
 
 ---
 
 - Haber implementado los componentes relacionados con las historias de usuario de desplegar recursos.
+- Realizar un pull sobre el repositorio y asegurarse que la aplicación en su espacio local funciona.
+- Completar la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrates.
 
 ### Descripción actividad
 
 ---
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
-
-- Antes de iniciar esta actividad, ud. debe realizar un pull sobre el repositorio y
-  asegurarse que la aplicación en su espacio local funciona.
-- Complete la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrates.
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 

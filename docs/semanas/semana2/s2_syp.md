@@ -13,7 +13,7 @@ El objetivo de esta actividad es:
 
 ---
 
-- El equipo debe haber realizado las tareas de la semana anterior
+- El equipo debe haber realizado las tareas de la semana anterior.
 
 ### Descrición actividad
 
@@ -21,9 +21,9 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante crea en la columna **Por Hacer** del `Kanban` del github de su proyecto, una tarea por cada una de las HU que debe detallar.
+- Cada integrante crea en la columna **Por Hacer** del `Kanban` del Github de su proyecto, una tarea por cada una de las HU que debe detallar.
 - Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
-  estado de la tarea en el kanban de Github, moviendola a la comumna,"En progreso" o "Terminada" respectivamente.
+  estado de la tarea en el Kanban de Github, moviéndola a la columna "En progreso" o "Terminada" respectivamente.
 
 ### Recursos
 
@@ -47,11 +47,11 @@ Ejemplo:
 
 ---
 
-Kanban del proyecto actualizado en Github
+- Kanban del proyecto actualizado en Github.
 
 ### Criterios de evaluación
 
 ---
 
-- Kanban con las tareas de la semana actualizado
-- Tareas distribuídas equitativamente
+- Kanban con las tareas de la semana actualizado siguiendo el formato establecido.
+- Tareas distribuidas equitativamente.

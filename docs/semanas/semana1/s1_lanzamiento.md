@@ -61,19 +61,19 @@ Con la coordinación del líder:
 
 ---
 
-- Formato lanzamiento disponible en la wiki del equipo
+- Formato lanzamiento disponible en la wiki del equipo.
 
 ### Entregables
 
 ---
 
 - En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido.
-- Preguntas en el foro en caso de tenerlas
+- Preguntas en el foro en caso de tenerlas.
 
 ### Criterios de evaluación
 
 ---
 
-- Existe mínimo 5 reglas y todas son verificables
-- Existe mínimo una regla asociada con cada categoría
-- La tabla de conformación del equipo está completa
+- Existe mínimo 5 reglas y todas son verificables.
+- Existe mínimo una regla asociada con cada categoría.
+- La tabla de conformación del equipo está completa.

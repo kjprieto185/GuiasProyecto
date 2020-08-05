@@ -15,7 +15,7 @@ El objetivo de esta actividad es:
 Cada estudiante debe haber:
 
 - Revisado el material sobre accesibilidad.
-- Realizado la lectura sobre "Historias de accesibilidad"
+- Realizado la lectura sobre "Historias de accesibilidad".
 - Avanzado en la implementación de las HU relacionadas con los despliegues.
 
 ### Descripción actividad
@@ -24,9 +24,9 @@ Cada estudiante debe haber:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-Durante el proceso de elaboración de la aplicación web, el equipo debe constratar que cada una de las guías correspondientes al nivel de conformidad AA según la pauta WCAG 2.1 2018 se cumplen.
+- Durante el proceso de elaboración de la aplicación web, el equipo debe constratar que cada una de las guías correspondientes al nivel de conformidad AA según la pauta WCAG 2.1 2018 se cumplen.
 
-Para efectos de brevedad, la tabla solo presenta un resumen de criterios alineados con el nivel AA; no obstante en la [referencia rápida de la guía](https://www.w3.org/WAI/WCAG21/quickref/) se encuentra información detallada de cada uno.
+- Para efectos de brevedad, la tabla solo presenta un resumen de criterios alineados con el nivel AA; no obstante en la [referencia rápida de la guía](https://www.w3.org/WAI/WCAG21/quickref/) se encuentra información detallada de cada uno.
 
 | Criterio       | Categoría                             | Guía                                           |
 | -------------- | ------------------------------------- | ---------------------------------------------- |
@@ -81,36 +81,35 @@ Para efectos de brevedad, la tabla solo presenta un resumen de criterios alinead
 |                |                                       | 4.1.2 Nombre, rol, valor                       |
 |                |                                       | 4.1.3 Mensajes de estado                       |
 
+- La primera actividad consiste en la revisión de los criterios. Para esto de común acuerdo con su grupo, distribuya los criterios de forma equitativa. A quien se le asigne el criterio será responsable de verificar si este está o no presente en la aplicación.
+
+- La segunda actividad consiste en la correción de los hallazgos. De igual forma, la asignación de las correciones se hará de forma equitativa.
+
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-La primera actividad consiste en la revisión de los criterios. Para esto de común acuerdo con su grupo, distribuya los criterios de forma equitativa. A quien se le asigne el criterio será responsable de verificar si este está o no presente en la aplicación.
+- Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE. Para eso, instale el plugin AXE en su navegador. Está disponible para [Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/) y para [Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
 
-La segunda actividad consiste en la correción de los hallazgos. De igual forma, la asignación de las correciones se hará de forma equitativa.
+- En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de resolverlos.
 
-Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE.
-
-Para eso, instale el plugin AXE en su navegador. Está disponible para [Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/) y para [Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
-
-En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de resolverlos.
-
-Luego de la corrección, ejectute la herramienta hasta asegurarse de que no queda ningún issue por resolver.
+- Luego de la corrección, ejectute la herramienta hasta asegurarse de que no queda ningún issue por resolver.
 
 ### Recursos
 
 ---
 
-- Herramienta de verificación de accesibilidad.
+- [Herramienta de verificación de accesibilidad](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd).
 
 ### Entregable
 
 ---
 
-- Lista de chequeo diligenciada.
+- Lista de chequeo diligenciada. Para esto incluya una columna a la tabla presentada anteriormente en la que indique si el criterio ha sido cubierto.
+
 - Repositorio de Github actualizado.
 
 ### Criterios de evaluación
 
 ---
 
-- La lista de chequeo debe estar correctamente diligenciada
+- La lista de chequeo debe estar correctamente diligenciada.
 - Para evaluar el cumplimiento de esta tarea, el tutor descargará el código del repositorio y ejecutará la herramienta de validación. Se espera no encontrar ningún issue reportado.

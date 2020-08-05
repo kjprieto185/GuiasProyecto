@@ -1,4 +1,4 @@
-## Semana 3 - Desplegar listas
+## Semana 3 - Implementar el despliegue de recursos
 
 ### Objetivos
 
@@ -12,16 +12,17 @@ El objetivo de esta actividad es:
 
 ---
 
-- Haber realizado el paso de creación, módulos, servicios e integrado en el repositorio del equipo.
+- Haber realizado el paso de crear módulos, servicios y estructura de recursos.
 
-### Descripci+on actividad
+- Haber integrado lo anterior al repositorio del equipo.
+
+### Descripción de actividad
 
 ---
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Antes de iniciar esta actividad, ud. debe realizar un pull sobre el repositorio y
-  asegurarse que la aplicación en su espacio local funciona.
+- Antes de iniciar esta actividad, ud. debe realizar un pull sobre el repositorio y asegurarse que la aplicación en su espacio local funciona.
 - Complete la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrates.
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
