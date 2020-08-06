@@ -31,13 +31,14 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 - Programar el método `http get` para traer la colección de elementos del recurso.
 - Programar la prueba del servicio.
 - Verificar que todo esté funcionando.
-- Realizar commit y solicitar un `pull request`.
-- (`Aquí va un paso de aceptar o no el pull request debemos verificar con Gloria el proceso del flujo de trabajo para que quede igual al del otro curso`)
+- Realizar commit en su repositorio local y solicitar un `pull request`.
+- El líder del grupo aceptar o no el pull request
 
 ### Recursos
 
 ---
 
+- [Tutorial de configuración de ambiente de trabajo](https://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0)
 - [Tutorial crear módulo, servicio]()
 
 ### Entregables

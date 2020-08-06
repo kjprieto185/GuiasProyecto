@@ -15,7 +15,5 @@ Los objetivos de la semana 3 son:
 | Actividad                                                     |
 | ------------------------------------------------------------- |
 | [Hacer seguimiento y planeación ](s3_syp)                     |
-| [Configurar el ambiente local de trabajo ](s3_configurar)     |
-| [Definir el gitflow del proyecto](s3_gitflow)                 |
 | [Crear módulos, servicios y estructuras de datos](s3_modulos) |
 | [Implementar el despliegue de recursos](s3_desplegar)         |
