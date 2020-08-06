@@ -32,7 +32,7 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 - Programar la prueba del servicio.
 - Verificar que todo esté funcionando.
 - Realizar commit en su repositorio local y solicitar un `pull request`.
-- El líder del grupo aceptar o no el pull request
+- El líder del grupo acepta o no el pull request
 
 ### Recursos
 
