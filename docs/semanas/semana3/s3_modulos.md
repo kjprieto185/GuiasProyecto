@@ -14,8 +14,8 @@ Los objetivos de esta actividad son:
 ---
 
 - Haber configurado el ambiente local.
-- Tener el listado de las HU que se van a implementar `falta algo para identificar el recurso`.
-- Realizar el tutorial ejemplo de este paso `falta completar este tutorial`.
+- Tener el listado de las HU que se van a implementar.
+- Realizar el tutorial de ejemplo.
 
 ### Descripción actividad
 
