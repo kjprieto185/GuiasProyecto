@@ -7,7 +7,8 @@
 El objetivo de esta actividad es:
 
 - Contrastar lo planeado en la semana anterior contra lo logrado para ilustrar cuál es el avance del proyecto.
-- Construir el plan de la semana para cumplir con los hitos establecidos.
+- Proponer acciones de mejora en caso de desfase de la planeación
+- Construir el plan de la semana para cumplir con los hitos establecidos y las acciones de mejora.
 
 ### Pasos previos
 
