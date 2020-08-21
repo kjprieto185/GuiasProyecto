@@ -1,4 +1,4 @@
-## Semana 2 - Hacer seguimiento y planeación
+## Semana 2 - Hacer el seguimiento de la semana 1 y la planeación de la semana 2
 
 ### Objetivos
 
@@ -22,7 +22,7 @@ Los objetivos de esta actividad son:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante crea en la columna **Por Hacer** del Kanban del Github de su proyecto, una tarea por cada actividad de la semana.
+- Cada integrante crea en la columna "Por Hacer" del Kanban del Github de su proyecto, una tarea por cada actividad de la semana.
 - Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el estado de la tarea en el Kanban de Github, moviéndola a la columna "En progreso" o "Terminada" según corresponda.
 
 ### Recursos

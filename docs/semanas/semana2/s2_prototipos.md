@@ -1,4 +1,4 @@
-## Semana 2 - Elaborar prototipos
+## Semana 2 - Elaborar prototipos de la aplicación
 
 ### Objetivos
 

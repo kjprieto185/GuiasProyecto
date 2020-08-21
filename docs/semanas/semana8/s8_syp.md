@@ -1,4 +1,4 @@
-## Semana 8 - Hacer seguimiento y planeación
+## Semana 8 - Hacer el seguimiento de la semana 7 y la planeación de la semana 8
 
 ### Objetivos
 

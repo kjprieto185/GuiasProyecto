@@ -10,9 +10,9 @@ Los objetivos de la semana 8 son:
 
 ### Resumen de las Actividades
 
-| Actividad                                                |
-| -------------------------------------------------------- |
-| [Hacer seguimiento y planeación](s8_syp)                 |
-| [Terminar la implementación iteración 2 ](s8_terminar)   |
-| [Elaborar retrospectiva ](s8_retrospectiva)              |
-| [Preparar presentación final en video ](s8_presentacion) |
+| Actividad                                                                    |
+| ---------------------------------------------------------------------------- |
+| [Hacer el seguimiento de la semana 7 y la planeación de la semana 8](s8_syp) |
+| [Terminar la implementación iteración 2 ](s8_terminar)                       |
+| [Elaborar retrospectiva ](s8_retrospectiva)                                  |
+| [Preparar presentación final en video ](s8_presentacion)                     |

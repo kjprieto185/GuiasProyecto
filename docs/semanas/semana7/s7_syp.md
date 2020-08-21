@@ -1,4 +1,4 @@
-## Semana 7 - Hacer seguimiento y planeación
+## Semana 7 - Hacer el seguimiento de la semana 6 y la planeación de la semana 7
 
 ### Objetivos
 

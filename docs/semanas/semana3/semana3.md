@@ -12,8 +12,8 @@ Los objetivos de la semana 3 son:
 
 ### Resumen de las Actividades
 
-| Actividad                                                     |
-| ------------------------------------------------------------- |
-| [Hacer seguimiento y planeación ](s3_syp)                     |
-| [Crear módulos, servicios y estructuras de datos](s3_modulos) |
-| [Implementar el despliegue de recursos](s3_desplegar)         |
+| Actividad                                                                    |
+| ---------------------------------------------------------------------------- |
+| [Hacer el seguimiento de la semana 2 y la planeación de la semana 3](s3_syp) |
+| [Crear módulos, servicios y estructuras de datos](s3_modulos)                |
+| [Implementar el despliegue de recursos](s3_desplegar)                        |

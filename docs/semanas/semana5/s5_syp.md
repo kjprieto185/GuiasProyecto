@@ -1,4 +1,4 @@
-## Semana 5 - Hacer seguimiento y planeación
+## Semana 5 - Hacer el seguimiento de la semana 4 y la planeación de la semana 5
 
 ### Objetivos
 

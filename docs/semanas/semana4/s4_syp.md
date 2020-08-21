@@ -1,4 +1,4 @@
-## Semana 4 - Hacer seguimiento y planeación
+## Semana 4 - Hacer el seguimiento de la semana 3 y la planeación de la semana 4
 
 ### Objetivos
 

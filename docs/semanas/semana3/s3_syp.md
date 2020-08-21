@@ -1,4 +1,4 @@
-## Semana 3 - Hacer seguimiento y planeación
+## Semana 3 - Hacer el seguimiento de la semana 2 y la planeación de la semana 3
 
 ### Objetivos
 
