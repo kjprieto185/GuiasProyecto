@@ -24,7 +24,7 @@ Los objetivos de esta actividad son:
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
-- Programar el método `http get` para traer un elemento de un recurso.
+- Programar el método `http get` para traer el detalle de un recurso.
 - Programar la prueba del servicio.
 - Ejecutar la prueba del servicio.
 - Realizar commit en el repositorio local y solicitar un `pull request`.

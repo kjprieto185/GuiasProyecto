@@ -27,7 +27,7 @@ El objetivo de esta actividad es:
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
-- Crear el componente de listar o desplegar el recurso correspondiente siguiendo las convenciones de nombramiento.
+- Crear el componente de listar o desplegar del recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente de acuerdo con el prototipo aprobado por el equipo.
 - Invocar el servicio construido en el paso anterior.
 - `aquí vamos a pedir prueba del componente?`.
