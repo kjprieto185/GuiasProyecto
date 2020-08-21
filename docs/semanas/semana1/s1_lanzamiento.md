@@ -17,8 +17,8 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 #### Equipo
 
-- Confirmado quienes son sus compañer@s de equipo.
-- Haber definido, junto con los compañer@s de equipo, un horario para realizar la reunión de lanzamiento.
+- Confirmado quienes son sus compañeros de equipo.
+- Haber definido, junto con los compañeros de equipo, un horario para realizar la reunión de lanzamiento.
 - Haber creado una cuenta en github con el correo @uniandes, o asociar el correo @uniandes a su cuenta de github existente.
 
 #### Proyecto
@@ -28,12 +28,11 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 #### Configuración ambiente
 
-- Tener las credenciales de acceso a su espacio en github para el proyecto.
-- Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. `[ref configuración espacio de trabajo y github]`
+- Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. [En este enlace está el tutorial para configurar el ambiente de trabajo](http://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0).
 
 #### Guías
 
-- Visto el video de recomendación sobre las reuniones de equipo.
+- Visto el [video de recomendación sobre las reuniones de equipo](https://vimeo.com/conectate/review/449686277/5465152b4a).
 - Haber leído la [guía de preparación para el lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_guia_lanzamiento)
 
 ### Descripción actividad
@@ -47,7 +46,7 @@ Durante la reunión de lanzamiento:
 - Los integrantes del equipo se conocen, revisan sus disponibilidades y establecen un horario para las reuniones semanales de
   seguimiento y planeación.
 - Revisan si hay entendimiento sobre los objetivos y alcance del proyecto,
-  la estrategia de las iteraciones y el proceso de planeación y seguimiento. En caso de dudas, estas se transmiten al Tutor.
+  la estrategia de las iteraciones y el proceso de planeación y seguimiento. En caso de dudas, estas se transmiten al tutor.
 - De común acuerdo, el equipo define quién será el líder del equipo.
 
 Con la coordinación del líder:
@@ -75,5 +74,5 @@ Con la coordinación del líder:
 ---
 
 - Existe mínimo 5 reglas y todas son verificables.
-- Existe mínimo una regla asociada con cada categoría.
+- Existe mínimo una regla asociada con cada categoría (comunicación, puntualidad, colaboración y calidad del trabajo).
 - La tabla de conformación del equipo está completa.

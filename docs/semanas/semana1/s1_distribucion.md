@@ -8,7 +8,6 @@ Los objetivos de esta actividad son:
 
 - Discutir el alcance de las historias de usuario que se implementarán en la iteración 1.
 - Distribuir de forma balanceada entre los integrantes del equipo las historias de usuario para detallarlas y revisarlas.
-- Construir el plan de la semana relacionado con el detalle y revisión de las historias de usuario.
 
 ### Pasos previos
 
@@ -36,30 +35,6 @@ Para realizar esta actividad:
 
 - Se distribuyen las HU para ser revisadas por un integrante distinto a quién la detalló.
 
-#### ![](./../../assets/images/individuo.png) Actividad individual
-
-- Cada integrante crea en la columna **Por Hacer** del `Kanban` del Github de su proyecto, una tarea por cada una de las HU que debe detallar.
-
-- Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
-  estado de la tarea en el Kanban de Github, moviéndola a la columna **En progreso** o **Terminada** respectivamente.
-
-### Recursos
-
----
-
-El siguiente es el formato que deben usar en el Kanban para la definición de una tarea:
-
-| Tarea: Detallar la HU \<\< aquí va el nombre de la historia >> |
-| -------------------------------------------------------------- |
-| Responsable: \<\< _aquí va el nombre del responsable_ >>       |
-| Fecha entrega: \<\< _aquí va la fecha de entrega_ >>           |
-
-Ejemplo:
-
-| ![](./../../assets/images/kanbanTODO.PNG) |
-| ----------------------------------------- |
-| Fig. Ejemplo Kanban                       |
-
 ### Entregables
 
 ---
@@ -73,8 +48,4 @@ Ejemplo:
 
 ---
 
-- La tabla quedó completada con la asignación del detalle y de la revisión.
-
-- El Kanban quedó actualizado siguiendo el formato solicitado.
-
-- El Kanban refleja el estado de las actividades durante el proceso.
+- En la wiki del proyecto se incluye el detalle y de la revisión de cada historia de usuario.
