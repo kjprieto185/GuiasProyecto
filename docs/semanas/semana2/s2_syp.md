@@ -4,7 +4,7 @@
 
 ---
 
-El objetivo de esta actividad es:
+Los objetivos de esta actividad son:
 
 - Contrastar lo planeado en la semana anterior contra lo logrado para ilustrar cuál es el avance del proyecto.
 - Proponer acciones de mejora en caso de desfase de la planeación
@@ -22,9 +22,8 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante crea en la columna **Por Hacer** del `Kanban` del Github de su proyecto, una tarea por cada una de las HU que debe detallar.
-- Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
-  estado de la tarea en el Kanban de Github, moviéndola a la columna "En progreso" o "Terminada" respectivamente.
+- Cada integrante crea en la columna **Por Hacer** del Kanban del Github de su proyecto, una tarea por cada actividad de la semana.
+- Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el estado de la tarea en el Kanban de Github, moviéndola a la columna "En progreso" o "Terminada" según corresponda.
 
 ### Recursos
 
@@ -32,11 +31,11 @@ El objetivo de esta actividad es:
 
 Formato definición de una tarea:
 
-| Tarea: Detallar la HU \<\< aquí va el nombre de la historia >>               |
-| ---------------------------------------------------------------------------- |
-| Responsable: \<\< _aquí va el nombre del responsable_ >>                     |
-| Fecha entrega: \<\< _aquí va la fecha de entrega_ >>                         |
-| Tiempo estimado: \<\< _aquí va el tiempo que se estima tomará esta tarea_ >> |
+| Tarea: Detallar la HU << _aquí va el nombre de la historia_ >>             |
+| -------------------------------------------------------------------------- |
+| Responsable: << _aquí va el nombre del responsable_ >>                     |
+| Fecha entrega: << _aquí va la fecha de entrega_ >>                         |
+| Tiempo estimado: << _aquí va el tiempo que se estima tomará esta tarea_ >> |
 
 Ejemplo:
 
