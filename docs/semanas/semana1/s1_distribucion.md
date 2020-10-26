@@ -48,4 +48,4 @@ Para realizar esta actividad:
 
 ---
 
-- En la wiki del proyecto se incluye el detalle y de la revisión de cada historia de usuario.
+- En la wiki del proyecto se incluye el detalle y la revisión de cada historia de usuario.
