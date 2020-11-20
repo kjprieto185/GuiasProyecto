@@ -87,7 +87,7 @@ Cada estudiante debe haber:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE. Para eso, instale el plugin AXE en su navegador. Está disponible para [Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/) y para [Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
+- Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE. Para eso, instale el plugin AXE en su navegador. Está disponible para [Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) y para [Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
 
 - En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de resolverlos.
 
@@ -97,7 +97,8 @@ Cada estudiante debe haber:
 
 ---
 
-- [Herramienta de verificación de accesibilidad](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd).
+- [Herramienta de verificación de accesibilidad - Plugin para Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd).
+- [Herramienta de verificación de accesibilidad - Plugin para Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
 
 ### Entregable
 
