@@ -4,13 +4,16 @@
 
 Los objetivos de la semana 2 son:
 
-1. Aplicar en el diseño de un prototipo de una aplicación web los conceptos de diseño de interfaz de usuario y
+1. Distribuir las historias de usuario para detallarlas y revisarlas.
+2. Aplicar en el diseño de un prototipo de una aplicación web los conceptos de diseño de interfaz de usuario y
    los patrones básicos de usabilidad.
-2. Utilizar el proceso de seguimiento y planeación para mejorar la coordinación del equipo.
+3. Utilizar el proceso de seguimiento y planeación para mejorar la coordinación del equipo.
 
 ### Resumen de las Actividades
 
 | Actividad                                                                    |
 | ---------------------------------------------------------------------------- |
-| [Hacer el seguimiento de la semana 1 y la planeación de la semana 2](s2_syp) |
+| [Hacer la planeación de la semana 2](s2_syp)                                 |
+| [Distribuir las historias de usuario](s1_distribucion)                       |
+| [Detallar y revisar las historias de usuario](s1_detallar)                   |
 | [Elaborar prototipos de la aplicación ](s2_prototipos)                       |
