@@ -6,7 +6,7 @@
 
 Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurre de forma espontánea. Para que esto suceda, el equipo debe realizar ciertas acciones encaminadas a atacar los retos que enfrenta.
 
-Los retos más comunes que un equipo de software enfrenta están relacionados con no tener claramente definido y entendido:
+Los retos más comunes que un equipo de software enfrenta están relacionados con no tener claramente definidos y entendidos:
 
 - Los objetivos que se pretende lograr. Esto puede tener varias consecuencias como, por ejemplo:
 
@@ -14,7 +14,7 @@ Los retos más comunes que un equipo de software enfrenta están relacionados co
 
   - La planeación superficial o en muchos casos inadecuada: planes no balanceados, imprecisos, demasiado generales o imposibles de cumplir
 
-  - La dificultad para saber cuál es el estado del proyecto. “Si no se para dónde voy, cualquier mapa me sirve”`[dening?]`.
+  - La dificultad para saber cuál es el estado del proyecto. “Si no se para dónde voy, cualquier mapa me sirve”.
 
 - La forma de relacionarse entre los integrantes. Las dificultades de este reto están relacionadas con:
 
