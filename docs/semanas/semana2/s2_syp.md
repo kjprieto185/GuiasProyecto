@@ -1,20 +1,12 @@
-## Semana 2 - Hacer el seguimiento de la semana 1 y la planeación de la semana 2
+## Semana 2 - Hacer la planeación de la semana 2
 
 ### Objetivos
 
 ---
 
-Los objetivos de esta actividad son:
+El objetivo de esta actividad es:
 
-- Contrastar lo planeado en la semana anterior contra lo logrado para ilustrar cuál es el avance del proyecto.
-- Proponer acciones de mejora en caso de desfase de la planeación
 - Construir el plan de la semana para cumplir con los hitos establecidos y las acciones de mejora.
-
-### Pasos previos
-
----
-
-- El equipo debe haber realizado las tareas de la semana anterior.
 
 ### Descrición actividad
 
@@ -53,6 +45,5 @@ Ejemplo:
 
 ---
 
-- En el seguimiento se contestaron las preguntas, se explica el estado de la semana y se definen los pasos a seguir.
 - Kanban con las tareas de la semana actualizado siguiendo el formato establecido.
 - Tareas distribuidas equitativamente.
