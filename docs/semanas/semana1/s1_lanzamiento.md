@@ -18,7 +18,6 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 #### Equipo
 
 - Confirmado quienes son sus compañeros de equipo.
-- Haber definido, junto con los compañeros de equipo, un horario para reunirse.
 - Haber creado una cuenta en github con el correo @uniandes, o asociar el correo @uniandes a su cuenta de github existente.
 
 #### Proyecto
@@ -43,8 +42,7 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 Durante la reunión de lanzamiento:
 
-- Los integrantes del equipo se conocen, revisan sus disponibilidades y establecen un horario para las reuniones semanales de
-  seguimiento y planeación.
+- Los integrantes del equipo se conocen, revisan sus disponibilidades y establecen un horario para las actividades del proyecto.
 - Revisan si hay entendimiento sobre los objetivos y alcance del proyecto,
   la estrategia de las iteraciones y el proceso de planeación y seguimiento. En caso de dudas, estas se transmiten al tutor.
 - De común acuerdo, el equipo define quién será el líder del equipo.
