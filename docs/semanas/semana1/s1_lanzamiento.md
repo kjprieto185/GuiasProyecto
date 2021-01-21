@@ -18,7 +18,7 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 #### Equipo
 
 - Confirmado quienes son sus compañeros de equipo.
-- Haber definido, junto con los compañeros de equipo, un horario para realizar la reunión de lanzamiento.
+- Haber definido, junto con los compañeros de equipo, un horario para reunirse.
 - Haber creado una cuenta en github con el correo @uniandes, o asociar el correo @uniandes a su cuenta de github existente.
 
 #### Proyecto
