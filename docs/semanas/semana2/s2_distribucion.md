@@ -1,4 +1,4 @@
-## Semana 1 - Distribuir las historias de usuario (HU)
+## Semana 2 - Distribuir las historias de usuario (HU)
 
 ### Objetivos
 

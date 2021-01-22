@@ -1,4 +1,4 @@
-## Semana 1 - Detallar y revisar las historias de usuario
+## Semana 2 - Detallar y revisar las historias de usuario
 
 ### Objetivos
 
