@@ -43,7 +43,23 @@ Los servicios que usará el front son provistos por un API REST que está previa
 | Lenguaje de programación | Typescript                                |
 | Repositorio              | https://github.com/TiCSw/mt1_vinilos_back |
 
-La documentación del API está publicada en [este enlace](https://github.com/TiCSw/mt1_vinilos_front/wiki/apirest_vinilos)
+#### Documentación del API
+
+- [Álbum](https://documenter.getpostman.com/view/8840688/SzmZd1L6)
+- [Álbum Banda](https://documenter.getpostman.com/view/8840688/SzmZd1QV)
+- [Álbum Músico](https://documenter.getpostman.com/view/8840688/SzmZd1QW)
+- [Banda](https://documenter.getpostman.com/view/8840688/SzmZd1Us)
+- [Banda Álbum](https://documenter.getpostman.com/view/8840688/SzmZd1Ut)
+- [Banda Músico](https://documenter.getpostman.com/view/8840688/SzmZd1Uu)
+- [Coleccionista](https://documenter.getpostman.com/view/8840688/SzmZd1Ux)
+- [Coleccionista Álbum](https://documenter.getpostman.com/view/8840688/SzmZd1Uy)
+- [Coleccionista Artista](https://documenter.getpostman.com/view/8840688/SzmZd1Uz)
+- [Comentarios](https://documenter.getpostman.com/view/8840688/SzmZd1V1)
+- [Músico](https://documenter.getpostman.com/view/8840688/SzmZd1ZH)
+- [Músico Álbum](https://documenter.getpostman.com/view/8840688/SzmZd1ZK)
+- [Artista Premio](https://documenter.getpostman.com/view/8840688/SzmZd1ZL)
+- [Premio](https://documenter.getpostman.com/view/8840688/SzmZd1ZM)
+- [Tracks](https://documenter.getpostman.com/view/8840688/SzmZd1ZN)
 
 ### Front
 
