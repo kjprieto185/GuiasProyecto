@@ -33,8 +33,6 @@ Para realizar esta actividad:
   - Integrante 2: HU_03 y HU_04
   - Integrante 3: HU_05 y HU_06
 
-- Se distribuyen las HU para ser revisadas por un integrante distinto a quién la detalló.
-
 ### Entregables
 
 ---
