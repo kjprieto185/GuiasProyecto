@@ -6,3 +6,5 @@
 | Criterios de aceptación       | Si no hay álbumes registrados, se debe mostrar una imagen indicando que el catálogo está vacío e invitando al usuario a registrar un nuevo álbum |
 | Mockups                       | ![](../../assets/images/ListadoArtistas.png)                                                                                                     |
 | Revisión                      |                                                                                                                                                  |
+
+Este es un ejemplo para detallar la historia de usuario, no obstante se espera que sus formatos sean más elaborados.
