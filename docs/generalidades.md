@@ -28,6 +28,24 @@ Del artista (que puede ser un solista o una banda) se requiere información como
 
 También es importante conocer los premios que ha recibido el artista y la organización que otorga los premios.
 
+## Modelo conceptual
+
+![](./assets/images/ConceptualModel.png)
+
+| Concepto | Descripción | 
+|---|---|
+| Album | Disco musical | 
+| ALBUM_STATUS | Enumeración del estado de un árbol |
+| Collector | Coleccionista registrado en la aplicación que puede publicar y comentar álbumes |
+| CollectorAlbum | Clase de asociación entre el coleccionista y el álbum. Contiene información sobre los álbumes de coleccionista para venta o intercambio, en particular el precio y el estado (disponible o no disponible) |
+| Comment | Clase de asociación entre el coleccionista y el álbum. Contiene información sobre el contenido del comentario y el rating del álbum |
+| GENRE | Enumeración de los géneros musicales |
+| Performer | Artista que puede ser bien o una banda (Band) o un músico (Musician) |
+| PerformerPrize | Clase de asociación entre el artista y el premio. Guarda información sobre la fecha en la cual se le otorga el premio al artista |
+| Prize | Premio que es otorgado por una organización a un artista |
+| RECORD_LABEL | Enumeración de los sellos discográficos |
+| Track | Pista musical del álbum |
+
 ## Infraestructura
 
 Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
