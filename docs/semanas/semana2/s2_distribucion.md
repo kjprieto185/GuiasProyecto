@@ -15,7 +15,7 @@ Los objetivos de esta actividad son:
 
 Para realizar esta actividad:
 
-- Cada estudiante debe haber leído la lista de historias de usuario propuesta para implementación en la iteración 1. Esta lista está disponible en la wiki del proyecto.
+- Cada estudiante debe haber leído la lista de historias de usuario propuesta para implementación en la iteración 1. Esta lista está disponible [en este enlace](s2_HU).
 
 - El equipo debe haber realizado la actividad de [Lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_lanzamiento).
 
