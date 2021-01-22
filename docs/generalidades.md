@@ -45,7 +45,7 @@ Los servicios que usará el front son provistos por un API REST que está previa
 
 #### Documentación del API
 
-![](./../../assets/images/DTOModel.png)
+![](./assets/images/DTOModel.png)
 
 - [Álbum](https://documenter.getpostman.com/view/8840688/SzmZd1L6)
 - [Álbum Banda](https://documenter.getpostman.com/view/8840688/SzmZd1QV)
