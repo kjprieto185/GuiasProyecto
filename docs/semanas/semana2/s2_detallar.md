@@ -34,8 +34,7 @@ Para realizar esta actividad el equipo debió haber:
 
 ---
 
-- Formato de detalle de las historias de usuario.
-- Guía de revisión de las historias de usuario.
+- [Formato de detalle de las historias de usuario](./s2_detalleHU).
 
 ### Entregables
 
