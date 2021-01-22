@@ -51,7 +51,7 @@ Con la coordinación del líder:
 
 - El equipo discute y establece las reglas de funcionamiento, mínimo 5, los cuales serán los compromisos que asumen los integrantes del equipo para llevar a buen término el proyecto.
 
-- El equipo revisa las dudas sobre el **enunciado** del proyecto; revisa si en el foro de preguntas
+- El equipo revisa las dudas sobre el [enunciado](../../generalidades#enunciado) del proyecto; revisa si en el foro de preguntas
   estas dudas ya han sido resueltas y, en caso contrario, las formula en el foro.
 
 ### Recursos
