@@ -58,7 +58,7 @@ Con la coordinación del líder:
 
 ---
 
-- Formato lanzamiento disponible en la wiki del equipo.
+- [Formato lanzamiento](s1_formato_lanzamiento).
 
 ### Entregables
 
