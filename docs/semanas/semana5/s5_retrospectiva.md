@@ -43,7 +43,7 @@ Con la coordinación del líder, el equipo discute las reflexiones individuales 
 
 ### Recursos
 
-- Material sobre la retrospectiva DAKI `TODO: Incluir material`
+- [Material sobre la retrospectiva DAKI](https://www.neatro.io/a-guide-to-agile-retrospective-drop-add-keep-improve-daki)
 
 ### Entregable
 

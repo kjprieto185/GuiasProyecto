@@ -45,5 +45,5 @@ El objetivo de esta actividad es:
 
 - Existe el enlace a los archivos de los prototipos individuales en la wiki del proyecto.
 - En los archivos está la imagen del prototipo propuesto.
-- Existe en elnlace al prototipo consolidado.
+- Existe en enlace al prototipo consolidado.
 - En el detalle de cada historia de usuario está la referencia al prototipo consolidado.
