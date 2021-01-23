@@ -40,7 +40,7 @@ Para realizar esta actividad el equipo debió haber:
 
 ---
 
-- En la wiki del proyecto debe quedar tanto el detalle de las historias de usuario como la guía de revisión diligenciada para cada historia revisada.
+- En la wiki del proyecto debe quedar tanto el detalle de las historias de usuario como revisión diligenciada para cada historia.
 
 ### Criterios de evaluación
 
