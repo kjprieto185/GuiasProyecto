@@ -21,7 +21,7 @@ Los objetivos de esta actividad son:
 
 ---
 
-- Material sobre la retrospectiva de estrella de mar `TODO: Incluir la URL al material`
+- [Material sobre la retrospectiva de estrella de mar](https://www.hacerhacerhaciendo.com/redefinir-tus-objetivos-la-retrospectiva-starfish/).
 
 ### Entregable
 
