@@ -7,4 +7,4 @@
 | Mockups                       | ![](../../assets/images/ListadoArtistas.png)                                                                                                     |
 | Revisión                      |                                                                                                                                                  |
 
-Este es un ejemplo para detallar la historia de usuario, no obstante se espera que sus formatos sean más elaborados.
+Este es un ejemplo básico para detallar una historia de usuario, no obstante se espera que sus formatos sean más elaborados.
