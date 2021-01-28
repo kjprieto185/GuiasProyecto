@@ -31,8 +31,10 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 #### Guías
 
-- Visto el video de recomendación sobre las reuniones de equipo: https://vimeo.com/conectate/review/449686277/5465152b4a 
+- Visto el video<sup>1</sup> de recomendación sobre las reuniones de equipo: https://vimeo.com/conectate/review/449686277/5465152b4a 
 - Haber leído la [guía de preparación para el lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_guia_lanzamiento)
+
+1. Para ver correctamente el video copie la URL y ábrala en una nueva ventana del navegador.
 
 ### Descripción actividad
 
