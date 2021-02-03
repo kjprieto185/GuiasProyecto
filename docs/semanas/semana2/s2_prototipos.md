@@ -33,8 +33,6 @@ El objetivo de esta actividad es:
 
 - Video sobre uso de app.diagrams.net: https://www.youtube.com/watch?v=H3rutgBJTIg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H3rutgBJTIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Entregables
 
 ---
