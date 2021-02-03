@@ -31,7 +31,7 @@ El objetivo de esta actividad es:
 
 ---
 
-- [Video sobre uso de app.diagrams.net](https://www.youtube.com/watch?v=H3rutgBJTIg)
+- Video sobre uso de app.diagrams.net: https://www.youtube.com/watch?v=H3rutgBJTIg
 
 ### Entregables
 
