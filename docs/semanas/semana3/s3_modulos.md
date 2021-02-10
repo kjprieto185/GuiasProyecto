@@ -39,7 +39,7 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 ---
 
 - [Tutorial de configuración de ambiente de trabajo](https://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0)
-- [Tutorial crear módulo, servicio]()
+
 
 ### Entregables
 
