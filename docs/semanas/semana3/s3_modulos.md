@@ -31,8 +31,7 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 - Programar el método `http get` para traer la colección de elementos del recurso.
 - Programar la prueba del servicio.
 - Verificar que todo esté funcionando.
-- Realizar commit en su repositorio local y solicitar un `pull request`.
-- El líder del grupo acepta o no el pull request
+- Realizar commit y push en el repositorio.
 
 ### Recursos
 
