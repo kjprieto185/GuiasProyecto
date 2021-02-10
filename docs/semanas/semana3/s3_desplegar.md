@@ -30,7 +30,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 - Crear el componente de listar o desplegar del recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente de acuerdo con el prototipo aprobado por el equipo.
 - Invocar el servicio construido en el paso anterior.
-- IMplementar la prueba unitaria
+- Implementar la prueba unitaria
 - Verificar que la aplicación funciona correctamente.
 - Realizar commit y solicitar un `pull request`.
 
