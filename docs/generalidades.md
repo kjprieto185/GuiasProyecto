@@ -79,7 +79,7 @@ Los servicios que usará el front son provistos por un API REST que está previa
 - [Músico Álbum](https://documenter.getpostman.com/view/8840688/TWDUqe5d)
 - [Artista Premio](https://documenter.getpostman.com/view/8840688/TWDUqe5f)
 - [Premio](https://documenter.getpostman.com/view/8840688/TWDUqe5g)
-- [Tracks](https://documenter.getpostman.com/view/8840688/TWDUqe5iN)
+- [Tracks](https://documenter.getpostman.com/view/8840688/TWDUqe5i)
 
 ### Front
 
