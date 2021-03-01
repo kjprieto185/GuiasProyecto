@@ -104,7 +104,7 @@ Cada estudiante debe haber:
 
 ---
 
-- Lista de chequeo diligenciada. Para esto incluya una columna a la tabla presentada anteriormente en la que indique si el criterio ha sido cubierto.
+- Lista de chequeo diligenciada. Para esto incluya una columna a la tabla presentada anteriormente en la que indique si el criterio ha sido cubierto. Suba la lista a la wiki del proyecto. 
 
 - Repositorio de Github actualizado.
 
