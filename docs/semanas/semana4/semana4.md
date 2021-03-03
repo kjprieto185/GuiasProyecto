@@ -12,7 +12,7 @@ Los objetivos de la semana 4 son:
 
 | Actividad                                                                                   |
 | ------------------------------------------------------------------------------------------- |
-| [Hacer el seguimiento de la semana 3 y la planeación de la semana 4 ](s4_syp)               |
-| [Crear los métodos en los servicios para obtener los detalles de un recurso ](s4_servicios) |
-| [Desplegar detalles](s4_detalles)                                                           |
-| [Implementar la página principal y las rutas de navegación](s4_navegacion)                  |
+| [Hacer el seguimiento de la semana 3 y la planeación de la semana 4 ](s4_syp.md)               |
+| [Crear los métodos en los servicios para obtener los detalles de un recurso ](s4_servicios.md) |
+| [Desplegar detalles](s4_detalles.md)                                                           |
+| [Implementar la página principal y las rutas de navegación](s4_navegacion.md)                  |
