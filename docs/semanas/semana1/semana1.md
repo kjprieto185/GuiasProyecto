@@ -15,4 +15,4 @@ El objetivo de la semana 1 es:
 
 | Actividad                                                                |
 | ------------------------------------------------------------------------ |
-| [Realizar el lanzamiento de la iteración 1 del proyecto](s1_lanzamiento) |
+| [Realizar el lanzamiento de la iteración 1 del proyecto](s1_lanzamiento.md) |
