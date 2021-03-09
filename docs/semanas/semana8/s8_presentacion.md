@@ -14,7 +14,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-- Para el cierre del proyecto los integrantes del equipo elaboran una presentación final en video. La duración no deberá superar los 5 minutos y debe contener la siguiente información:
+Para el cierre del proyecto los integrantes del equipo elaboran una presentación final en video. La duración no deberá superar los 5 minutos y debe contener la siguiente información:
 
 - Presentación de la aplicación
 - Métricas del proyecto (issues, líneas de código, resultados de las pruebas)
