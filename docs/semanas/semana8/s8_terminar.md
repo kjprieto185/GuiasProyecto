@@ -33,4 +33,16 @@ El objetivo de esta actividad es:
 
 ---
 
-- Ver rúbrica de la iteración 2 `TODO: enlazar rúbrica de la iteración 2`
+#### Actividades individuales
+- Kanban: planeación de la semana 6
+- Kanban: planeación de la semana 7
+- Kanban: planeación de la semana 8
+- Github: código de los módulos, servicios y componentes implementados para crear
+- Github: código de las pruebas e2e
+
+#### Actividades grupales
+- Kanban: seguimiento de la semana 6
+- Kanban: seguimiento de la semana 7
+- Wiki con el documento de lanzamiento
+- Wiki con la retrospectiva de la iteración 2
+- Wiki con el enlace al video de la presentación final
