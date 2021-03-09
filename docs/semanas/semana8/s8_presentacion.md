@@ -19,7 +19,7 @@ Para el cierre del proyecto los integrantes del equipo elaboran una presentació
 - Presentación de la aplicación
 - Métricas del proyecto (issues, líneas de código, resultados de las pruebas)
 - Resultado de la retrospectiva
-- Comparación de las dos retrospectivas (iteción 1 e iteración 2)
+- Comparación de las dos retrospectivas (iteración 1 e iteración 2)
 - Lecciones aprendidas
 
 ### Entregable
