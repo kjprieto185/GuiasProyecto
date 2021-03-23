@@ -46,4 +46,4 @@ Para realizar esta actividad el equipo debió haber:
 
 ---
 
-- Formatos de las historias de usuario con los criterios de aceptación diligenciados y completos.
+- Todas las historias de usuario asignadas están detalladas, cumplen con el formato solicitado y con los criterios INVEST.
