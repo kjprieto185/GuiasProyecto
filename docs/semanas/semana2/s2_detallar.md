@@ -47,3 +47,4 @@ Para realizar esta actividad el equipo debió haber:
 ---
 
 - Todas las historias de usuario asignadas están detalladas, cumplen con el formato solicitado y con los criterios INVEST.
+- Todas las historias asignadas para revisión fueron revisadas, y si hay algún comentario está en el formato, no es trivial, es claro y constructivo.
