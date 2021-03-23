@@ -104,13 +104,10 @@ Cada estudiante debe haber:
 
 ---
 
-- Lista de chequeo diligenciada. Para esto incluya una columna a la tabla presentada anteriormente en la que indique si el criterio ha sido cubierto. Suba la lista a la wiki del proyecto. 
-
 - Repositorio de Github actualizado.
 
 ### Criterios de evaluación
 
 ---
 
-- La lista de chequeo debe estar correctamente diligenciada.
 - Para evaluar el cumplimiento de esta tarea, el tutor descargará el código del repositorio y ejecutará la herramienta de validación. Se espera no encontrar ningún issue reportado.
