@@ -23,6 +23,7 @@ El objetivo de esta actividad es:
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
 - Crear en el servicio del módulo del recurso la función que permite llamar al API REST para crear un recurso.
+- Verificar que exista la prueba para el servicio.
 - Probar el servicio del paso anterior.
 - Elaborar el componente de crear el recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente (formulario) de acuerdo con el prototipo.
