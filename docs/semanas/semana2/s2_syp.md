@@ -46,4 +46,3 @@ Ejemplo:
 ---
 
 - Kanban con las tareas de la semana actualizado siguiendo el formato establecido.
-- Tareas distribuidas equitativamente.
