@@ -50,6 +50,10 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 
 ---
 
+- La implementación cumple con la arquitectura propuesta: módulo, método del servicio, prueba del método del servicio, componente listar y prueba del servicio del componente.
+
 - El código en el repositorio incluye al menos una prueba para cada servicio.
+
+- El componente funciona correctamente.
 
 - Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando ng test. Se espera que todos los test pasen sin errores.
