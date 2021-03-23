@@ -26,7 +26,7 @@ Para realizar esta actividad el equipo debió haber:
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 - Incluir los criterios de aceptación en las historias de usuario que tiene asignadas.
-- Incluir el prototipo para cada historia de usuario. 
+- Incluir el prototipo para cada historia de usuario. Para esto se usará la herramienta [app.diagrams.net](http://app.diagrams.net).
 - Revisar las historias de usuario asignadas una vez que estas hayan sido detalladas por alguno de los compañeros.
 - Incorporar las observaciones del revisor a las historias de usuario.
 - Actualizar el estado de sus actividades en el Kanban del proyecto.
