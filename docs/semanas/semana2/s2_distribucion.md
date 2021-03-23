@@ -6,7 +6,7 @@
 
 Los objetivos de esta actividad son:
 
-- Discutir el alcance de las historias de usuario que se implementarán en la iteración 1.
+- Discutir el alcance de las historias de usuario que se implementarán en el proyecto.
 - Distribuir de forma balanceada entre los integrantes del equipo las historias de usuario para detallarlas y revisarlas.
 
 ### Pasos previos
@@ -15,7 +15,7 @@ Los objetivos de esta actividad son:
 
 Para realizar esta actividad:
 
-- Cada estudiante debe haber leído la lista de historias de usuario propuesta para implementación en la iteración 1. Esta lista está disponible [en este enlace](s2_HU).
+- Cada estudiante debe haber leído la lista de historias de usuario propuestas. Esta lista está disponible [en este enlace](s2_HU).
 
 - El equipo debe haber realizado la actividad de [Lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_lanzamiento).
 
@@ -25,13 +25,11 @@ Para realizar esta actividad:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-- Se discute el alcance de las HU que se van a implementar en la iteración 1.
+- Se discute el alcance de las HU que se van a implementar.
 
-- Se distribuyen, entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. La distribución para el detalle de las historias de usuario se hará asi:
+- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. Cada integrante deberá tener como mínimo 2 historias de usuario para la iteración 1 y dos historias de usuario para la iteración 2.
 
-  - Integrante 1: HU_01 y HU_02
-  - Integrante 2: HU_03 y HU_04
-  - Integrante 3: HU_05 y HU_06
+- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser revisadas. La revisión será asignada a un integrante diferente de quien la va a detallar. 
 
 ### Entregables
 
@@ -40,7 +38,7 @@ Para realizar esta actividad:
 - Wiki del proyecto con el listado de historias de usuario actualizadas en las que se indica
   el responsable de la documentación de detalle y al lado el responsable de la revisión.
 
-- Kanban del proyecto actualizado en Github.
+- Kanban del proyecto actualizado en GitHub.
 
 ### Criterios de evaluación
 
