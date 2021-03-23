@@ -16,4 +16,4 @@ Los objetivos de la semana 2 son:
 | [Hacer la planeación de la semana 2](s2_syp.md)               |
 | [Distribuir las historias de usuario](s2_distribucion.md)     |
 | [Detallar y revisar las historias de usuario](s2_detallar.md) |
-| [Elaborar prototipos de la aplicación ](s2_prototipos.md)     |
+| [Elaborar prototipo de la página principal de la aplicación ](s2_prototipos.md)     |
