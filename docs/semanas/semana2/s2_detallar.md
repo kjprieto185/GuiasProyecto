@@ -48,4 +48,5 @@ Para realizar esta actividad el equipo debió haber:
 ---
 
 - Todas las historias de usuario asignadas están detalladas, cumplen con el formato solicitado y con los criterios INVEST.
+- Cada historia de usuario asignada tiene el prototipo, el cual cumple con las heurísticas de Nielsen y aborda los patrones de diseño de interfaz de usuario (particularmente el de maestro/detalle). Es importante la organización de los elementos (layout), la combinacioń de colores, tipografía y la claridad de los controles.
 - Todas las historias asignadas para revisión fueron revisadas, y si hay algún comentario está en el formato, no es trivial, es claro y constructivo.
