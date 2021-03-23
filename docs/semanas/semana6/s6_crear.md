@@ -46,6 +46,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
+- Cumple con la arquitectura propuesta: módulo, método del servicio, prueba del método del servicio, componente crear y prueba del componente.
 - El formulario para la creación de recursos se visualiza correctamente.
 - Cuando se ingresan los datos se validan antes de enviar.
 - Se muestra un mensaje descriptivo de los errores del formulario.
