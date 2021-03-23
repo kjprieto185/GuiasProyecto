@@ -35,7 +35,7 @@ Para realizar esta actividad el equipo debió haber:
 
 ---
 
-- [Formato de detalle de las historias de usuario](./s2_detalleHU).
+- [Formato de detalle de las historias de usuario](./s2_detalleHU.md).
 
 ### Entregables
 

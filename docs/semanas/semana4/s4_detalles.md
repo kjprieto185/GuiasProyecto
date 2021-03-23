@@ -36,13 +36,13 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- [Tutorial detalle Book](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-books-listar-detalle/#0)
+- Tutorial detalle Book: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-books-listar-detalle/#0
 
 ### Entregables
 
 ---
 
-- Repositorio de Github actualizado.
+- Repositorio de GitHub actualizado.
 
 ### Criterios de evaluación
 

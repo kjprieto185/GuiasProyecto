@@ -12,7 +12,7 @@ El objetivo de esta actividad es:
 
 ---
 
-- Haber terminado la implementación del las HU de la iteración 1.
+- Haber terminado la implementación de las historias de usuario de la iteración 1.
 
 ### Descripción actividad
 
@@ -35,7 +35,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- [Tutorial crear un formulario](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0)
+- Tutorial crear un formulario: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0.
 
 ### Entregables
 

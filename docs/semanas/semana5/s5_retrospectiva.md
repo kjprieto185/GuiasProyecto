@@ -43,7 +43,7 @@ Con la coordinación del líder, el equipo discute las reflexiones individuales 
 
 ### Recursos
 
-- [Material sobre la retrospectiva DAKI](https://www.neatro.io/a-guide-to-agile-retrospective-drop-add-keep-improve-daki)
+- Material sobre la retrospectiva DAKI: https://www.neatro.io/a-guide-to-agile-retrospective-drop-add-keep-improve-daki
 
 ### Entregable
 
@@ -56,4 +56,4 @@ Con la coordinación del líder, el equipo discute las reflexiones individuales 
 ---
 
 - Retrospectiva con todos los campos solicitados por cada integrante del equipo incluida en la wiki del proyecto.
-- Las acciones son claras, realizables, verificables y medibles. 
+- Las acciones son claras, realizables, verificables y medibles.

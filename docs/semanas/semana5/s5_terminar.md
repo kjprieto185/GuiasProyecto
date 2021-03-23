@@ -27,4 +27,4 @@ Los integrantes se aseguran de finalizar la implementación de las funcionalidad
 
 ---
 
-- Repositorio de Github actualizado.
+- Repositorio de GitHub actualizado.

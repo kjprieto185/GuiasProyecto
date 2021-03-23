@@ -15,9 +15,9 @@ Los objetivos de esta actividad son:
 
 Para realizar esta actividad:
 
-- Cada estudiante debe haber leído la lista de historias de usuario propuestas. Esta lista está disponible [en este enlace](s2_HU).
+- Cada estudiante debe haber leído la lista de historias de usuario propuestas. Esta lista está disponible [en este enlace](s2_HU.md).
 
-- El equipo debe haber realizado la actividad de [Lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_lanzamiento).
+- El equipo debe haber realizado la actividad de [Lanzamiento](../semana1/s1_lanzamiento.md).
 
 ### Descripción actividad
 
@@ -29,7 +29,7 @@ Para realizar esta actividad:
 
 - Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. Cada integrante deberá tener como mínimo 2 historias de usuario para la iteración 1 y dos historias de usuario para la iteración 2.
 
-- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser revisadas. La revisión será asignada a un integrante diferente de quien la va a detallar. 
+- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser revisadas. La revisión será asignada a un integrante diferente de quien la va a detallar.
 
 ### Entregables
 

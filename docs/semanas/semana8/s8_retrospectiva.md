@@ -21,8 +21,8 @@ Los objetivos de esta actividad son:
 
 ---
 
-- [Material sobre la retrospectiva de estrella de mar - 1](https://www.hacerhacerhaciendo.com/redefinir-tus-objetivos-la-retrospectiva-starfish/).
-- [Material sobre la retrospectiva de estrella de mar - 2](https://proyectosagiles.org/2009/06/14/retrospectiva-estrella-mar-starfish-retrospective-scrum/).
+- Material sobre la retrospectiva de estrella de mar - 1: https://www.hacerhacerhaciendo.com/redefinir-tus-objetivos-la-retrospectiva-starfish/.
+- Material sobre la retrospectiva de estrella de mar - 2: https://proyectosagiles.org/2009/06/14/retrospectiva-estrella-mar-starfish-retrospective-scrum/.
 
 ### Entregable
 
@@ -35,4 +35,4 @@ Los objetivos de esta actividad son:
 ---
 
 - En la wiki está la restrospectiva de la iteración 2 con el contenido de la reflexión siguiendo los líneamientos de la Estrella de Mar.
-- Las acciones son claras, realizables, verificables y medibles. 
+- Las acciones son claras, realizables, verificables y medibles.

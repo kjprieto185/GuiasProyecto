@@ -6,10 +6,10 @@
 
 ## Conformación equipo
 
-| Apellidos | Nombres   | email uniandes           | Usuario github | Líder? |
-| --------- | --------- | ------------------------ | -------------- | ------ |
-| Páramo    | Pedro     | pparamo@uniandes.edu.co  | pparamo        | Sí     |
-| Buendía   | Aureliano | abuendia@uniandes.edu.co | abuendia       | No     |
+| Apellidos | Nombres   | email uniandes           | Usuario github | ¿Es líder? |
+| --------- | --------- | ------------------------ | -------------- | ---------- |
+| Páramo    | Pedro     | pparamo@uniandes.edu.co  | pparamo        | Sí         |
+| Buendía   | Aureliano | abuendia@uniandes.edu.co | abuendia       | No         |
 
 ## Reglas de Funcionamiento
 

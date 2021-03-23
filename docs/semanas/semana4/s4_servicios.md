@@ -34,7 +34,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- [Tutorial de pruebas unitarias en Angular](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-pruebas-unitarias/index.html#0)
+- Tutorial de pruebas unitarias en Angular: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-pruebas-unitarias/index.html#0
 
 ### Entregables
 
@@ -53,8 +53,3 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 - Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando ng test. Se espera que todos los test pasen sin errores.
 
 - El componente funciona correctamente.
-
-
-
-
-

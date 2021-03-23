@@ -1,4 +1,4 @@
-## Semana 4 - Implementar la página principal y las rutas de navegación
+## Semana 5 - Implementar la página principal y las rutas de navegación
 
 ### Objetivos
 
@@ -30,13 +30,13 @@ Tomando como referencia el prototipo consolidado durante la semana 2, el equipo 
 
 ---
 
-[Tutorial Enrutamiento](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-routing/#0)
+- Tutorial Enrutamiento: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-routing/#0
 
 ### Entregables
 
 ---
 
-- Repositorio de Github actualizado.
+- Repositorio de GitHub actualizado.
 
 ### Criterios de evaluación
 

@@ -7,7 +7,7 @@
 Los objetivos de esta actividad son:
 
 - Interactuar con el equipo de trabajo y establecer las reglas de funcionamiento para lograr que el equipo funcione de manera efectiva y eficiente.
-- Discutir el enunciado e identificar dudas sobre el mismo.
+- Discutir el enunciado e identificar dudas.
 
 ### Pasos previos
 
@@ -18,7 +18,7 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 #### Equipo
 
 - Confirmado quienes son sus compañeros de equipo.
-- Haber creado una cuenta en github con el correo @uniandes, o asociar el correo @uniandes a su cuenta de github existente.
+- Haber creado una cuenta en GitHub con el correo @uniandes, o asociar el correo @uniandes a su cuenta de GitHub existente.
 
 #### Proyecto
 
@@ -27,12 +27,13 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
 
 #### Configuración ambiente
 
-- Tener clara la configuración tanto del repositorio de fuentes en github como de la wiki donde irá la documentación. [En este enlace está el tutorial para configurar el ambiente de trabajo](http://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0).
+- Tener clara la configuración tanto del repositorio de fuentes en GitHub como de la wiki donde irá la documentación.
+- En este enlace está el tutorial para configurar el ambiente de trabajo: http://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0.
 
 #### Guías
 
-- Visto el video<sup>1</sup> de recomendación sobre las reuniones de equipo: https://vimeo.com/conectate/review/449686277/5465152b4a 
-- Haber leído la [guía de preparación para el lanzamiento](https://ticsw.github.io/mt1_guias_proyecto/semanas/semana1/s1_guia_lanzamiento)
+- Visto el video de recomendación sobre las reuniones de equipo: https://vimeo.com/conectate/review/449686277/5465152b4a
+- Haber leído la [guía de preparación para el lanzamiento](s1_guia_lanzamiento.md)
 
 1. Para ver correctamente el video copie la URL y ábrala en una nueva ventana del navegador.
 
@@ -53,8 +54,7 @@ Con la coordinación del líder:
 
 - El equipo discute y establece las reglas de funcionamiento, mínimo 5, los cuales serán los compromisos que asumen los integrantes del equipo para llevar a buen término el proyecto.
 
-- El equipo revisa las dudas sobre el [enunciado](../../generalidades#enunciado) del proyecto; revisa si en el foro de preguntas
-  estas dudas ya han sido resueltas y, en caso contrario, las formula en el foro.
+- El equipo revisa las dudas sobre el [enunciado](../../generalidades.md#enunciado) del proyecto; revisa si en el foro de preguntas estas dudas ya han sido resueltas y, en caso contrario, las formula en el foro.
 
 ### Recursos
 

@@ -37,8 +37,7 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 
 ---
 
-- [Tutorial de configuración de ambiente de trabajo](https://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0)
-
+- Tutorial de configuración de ambiente de trabajo: https://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0
 
 ### Entregables
 
@@ -56,4 +55,4 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 
 - El componente funciona correctamente.
 
-- Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando ng test. Se espera que todos los test pasen sin errores.
+- Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando `ng test`. Se espera que todos los test pasen sin errores.

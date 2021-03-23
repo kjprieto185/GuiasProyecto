@@ -26,7 +26,7 @@ Cada estudiante debe haber:
 
 - Durante el proceso de elaboración de la aplicación web, el equipo debe constratar que cada una de las guías correspondientes al nivel de conformidad AA según la pauta WCAG 2.1 2018 se cumplen.
 
-- Para efectos de brevedad, la tabla solo presenta un resumen de criterios alineados con el nivel AA; no obstante en la [referencia rápida de la guía](https://www.w3.org/WAI/WCAG21/quickref/) se encuentra información detallada de cada uno.
+- Para efectos de brevedad, la tabla solo presenta un resumen de criterios alineados con el nivel AA; no obstante en la referencia rápida de la guía (https://www.w3.org/WAI/WCAG21/quickref/) se encuentra información detallada de cada uno.
 
 | Criterio       | Categoría                             | Guía                                           |
 | -------------- | ------------------------------------- | ---------------------------------------------- |
@@ -87,7 +87,7 @@ Cada estudiante debe haber:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE. Para eso, instale el plugin AXE en su navegador. Está disponible para [Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) y para [Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
+- Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE. Para eso, instale el plugin AXE en su navegador. Está disponible para Chrome (https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) y para Firefox (https://addons.mozilla.org/es/firefox/addon/axe-devtools/).
 
 - En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de resolverlos.
 
@@ -97,8 +97,9 @@ Cada estudiante debe haber:
 
 ---
 
-- [Herramienta de verificación de accesibilidad - Plugin para Chrome](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd).
-- [Herramienta de verificación de accesibilidad - Plugin para Firefox](https://addons.mozilla.org/es/firefox/addon/axe-devtools/)
+- Herramienta de verificación de accesibilidad - Plugin para Chrome: https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd.
+
+- Herramienta de verificación de accesibilidad - Plugin para Firefox: https://addons.mozilla.org/es/firefox/addon/axe-devtools/
 
 ### Entregable
 
