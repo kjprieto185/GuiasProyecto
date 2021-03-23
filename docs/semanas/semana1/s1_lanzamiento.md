@@ -60,14 +60,13 @@ Con la coordinación del líder:
 
 ---
 
-- [Formato lanzamiento](s1_formato_lanzamiento).
+- [Formato lanzamiento](s1_formato_lanzamiento.md).
 
 ### Entregables
 
 ---
 
 - En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido.
-- Preguntas en el foro en caso de tenerlas.
 
 ### Criterios de evaluación
 
@@ -75,4 +74,3 @@ Con la coordinación del líder:
 
 - Existe mínimo 5 reglas y todas son verificables.
 - Existe mínimo una regla asociada con cada categoría (comunicación, puntualidad, colaboración y calidad del trabajo).
-- La tabla de conformación del equipo está completa.
