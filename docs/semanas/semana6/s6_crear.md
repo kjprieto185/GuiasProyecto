@@ -24,8 +24,8 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 - Crear en el servicio del módulo del recurso la función que permite llamar al API REST para crear un recurso.
 - Probar el servicio del paso anterior.
-- Crear el componente de crear el recurso correspondiente siguiendo las convenciones de nombramiento.
-- Crear la vista del componente (formulario) de acuerdo con el prototipo aprobado por el equipo.
+- Elaborar el componente de crear el recurso correspondiente siguiendo las convenciones de nombramiento.
+- Crear la vista del componente (formulario) de acuerdo con el prototipo.
 - Invocar el servicio de creación.
 - Verificar que la aplicación funciona correctamente
 - Realizar commit y solicitar un pull request.
@@ -34,7 +34,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- \[Tutorial crear un formulario \](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0)
+- [Tutorial crear un formulario](https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0)
 
 ### Entregables
 
