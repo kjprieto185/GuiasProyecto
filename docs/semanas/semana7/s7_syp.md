@@ -55,4 +55,3 @@ Ejemplo:
 
 - En el seguimiento se contestaron las preguntas, se explica el estado de la semana y se definen los pasos a seguir.
 - Kanban con las tareas de la semana actualizado siguiendo el formato establecido.
-- Tareas distribuidas equitativamente.
