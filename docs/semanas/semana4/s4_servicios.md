@@ -46,6 +46,15 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- En el código se incluye al menos una prueba por cada servicio.
+- La implementación cumple con la arquitectura propuesta: módulo, método del servicio, prueba del método del servicio, componente listar detalle y prueba del servicio del componente.
 
-- Las pruebas de los servicios se ejectutan correctamente.
+- El código en el repositorio incluye al menos una prueba para cada servicio.
+
+- Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando ng test. Se espera que todos los test pasen sin errores.
+
+- El componente funciona correctamente.
+
+
+
+
+
