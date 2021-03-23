@@ -1,4 +1,4 @@
-## Semana 2 - Elaborar prototipos de la página principal de aplicación
+## Semana 2 - Elaborar prototipo de la página principal de aplicación
 
 ### Objetivos
 
@@ -25,7 +25,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-- Tomando como referencia los prototipos indiviuales, se realiza una discusión y se decide cuál será el prototipo general de la aplicación y los prototipos para listar y detallar los recursos. Esta discusión implica que se ajustarán los prototipos individuales propuestos para unificar el estilo de la aplicación.
+- Tomando como referencia los prototipos indiviuales, se realiza una discusión y se decide cuál será el prototipo general de la aplicación. Esta discusión implica que se ajustarán los prototipos individuales propuestos para unificar el estilo de la aplicación.
 
 ### Recursos
 
@@ -37,13 +37,12 @@ El objetivo de esta actividad es:
 
 ---
 
-- Enlaces a los archivos de los prototipos individuales en la wiki del proyecto.
-- Enlace al prototipo consolidado.
-- Luego de la consolidación del diseño, en el detalle de cada historia de usuario se incluye el prototipo del listado y de los detalles según corresponda.
+- Enlaces a los archivos de los prototipos individuales de la página principal en la wiki del proyecto.
+- Enlace al prototipo consolidado de la página principal en la wiki del proyecto.
 
 ### Criterios de evaluación
 
 - Existe el enlace a los archivos de los prototipos individuales en la wiki del proyecto.
 - En los archivos está la imagen del prototipo propuesto.
 - Existe en enlace al prototipo consolidado.
-- En el detalle de cada historia de usuario está la referencia al prototipo consolidado.
+- El prototipo de la página principal de la aplicación cumple con las heurísticas de Nielsen y aborda los patrones de diseño de interfaz de usuario (particularmente el de maestro/detalle). Es importante la organización de los elementos (layout), la combinacioń de colores, tipografía y la claridad de los controles.
