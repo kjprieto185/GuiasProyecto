@@ -46,7 +46,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- La implementación cumple con la arquitectura propuesta: módulo, método del servicio, prueba del método del servicio, componente listar detalle y prueba del servicio del componente.
+- La implementación cumple con la arquitectura propuesta: módulo, método del servicio, prueba del método del servicio, componente desplegar detalle y prueba del componente.
 
 - El código en el repositorio incluye al menos una prueba para cada servicio.
 
