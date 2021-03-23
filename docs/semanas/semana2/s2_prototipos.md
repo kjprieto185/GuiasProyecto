@@ -1,4 +1,4 @@
-## Semana 2 - Elaborar prototipos de la aplicación
+## Semana 2 - Elaborar prototipos de la página principal de aplicación
 
 ### Objetivos
 
@@ -21,7 +21,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante realiza un prototipo de la página principal, del listado de un recurso y de sus detalles. Para esto se usará la herramienta [app.diagrams.net](http://app.diagrams.net).
+- Cada integrante realiza un prototipo de la página principal. Para esto se usará la herramienta [app.diagrams.net](http://app.diagrams.net).
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
