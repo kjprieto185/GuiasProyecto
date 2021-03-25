@@ -20,11 +20,11 @@ Un coleccionista registrado puede ser comprador, vendedor o ambos. La informaci�
 
 La funcionalidad principal de la aplicación es permitir que un coleccionista que cumpla el rol de vendedor pueda registrar los álbumes que tiene para vender o hacer trueque; y quien cumpla el rol de comprador, pueda realizar la compra o el intercambio.
 
-La aplicación debe ser muy llamativa para los usuarios visitantes e incluir una galería en donde sea fácil filtrar y buscar por distintos criterios como el nombre del album, del artista, de la casa discográfica o del género.
+La aplicación debe ser muy llamativa para los usuarios e incluir una galería en donde sea fácil filtrar y buscar por distintos criterios como el nombre del album, del artista, de la casa discográfica o del género.
 
 Cada álbum debe caracterizarse por un nombre, la imagen de la carátula, la fecha de salida al mercado, una descripción, el género, la casa discográfica, el artista (o lista de artistas) y el listado de tracks. Los usuarios registrados en la aplicación pueden hacer comentarios sobre los álbumes.
 
-Del artista (que puede ser un solista o una banda) se requiere información como su nombre, una fotografía y un texto con una breve descripción. Si es una banda se debe concer la fecha de formación, mientras que si es un solista se requiere su fecha de nacimiento.
+Del artista (que puede ser un músico o una banda) se requiere información como su nombre, una fotografía y un texto con una breve descripción. Si es una banda se debe concer la fecha de formación, mientras que si es un músico se requiere su fecha de nacimiento.
 
 También es importante conocer los premios que ha recibido el artista y la organización que otorga los premios.
 
