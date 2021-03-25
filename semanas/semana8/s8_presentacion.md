@@ -32,4 +32,4 @@ Para el cierre del proyecto los integrantes del equipo elaboran una presentació
 
 ---
 
-- Video publicado y referenciado en la wiki del proyecto con el contenido de la presentación final
+- Video publicado y referenciado en la wiki del proyecto con el contenido de la presentación final con el contenido solicitado: métricas del proyecto, resultado de la retrospectiva, comparación de las dos retrospectivas y lecciones aprendidas.
