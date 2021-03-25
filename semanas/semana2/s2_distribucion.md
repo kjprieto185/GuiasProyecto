@@ -27,7 +27,7 @@ Para realizar esta actividad:
 
 - Se discute el alcance de las HU que se van a implementar.
 
-- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. Cada integrante deberá tener como mínimo 2 historias de usuario para la iteración 1 y dos historias de usuario para la iteración 2.
+- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. Cada integrante deberá tener como mínimo 2 historias de usuario de la iteración 1 y dos historias de usuario de la iteración 2.
 
 - Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser revisadas. La revisión será asignada a un integrante diferente de quien la va a detallar.
 

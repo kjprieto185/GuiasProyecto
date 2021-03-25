@@ -25,7 +25,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-- Tomando como referencia los prototipos indiviuales, se realiza una discusión y se decide cuál será el prototipo general de la aplicación. Esta discusión implica que se ajustarán los prototipos individuales propuestos para unificar el estilo de la aplicación.
+- Tomando como referencia los prototipos indiviuales, se realiza una discusión y se decide cuál será el prototipo general de la aplicación. Esta discusión puede implicar que se ajusten los prototipos de las historias de usuario propuestos para unificar el estilo de la aplicación.
 
 ### Recursos
 
