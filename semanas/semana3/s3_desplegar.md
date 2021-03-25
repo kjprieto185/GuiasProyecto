@@ -23,16 +23,17 @@ El objetivo de esta actividad es:
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 - Antes de iniciar esta actividad, ud. debe realizar un pull sobre el repositorio y asegurarse que la aplicación en su espacio local funciona.
-- Complete la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrates.
+- Complete la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrantes.
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
 - Crear el componente de listar o desplegar del recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente de acuerdo con el prototipo aprobado por el equipo.
 - Invocar el servicio construido en el paso anterior.
-- Implementar la prueba unitaria
+- Implementar y ejecutar la prueba del componente.
 - Verificar que la aplicación funciona correctamente.
-- Realizar commit y solicitar un `pull request`.
+- Realizar un commit en el repositorio local y solicitar un `pull request`.
+- El lider del equipo aprueba o no el `pull request`.
 
 ### Recursos
 
@@ -45,10 +46,11 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- Repositorio de Github actualizado.
+- Repositorio de GitHub actualizado.
 
 ### Criterios de evaluación
 
 ---
 
 - El listado de recursos se despliega correctamente.
+- Las pruebas del componente se ejecutan correctamente.

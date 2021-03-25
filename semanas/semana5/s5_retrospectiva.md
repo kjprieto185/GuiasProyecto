@@ -49,7 +49,7 @@ Con la coordinación del líder, el equipo discute las reflexiones individuales 
 
 ---
 
-- Wiki del proyecto actualizada con la retrospectiva
+- Wiki del proyecto actualizada con la retrospectiva.
 
 ### Criterios de evaluación
 

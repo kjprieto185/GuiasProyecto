@@ -37,12 +37,11 @@ El objetivo de esta actividad es:
 
 ---
 
-- Enlaces a los archivos de los prototipos individuales de la página principal en la wiki del proyecto.
+- Enlace a los prototipos individuales de la página principal en la wiki del proyecto.
 - Enlace al prototipo consolidado de la página principal en la wiki del proyecto.
 
 ### Criterios de evaluación
 
-- Existe el enlace a los archivos de los prototipos individuales en la wiki del proyecto.
-- En los archivos está la imagen del prototipo propuesto.
-- Existe en enlace al prototipo consolidado.
+- Existe el enlace a los los prototipos individuales en la wiki del proyecto.
+- Existe el enlace al prototipo consolidado.
 - El prototipo de la página principal de la aplicación cumple con las heurísticas de Nielsen y aborda los patrones de diseño de interfaz de usuario (particularmente el de maestro/detalle). Es importante la organización de los elementos (layout), la combinacioń de colores, tipografía y la claridad de los controles.

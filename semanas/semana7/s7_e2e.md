@@ -12,15 +12,15 @@ El objetivo de esta actividad es:
 
 ---
 
-- Tener HU completas para probar de extremo a extremo.
+- Tener las historias de usuario completas para realizar las pruebas.
 
 ### Descripción actividad
 
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad de equipo
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Los integrantes realizan la implementación de las pruebas e2e para la aplicación para cada una de las HU asignadas.
+- Cada integrante realiza la implementación de las pruebas e2e para cada uno de los componentes desarrollados en ambas iteraciones.
 
 ### Recursos
 
@@ -32,11 +32,11 @@ El objetivo de esta actividad es:
 
 ---
 
-- Repositorio de Github actualizado
+- Repositorio de GitHub actualizado
 
 ### Criterios de calificación
 
 ---
 
-- Hay definidas al menos una prueba e2e para cada historia de usuario.
+- Hay definidas al menos una prueba e2e para cada componente desarrollado.
 - Las pruebas se ejecutan correctamente.

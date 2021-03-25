@@ -105,7 +105,7 @@ Cada estudiante debe haber:
 
 ---
 
-- Repositorio de Github actualizado.
+- Repositorio de GitHub actualizado.
 
 ### Criterios de evaluación
 

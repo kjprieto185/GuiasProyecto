@@ -28,7 +28,7 @@ Los objetivos de esta actividad son:
 
 ---
 
-- Wiki del proyecto actualizada con la retrospectiva
+- Wiki del proyecto actualizada con la retrospectiva.
 
 ### Criterio de evaluación
 

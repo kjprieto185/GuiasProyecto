@@ -23,13 +23,15 @@ El objetivo de esta actividad es:
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
 - Crear en el servicio del módulo del recurso la función que permite llamar al API REST para crear un recurso.
-- Verificar que exista la prueba para el servicio.
-- Probar el servicio del paso anterior.
+- Crear la prueba para el servicio.
+- Ejecutar del paso anterior.
 - Elaborar el componente de crear el recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente (formulario) de acuerdo con el prototipo.
 - Invocar el servicio de creación.
+- Realizar la prueba del componente.
 - Verificar que la aplicación funciona correctamente
-- Realizar commit y solicitar un pull request.
+- Realizar un commit en el repositorio local y solicitar un `pull request`.
+- El lider del equipo aprueba o no el `pull request`.
 
 ### Recursos
 
@@ -41,7 +43,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- Repositorio de Github actualizado.
+- Repositorio de GitHub actualizado.
 
 ### Criterios de evaluación
 
@@ -50,6 +52,6 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 - Cumple con la arquitectura propuesta: módulo, método del servicio, prueba del método del servicio, componente crear y prueba del componente.
 - El formulario para la creación de recursos se visualiza correctamente.
 - Cuando se ingresan los datos se validan antes de enviar.
-- Se muestra un mensaje descriptivo de los errores del formulario.
+- Si hay errores en el formulario, se muestra un mensaje descriptivo de los errores.
 - Si los datos son correctos y se da clic en el botón agregar se muestra un mensaje de confirmación.
 - Cuando se regresa al listado de recursos, el nuevo recurso asignado se muestra correctamente.

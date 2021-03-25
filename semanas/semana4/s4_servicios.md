@@ -27,8 +27,8 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 - Programar el método `http get` para traer el detalle de un recurso.
 - Programar la prueba del servicio.
 - Ejecutar la prueba del servicio.
-- Realizar commit en el repositorio local y solicitar un `pull request`.
-- El líder acepta o no el pull request
+- Realizar un commit en el repositorio local y solicitar un `pull request`.
+- El lider del equipo aprueba o no el `pull request`.
 
 ### Recursos
 
@@ -46,10 +46,8 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- La implementación cumple con la arquitectura propuesta: módulo, método del servicio, prueba del método del servicio, componente desplegar detalle y prueba del componente.
+- La implementación cumple con la arquitectura propuesta: módulo, clase del recurso, método del servicio, prueba del método del servicio.
 
 - El código en el repositorio incluye al menos una prueba para cada servicio.
 
-- Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando ng test. Se espera que todos los test pasen sin errores.
-
-- El componente funciona correctamente.
+- Las pruebas de los servicios se ejecutan correctamente. Para esto el tutor descargará el proyecto del equipo y ejecutará el comando `ng test`. Se espera que todos los test pasen sin errores.
