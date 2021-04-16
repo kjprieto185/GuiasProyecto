@@ -2,7 +2,7 @@
 
 Este curso gira alrededor de un proyecto de desarrollo de software. Se espera que los estudiantes adquieran conocimientos y desarrollen habilidades mientras avanzan en él.
 
-El proyecto se hace en equipos de 2 - 3 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios. La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
+El proyecto se hace en equipos de 2 - 4 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios. La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
 
 Los retos a los que el grupo se enfrenta son similares a los que debe abordar un grupo de desarrollo en el mundo real.
 
@@ -12,13 +12,16 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 
 ## Enunciado del proyecto
 
+|Nota:| Este es el enunciado general del rpoyecto. En este curso reañizaremos un subconjunto.|
+|---|---|
+
 Pese al auge de las plataformas digitales de música como iTunes o Spotify, existe un creciente grupo de personas que prefieren escuchar música en formatos tradicionales como los discos en vinilo. Es por esta razón que se quiere desarrollar una aplicación que proporcione al coleccionista aficionado la posibilidad de adquirirlos nuevos o usados, ya sea mediante compra o intercambio.
 
-Se espera que por medio de este sistema los coleccionistas puedan comprar, vender o intercambiar álbumes.
+Se espera que por medio de este sistema los usuarios visitantes y los coleccionistas puedan conocer los vinilos disponibles. Por cada uno, la información de los músicos, las canciones y los premios que el disco ha recibido (si es que tiene alguno). Adicionalmente, un coleccionista debe poder comprar, vender o intercambiar álbumes.
 
-Un coleccionista registrado puede ser comprador, vendedor o ambos. La información del registro debe incluir su nombre, información de contacto (teléfono y correo electrónico) la cual es privada para el sistema, y sus artistas favoritos
+Un coleccionista puede ser comprador, vendedor o ambos. La información del coleccionista debe incluir su nombre, información de contacto (teléfono y correo electrónico) la cual es privada para el sistema, y sus artistas favoritos
 
-La funcionalidad principal de la aplicación es permitir que un coleccionista que cumpla el rol de vendedor pueda registrar los álbumes que tiene para vender o hacer trueque; y quien cumpla el rol de comprador, pueda realizar la compra o el intercambio.
+La funcionalidad principal de la aplicación es permitir que un coleccionista, que cumpla el rol de vendedor, pueda registrar los álbumes que tiene para vender o hacer trueque; y quien cumpla el rol de comprador, pueda realizar la compra o el intercambio.
 
 La aplicación debe ser muy llamativa para los usuarios e incluir una galería en donde sea fácil filtrar y buscar por distintos criterios como el nombre del album, del artista, de la casa discográfica o del género.
 
@@ -87,4 +90,4 @@ El front será desarrollado usando el framework Angular. El lenguaje de programa
 
 ## Distribución del trabajo por semanas
 
-El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el lunes a las 0:00 horas hasta el lunes de la próxima semana a las 23:59 horas. Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
+El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el lunes a las 0:00 horas hasta el lunes de la siguiente semana a las 23:59 horas. Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
