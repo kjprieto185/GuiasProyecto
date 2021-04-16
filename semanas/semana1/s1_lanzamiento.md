@@ -7,7 +7,7 @@
 Los objetivos de esta actividad son:
 
 - Interactuar con el equipo de trabajo y establecer las reglas de funcionamiento para lograr que el equipo funcione de manera efectiva y eficiente.
-- Discutir el enunciado e identificar dudas.
+- Discutir el enunciado, precisar, junto con los instructores del curso, el alcance delproyecto para este curso y resolver dudas.
 
 ### Pasos previos
 
