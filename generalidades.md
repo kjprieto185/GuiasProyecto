@@ -17,7 +17,7 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 
 Pese al auge de las plataformas digitales de música como iTunes o Spotify, existe un creciente grupo de personas que prefieren escuchar música en formatos tradicionales como los discos en vinilo. Es por esta razón que se quiere desarrollar una aplicación que proporcione al coleccionista aficionado la posibilidad de adquirirlos nuevos o usados, ya sea mediante compra o intercambio.
 
-Se espera que por medio de este sistema los usuarios visitantes y los coleccionistas puedan conocer los vinilos disponibles. Por cada uno, la información de los músicos, las canciones y, para los artistas, los premios que el artirta ha recibido (si es que tiene alguno). Adicionalmente, un coleccionista debe poder comprar, vender o intercambiar álbumes.
+Se espera que por medio de este sistema los usuarios visitantes y los coleccionistas puedan conocer los vinilos disponibles. Por cada uno, la información de los músicos, las canciones y, para los artistas, los premios que el artista ha recibido (si es que tiene alguno). Adicionalmente, un coleccionista debe poder comprar, vender o intercambiar álbumes.
 
 Un coleccionista puede ser comprador, vendedor o ambos. La información del coleccionista debe incluir su nombre, información de contacto (teléfono y correo electrónico) la cual es privada para el sistema, y sus artistas favoritos
 
