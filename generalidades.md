@@ -12,8 +12,9 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 
 ## Enunciado del proyecto
 
-|Nota:| Este es el enunciado general del rpoyecto. En este curso reañizaremos un subconjunto.|
+|Nota:| Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto.|
 |---|---|
+| | |
 
 Pese al auge de las plataformas digitales de música como iTunes o Spotify, existe un creciente grupo de personas que prefieren escuchar música en formatos tradicionales como los discos en vinilo. Es por esta razón que se quiere desarrollar una aplicación que proporcione al coleccionista aficionado la posibilidad de adquirirlos nuevos o usados, ya sea mediante compra o intercambio.
 
@@ -62,7 +63,7 @@ Los servicios que usará el front son provistos por un API REST que está previa
 | Base de datos            | Postgres                                  |
 | Framework                | Nest.js                                   |
 | Lenguaje de programación | Typescript                                |
-| Repositorio              | https://github.com/TiCSw/mt1_vinilos_back |
+| Repositorio              | https://github.com/MISW-4104-Web/BackVynils |
 
 #### Documentación del API
 
