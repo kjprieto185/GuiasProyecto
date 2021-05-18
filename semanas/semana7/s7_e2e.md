@@ -20,7 +20,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante realiza la implementación de las pruebas e2e para cada uno de los componentes desarrollados en ambas iteraciones.
+- Cada integrante realiza la implementación de las pruebas e2e para cada una de las historias de usuario desarrolladas en ambas iteraciones (1 y 2).
 
 ### Recursos
 
@@ -38,5 +38,5 @@ El objetivo de esta actividad es:
 
 ---
 
-- Hay definidas al menos una prueba e2e para cada componente desarrollado.
+- Hay definidas al menos una prueba e2e para cada historia de usuario desarrollada.
 - Las pruebas se ejecutan correctamente.
