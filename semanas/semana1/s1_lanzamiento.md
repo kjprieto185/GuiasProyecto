@@ -6,29 +6,29 @@
 
 Los objetivos de esta actividad son:
 
-- Interactuar con el equipo de trabajo y establecer las reglas de funcionamiento para lograr que el equipo funcione de manera efectiva y eficiente.
-- Discutir el enunciado, precisar, junto con los instructores del curso, el alcance delproyecto para este curso y resolver dudas.
+- Conocer el equipo de trabajo y establecer las reglas de funcionamiento para lograr una interacción efectiva y eficiente.
+- Discutir el enunciado del proyecto
+- Precisar, junto con los instructores del curso, el alcance del proyecto para este curso y resolver dudas.
 
 ### Pasos previos
 
 ---
 
-Antes de realizar la reunión de esta actividad, cada estudiante debe haber:
+Antes de realizar la reunión de esta actividad, cada estudiante debe haber realizado las siguientes actividades:
 
 #### Equipo
 
-- Confirmado quienes son sus compañeros de equipo.
-- Haber creado una cuenta en GitHub con el correo @uniandes, o asociar el correo @uniandes a su cuenta de GitHub existente.
+- Conformar el equipo de trabajo
+- Confirmar quién es su tutor asignado
+- Crear una cuenta en GitHub con el correo @uniandes, o asociar el correo @uniandes a su cuenta de GitHub existente.
 
 #### Proyecto
 
-- Leído las generalidades del proyecto y tener escritas las dudas sobre el enunciado.
-- Visto el video de presentación del proyecto y entendido, los objetivos, el alcance y las iteraciones.
+- Leer las generalidades del proyecto y tener escritas las dudas sobre el enunciado.
 
-#### Configuración ambiente
+#### API base
 
-- Tener clara la configuración tanto del repositorio de fuentes en GitHub como de la wiki donde irá la documentación.
-- En este enlace está el tutorial para configurar el ambiente de trabajo: http://misovirtual.virtual.uniandes.edu.co/codelabs/EntornoTrabajo/index.html#0.
+- Desplegar el API que servirá como base para implementar el front del proyecto
 
 #### Guías
 
@@ -47,14 +47,14 @@ Durante la reunión de lanzamiento:
 
 - Los integrantes del equipo se conocen, revisan sus disponibilidades y establecen un horario para las actividades del proyecto.
 - Revisan si hay entendimiento sobre los objetivos y alcance del proyecto,
-  la estrategia de las iteraciones y el proceso de planeación y seguimiento. En caso de dudas, estas se transmiten al tutor.
+  la estrategia de las iteraciones y el proceso de planeación y seguimiento. En caso de dudas estas se transmiten al tutor.
 - De común acuerdo, el equipo define quién será el líder del equipo.
 
 Con la coordinación del líder:
 
-- El equipo discute y establece las reglas de funcionamiento, mínimo 5, los cuales serán los compromisos que asumen los integrantes del equipo para llevar a buen término el proyecto.
+- El equipo discute y establece como mínimo 5 reglas de funcionamiento las cuales serán los compromisos que asumen los integrantes del equipo para llevar a buen término el proyecto.
 
-- El equipo revisa las dudas sobre el [enunciado](../../generalidades.md#enunciado) del proyecto; revisa si en el foro de preguntas estas dudas ya han sido resueltas y, en caso contrario, las formula en el foro.
+- El equipo revisa las dudas sobre el [enunciado](../../generalidades.md#enunciado) del proyecto y de haberlas, las formula al tutor asignado.
 
 ### Recursos
 
@@ -66,7 +66,7 @@ Con la coordinación del líder:
 
 ---
 
-- En la wiki del equipo, se debe escribir el documento de lanzamiento siguiendo el formato establecido.
+- En la wiki del equipo se debe escribir el documento de lanzamiento siguiendo el formato establecido.
 
 ### Criterios de evaluación
 
