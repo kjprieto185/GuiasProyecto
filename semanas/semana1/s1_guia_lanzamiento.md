@@ -4,7 +4,7 @@
 
 ---
 
-Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurre de forma espontánea. Para que esto suceda, el equipo debe realizar ciertas acciones encaminadas a atacar los retos que enfrenta.
+Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurra de forma espontánea. Para que esto suceda el equipo debe realizar ciertas acciones encaminadas a atacar los retos que enfrenta.
 
 Los retos más comunes que un equipo de software enfrenta están relacionados con no tener claramente definidos y entendidos:
 
@@ -14,13 +14,13 @@ Los retos más comunes que un equipo de software enfrenta están relacionados co
 
   - La planeación superficial o en muchos casos inadecuada: planes no balanceados, imprecisos, demasiado generales o imposibles de cumplir
 
-  - La dificultad para saber cuál es el estado del proyecto. “Si no se para dónde voy, cualquier mapa me sirve”.
+  - La dificultad para saber cuál es el estado del proyecto. “Si no sé para dónde voy, cualquier mapa me sirve”.
 
 - La forma de relacionarse entre los integrantes. Las dificultades de este reto están relacionadas con:
 
   - El miedo al conflicto
 
-  - La desconfianza y/o prejuicios hacia el trabajo que realizarán los demás
+  - La desconfianza o prejuicios hacia el trabajo que realizarán los demás
 
   - El evitar rendir cuentas
 
@@ -32,9 +32,9 @@ Los retos más comunes que un equipo de software enfrenta están relacionados co
 
 ---
 
-El objetivo de la actividad el lanzamiento de la iteración es discutir, entre los integrantes del equipo, para precisar cuáles serán las reglas, compromisos y acuerdos que cada uno se compromete a cumplir para enfrentar los retos mencionados y probablemente otros que se presenten.
+El objetivo de la actividad el lanzamiento es discutir, entre los integrantes del equipo, para precisar cuáles serán las reglas, compromisos y acuerdos que cada uno se compromete a cumplir para enfrentar los retos mencionados y probablemente otros que se presenten.
 
-Es importante anotar que esta actividad va de la mano de otra que se debe realizar al final de la iteración y que se llama la Retrospectiva de la iteración donde se revisa qué pasó y cómo podemos mejorar.
+Es importante anotar que esta actividad va de la mano de otra que se debe realizar al final de la iteración y que se llama la Retrospectiva de la iteración donde se revisa qué pasó y se definen las acciones de mejora.
 
 ## Preparación para el lanzamiento
 
@@ -56,7 +56,7 @@ La preparación consiste en una reflexión individual sobre lo que significa tra
 
 ---
 
-El lanzamiento se hace en una reunión con todos los integrantes del equipo. Se debe definir un moderador de la reunión cuya responsabilidad sea asignar la palabra, asegurarse que todos participan, que la discusión no se desvía hacia otros temas, etc.
+El lanzamiento se hace en una reunión con todos los integrantes del equipo. Se debe definir un moderador de la reunión cuya responsabilidad sea asignar la palabra, asegurarse de que todos participan, de que la discusión no se desvía hacia otros temas, etc.
 
 Se puede realizar la reunión alrededor de las preguntas individuales plateadas anteriormente.
 
@@ -72,16 +72,12 @@ Durante la reunión se debe abarcar asuntos como:
 
 - todo aquello que los integrantes consideren se debe definir para que el equipo funcione efectiva y eficientemente.
 
-| Nota sobre el alcance de esta actividad |
-| --------------------------------------- |
-|                                         |
-
 ## El papel del líder
 
 Las siguientes son las tareas que debe realizar el líder:
 
 - Coordinar las reuniones
-- Estar atento a que se gestione el kanban
+- Estar atento a que se gestione el _kanban_
 - Ser el canal de comunicación entre el equipo y el tutor
 
 ## Referencias
