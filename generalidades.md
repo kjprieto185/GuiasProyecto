@@ -2,7 +2,7 @@
 
 Este curso gira alrededor de un proyecto de desarrollo de software. Se espera que los estudiantes adquieran conocimientos y desarrollen habilidades mientras avanzan en él.
 
-El proyecto se hace en equipos de 2 - 4 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios. La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
+El proyecto se hace en equipos de 3 - 4 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios. La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
 
 Los retos a los que el grupo se enfrenta son similares a los que debe abordar un grupo de desarrollo en el mundo real.
 
@@ -12,43 +12,31 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 
 ## Enunciado del proyecto
 
-|Nota:| Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto.|
-|---|---|
-| | |
+| Nota: | Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto de las funcionalidades propuestas |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- |
+|       |                                                                                                                        |
 
-Pese al auge de las plataformas digitales de música como iTunes o Spotify, existe un creciente grupo de personas que prefieren escuchar música en formatos tradicionales como los discos en vinilo. Es por esta razón que se quiere desarrollar una aplicación que proporcione al coleccionista aficionado la posibilidad de adquirirlos nuevos o usados, ya sea mediante compra o intercambio.
+Un grupo de entusiastas del arte moderno quieren desarrollar una aplicación web que permita conocer los museos de arte moderno del mundo, sus exhibiciones, las obras, los artistas y los estilos o movimientos pictóricos (impresionismo, cubismo, dadaísmo, etc.).
 
-Se espera que por medio de este sistema los usuarios visitantes y los coleccionistas puedan conocer los vinilos disponibles. Por cada uno, la información de los músicos, las canciones y, para los artistas, los premios que el artista ha recibido (si es que tiene alguno). Adicionalmente, un coleccionista debe poder comprar, vender o intercambiar álbumes.
+Por cada museo sabemos su nombre, imagen, descripción, dirección, ciudad y salas de exhibiciones. A partir de una lista de museos podemos ingreasar a cada uno de ellos y navegar las salas con las obras exhibidas. Cada sala tiene un nombre, una descripción, un patrocinador y un conjunto de obras en exhibición.
 
-Un coleccionista puede ser comprador, vendedor o ambos. La información del coleccionista debe incluir su nombre, información de contacto (teléfono y correo electrónico) la cual es privada para el sistema, y sus artistas favoritos
+Una obra tiene un nombre, un tipo (pintura, escultura, objeto), el artista, el año de elaboración y un conjunto de imágenes.
 
-La funcionalidad principal de la aplicación es permitir que un coleccionista, que cumpla el rol de vendedor, pueda registrar los álbumes que tiene para vender o hacer trueque; y quien cumpla el rol de comprador, pueda realizar la compra o el intercambio.
-
-La aplicación debe ser muy llamativa para los usuarios e incluir una galería en donde sea fácil filtrar y buscar por distintos criterios como el nombre del album, del artista, de la casa discográfica o del género.
-
-Cada álbum debe caracterizarse por un nombre, la imagen de la carátula, la fecha de salida al mercado, una descripción, el género, la casa discográfica, el artista (o lista de artistas) y el listado de tracks. Los usuarios registrados en la aplicación pueden hacer comentarios sobre los álbumes.
-
-Del artista (que puede ser un músico o una banda) se requiere información como su nombre, una fotografía y un texto con una breve descripción. Si es una banda se debe conocer la fecha de formación, mientras que si es un músico se requiere su fecha de nacimiento.
-
-También es importante conocer los premios que ha recibido el artista y la organización que otorga los premios.
+A partir de la obra se debe poder navegar por el artista. De cada artista se conocen su nombre, una imagen, lugar y fecha de nacimiento, los movimientos artísticos a los que perteneció. Si se navega por el artista se debe ver una galería de sus obras.
 
 ## Modelo conceptual
 
 ![](./assets/images/ConceptualModel.png)
 
-| Concepto       | Descripción                                                                                                                                                                                               |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Album          | Disco musical                                                                                                                                                                                             |
-| ALBUM_STATUS   | Enumeración del estado de un álbum (Active, Inactive)                                                                                                                                                                       |
-| Collector      | Coleccionista registrado en la aplicación que puede publicar y comentar álbumes                                                                                                                           |
-| CollectorAlbum | Clase de asociación entre el coleccionista y el álbum. Contiene información sobre los álbumes de coleccionista para venta o intercambio, en particular el precio y el estado (disponible o no disponible) |
-| Comment        | Clase de asociación entre el coleccionista y el álbum. Contiene información sobre el contenido del comentario y el rating del álbum                                                                       |
-| GENRE          | Enumeración de los géneros musicales (Classical, Salsa, Rock, Folk)                                                                                                                                                                      |
-| Performer      | Artista que puede ser bien o una banda (Band) o un músico (Musician)                                                                                                                                      |
-| PerformerPrize | Clase de asociación entre el artista y el premio. Guarda información sobre la fecha en la cual se le otorga el premio al artista                                                                          |
-| Prize          | Premio que es otorgado por una organización a un artista                                                                                                                                                  |
-| RECORD_LABEL   | Enumeración de los sellos discográficos (Sony Music, EMI, Discos Fuentes, Elektra, Fania Record)                                                                                                                                                                  |
-| Track          | Pista musical del álbum                                                                                                                                                                                   |
+| Concepto   | Descripción                                                |
+| ---------- | ---------------------------------------------------------- |
+| Museo      | Lugar en que se conservan y exponen colecciones de objetos |
+| Artwork    | Obra artística                                             |
+| Artist     | Persona que crea una obra artística                        |
+| Exhibition | Sala de exhibición que contiene un conjunto de obras       |
+| Image      | Imagen que representa una obra                             |
+| Movement   | Movimiento artístico                                       |
+| Sponsor    | Patrocinador de una exhibición                             |
 
 ## Infraestructura
 
@@ -58,12 +46,14 @@ Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
 
 Los servicios que usará el front son provistos por un API REST que está previamente desarrollado. Las herramientas en las cuales está construido son:
 
-| Elemento                 | Herramienta                               |
-| ------------------------ | ----------------------------------------- |
-| Base de datos            | Postgres                                  |
-| Framework                | Nest.js                                   |
-| Lenguaje de programación | Typescript                                |
-| Repositorio              | https://github.com/MISW-4104-Web/BackVynils |
+| Elemento                 | Herramienta                                   |
+| ------------------------ | --------------------------------------------- |
+| Base de datos            | Postgres                                      |
+| Framework                | Nest.js                                       |
+| Lenguaje de programación | Typescript                                    |
+| Repositorio              | https://github.com/MISW-4104-Web/BackMuseums/ |
+
+El proyecto está configurado para que pueda ser desplegado en Heroku facilmente.
 
 #### Documentación del API
 
@@ -91,4 +81,4 @@ El front será desarrollado usando el framework Angular. El lenguaje de programa
 
 ## Distribución del trabajo por semanas
 
-El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el lunes a las 0:00 horas hasta el lunes de la siguiente semana a las 23:59 horas. Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
+El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el lunes a las 0:00 horas hasta el domingo a las 23:59 horas. Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
