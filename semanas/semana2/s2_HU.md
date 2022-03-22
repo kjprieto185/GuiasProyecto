@@ -1,25 +1,25 @@
 ## Historias de usuario: iteración 1
 
-| Id   | Nombre                                              | Resumen                                                                                                      | Detalla | Revisa |
-| ---- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------- | ------ |
-| HU01 | Consultar catálogo de álbumes                       | Como usuario visitante quiero navegar el catálogo de los álbumes para escoger los que más me interesan       |         |        |
-| HU02 | Consultar la información detallada de un álbum      | Como usuario visitante quiero ver el detalle de un álbum para ampliar la información sobre él                |         |        |
-| HU03 | Consultar el listado de músicos                     | Como usuario visitante quiero ver el listado de músicos para escoger los que más me interesan                |         |        |
-| HU04 | Consultar la información detallada de un músico     | Como usuario visitante quiero ver el detalle de un músico para ampliar la información sobre él               |         |        |
-| HU05 | Consultar listado de coleccionistas                 | Como usuario visitante quiero consultar el listado de coleccionistas para seleccionar el que más me interese |         |        |
-| HU06 | Consultar la información detallada de coleccionista | Como usuario visitante quiero ver el detalle de un coleccionista para conocer sus gustos musicales           |         |        |
-| HU07 | Consultar listado de premios                        | Como usuario visitante quiero consultar el listado de premios para seleccionar el que más me interese        |         |        |
-| HU08 | Consultar la información detallada de un premio     | Como usuario visitante quiero ver el detalle de un premio para ver a quién se ha otorgado                    |         |        |
+| Id   | Nombre                                                 | Resumen                                                                                                      | Detalla | Revisa |
+| ---- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------- | ------ |
+| HU01 | Consultar el listado de museos                         | Como usuario visitante quiero navegar el listado de los museos para visitar los que más me interesan         |         |        |
+| HU02 | Consultar la información detallada de un museo         | Como usuario visitante quiero ver el detalle de un museo para ampliar la información sobre él                |         |        |
+| HU03 | Consultar el listado de exhibiciones                   | Como usuario visitante quiero ver el listado de exhibiciones para escoger las que más me interesan           |         |        |
+| HU04 | Consultar la información detallada de una exhibición   | Como usuario visitante quiero ver el detalle de una exhibición para ampliar la información sobre ella        |         |        |
+| HU05 | Consultar listado de obras de arte                     | Como usuario visitante quiero consultar el listado de obras de arte para visualizar las que más me interesan |         |        |
+| HU06 | Consultar la información detallada de una obra de arte | Como usuario visitante quiero ver el detalle de una obra de arte para ampliar la información sobre ella      |         |        |
+| HU07 | Consultar listado de artistas                          | Como usuario visitante quiero consultar el listado de artistas para seleccionar el que más me interese       |         |        |
+| HU08 | Consultar la información detallada de un artista       | Como usuario visitante quiero ver el detalle de un artista para conocer su información y sus obras           |         |        |
 
 ## Historias de usuario: iteración 2
 
-| Id   | Nombre                        | Resumen                                                                                                           | Detalla | Revisa |
-| ---- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------- | ------ |
-| HU09 | Crear un álbum                | Como coleccionista quiero agregar un álbum al listado                                                             |         |        |
-| HU10 | Asociar tracks con un álbum   | Como coleccionista quiero agregar tracks a un álbum para actualizar el catálogo                                   |         |        |
-| HU11 | Comentar un álbum             | Como coleccionista quiero comentar un álbum para dar a conocer mi opinión                                         |         |        |
-| HU12 | Agregar músicos favoritos     | Como coleccionista quiero agregar mis músicos favoritos para que los demás usuarios conozcan mis gustos musicales |         |        |
-| HU13 | Agregar álbum a coleccionista | Como coleccionista quiero agregar un álbum para poder venderlo o intercambiarlo                                   |         |        |
-| HU14 | Agregar músicos a una banda   | Como coleccionista quiero agregar músicos a una banda para actualizar su información                              |         |        |
-| HU15 | Crear premios                 | Como coleccionista quiero crear nuevos premios para poder asociarlos a los músicos y a las bandas                 |         |        |
-| HU16 | Agregar un premio a una banda | Como coleccionista quiero agregar un premio a una banda para actualizar su información                            |         |        |
+| Id   | Nombre                                | Resumen                                                       | Detalla | Revisa |
+| ---- | ------------------------------------- | ------------------------------------------------------------- | ------- | ------ |
+| HU09 | Crear un museo                        | Como usuario quiero agregar un museo al listado               |         |        |
+| HU10 | Crear una exhibición                  | Como usuario quiero agregar una exhibición                    |         |        |
+| HU11 | Crear un artista                      | Como usuario quiero agregar un artista                        |         |        |
+| HU12 | Crear una obra de arte                | Como usuario quiero agregar una obra de arte                  |         |        |
+| HU13 | Crear un movimiento artístico         | Como usuario quiero agregar un movimiento artístico           |         |        |
+| HU14 | Crear un patrocinador                 | Como usuario quiero crear un patrocinador                     |         |        |
+| HU15 | Asociar una obra a una exhibición     | Como usuario quiero agregar una obra de arte a una exhibición |         |        |
+| HU16 | Asociar una imagen a una obra de arte | Como usuario quiero asociar una imagen a una obra de arte     |         |        |

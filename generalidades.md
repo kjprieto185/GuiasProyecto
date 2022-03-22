@@ -12,11 +12,11 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 
 ## Enunciado del proyecto
 
-| Nota: | Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto de las funcionalidades propuestas |
-| ----- | ---------------------------------------------------------------------------------------------------------------------- |
-|       |                                                                                                                        |
+| Nota                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto de las funcionalidades propuestas |
 
-Un grupo de entusiastas del arte moderno quieren desarrollar una aplicación web que permita conocer los museos de arte moderno del mundo, sus exhibiciones, las obras, los artistas y los estilos o movimientos pictóricos (impresionismo, cubismo, dadaísmo, etc.).
+Un grupo de entusiastas del arte moderno quieren desarrollar una aplicación web que permita conocer los museos de arte moderno del mundo, sus exhibiciones, las obras, los artistas y sus estilos o movimientos pictóricos (impresionismo, cubismo, dadaísmo, etc.).
 
 Por cada museo sabemos su nombre, imagen, descripción, dirección, ciudad y salas de exhibiciones. A partir de una lista de museos podemos ingreasar a cada uno de ellos y navegar las salas con las obras exhibidas. Cada sala tiene un nombre, una descripción, un patrocinador y un conjunto de obras en exhibición.
 
@@ -26,7 +26,7 @@ A partir de la obra se debe poder navegar por el artista. De cada artista se con
 
 ## Modelo conceptual
 
-![](./assets/images/ConceptualModel.png)
+![](./assets/images/conceptualModel.jpeg)
 
 | Concepto   | Descripción                                                |
 | ---------- | ---------------------------------------------------------- |
