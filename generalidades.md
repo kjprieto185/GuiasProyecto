@@ -28,15 +28,16 @@ A partir de la obra se debe poder navegar por el artista. De cada artista se con
 
 ![](./assets/images/conceptualModel.jpeg)
 
-| Concepto   | Descripción                                                |
-| ---------- | ---------------------------------------------------------- |
-| Museo      | Lugar en que se conservan y exponen colecciones de objetos |
-| Artwork    | Obra artística                                             |
-| Artist     | Persona que crea una obra artística                        |
-| Exhibition | Sala de exhibición que contiene un conjunto de obras       |
-| Image      | Imagen que representa una obra                             |
-| Movement   | Movimiento artístico                                       |
-| Sponsor    | Patrocinador de una exhibición                             |
+| Concepto     | Descripción                                                |
+| ------------ | ---------------------------------------------------------- |
+| Museum       | Lugar en que se conservan y exponen colecciones de objetos |
+| Exhibition   | Sala de exhibición que contiene un conjunto de obras       |
+| Sponsor      | Patrocinador de una exhibición                             |
+| Artwork      | Obra artística                                             |
+| Image        | Imagen que representa una obra                             |
+| Artist       | Persona que crea una obra artística                        |
+| Movement     | Movimiento artístico                                       |
+| MovementType | Enumeración para nombrar los movimientos artísticos        |
 
 ## Infraestructura
 
@@ -53,27 +54,24 @@ Los servicios que usará el front son provistos por un API REST que está previa
 | Lenguaje de programación | Typescript                                    |
 | Repositorio              | https://github.com/MISW-4104-Web/BackMuseums/ |
 
-El proyecto está configurado para que pueda ser desplegado en Heroku facilmente.
+El proyecto está configurado para que pueda ser desplegado en Heroku facilmente. Para el despliegue siga las instrucciones de este documento:
+
+- [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/DespliegueHeroku/index.html#1)
 
 #### Documentación del API
 
 ![](./assets/images/DTOModel.png)
 
-- [Álbum](https://documenter.getpostman.com/view/8840688/TWDUqdPw)
-- [Álbum Banda](https://documenter.getpostman.com/view/8840688/TWDUqdvr)
-- [Álbum Músico](https://documenter.getpostman.com/view/8840688/TWDUqdvs)
-- [Banda](https://documenter.getpostman.com/view/8840688/TWDUqdvu)
-- [Banda Álbum](https://documenter.getpostman.com/view/8840688/TWDUqdvw)
-- [Banda Músico](https://documenter.getpostman.com/view/8840688/TWDUqdvx)
-- [Coleccionista](https://documenter.getpostman.com/view/8840688/TWDUqe1E)
-- [Coleccionista Álbum](https://documenter.getpostman.com/view/8840688/TWDUqe1G)
-- [Coleccionista Artista](https://documenter.getpostman.com/view/8840688/TWDUqe1J)
-- [Comentarios](https://documenter.getpostman.com/view/8840688/TWDUqe1K)
-- [Músico](https://documenter.getpostman.com/view/8840688/TWDUqe1N)
-- [Músico Álbum](https://documenter.getpostman.com/view/8840688/TWDUqe5d)
-- [Artista Premio](https://documenter.getpostman.com/view/8840688/TWDUqe5f)
-- [Premio](https://documenter.getpostman.com/view/8840688/TWDUqe5g)
-- [Tracks](https://documenter.getpostman.com/view/8840688/TWDUqe5i)
+- [Artist]()
+- [Artist Movement]()
+- [Artwork]()
+- [Exhibition]()
+- [Exhibition Artwork]()
+- [Image]()
+- [Movement]()
+- [Movement Artist]()
+- [Museum]()
+- [Sponsor]()
 
 ### Front
 
