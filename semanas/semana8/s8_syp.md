@@ -39,7 +39,7 @@ Formato definición de una tarea:
 
 Ejemplo:
 
-| ![](./../../assets/images/kanbanTODO.PNG) |
+| ![](./../../assets/images/kanbanTODO.jpg) |
 | ----------------------------------------- |
 | Fig. Ejemplo Kanban                       |
 
