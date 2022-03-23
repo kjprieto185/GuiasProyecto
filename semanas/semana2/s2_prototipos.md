@@ -21,7 +21,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante realiza un prototipo de la página principal. Para esto se usará la herramienta [app.diagrams.net](http://app.diagrams.net).
+- Cada integrante realiza un prototipo de la página principal. Para esto se podrá usar la herramienta [app.diagrams.net](http://app.diagrams.net).
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 

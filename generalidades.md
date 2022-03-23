@@ -26,26 +26,22 @@ A partir de la obra se debe poder navegar por el artista. De cada artista se con
 
 ## Modelo conceptual
 
-![](./assets/images/conceptualModel.jpeg)
+![](./assets/images/conceptualModel.jpg)
 
-| Concepto     | Descripción                                                |
-| ------------ | ---------------------------------------------------------- |
-| Museum       | Lugar en que se conservan y exponen colecciones de objetos |
-| Exhibition   | Sala de exhibición que contiene un conjunto de obras       |
-| Sponsor      | Patrocinador de una exhibición                             |
-| Artwork      | Obra artística                                             |
-| Image        | Imagen que representa una obra                             |
-| Artist       | Persona que crea una obra artística                        |
-| Movement     | Movimiento artístico                                       |
-| MovementType | Enumeración para nombrar los movimientos artísticos        |
+| Concepto    | Descripción                                                |
+| ----------- | ---------------------------------------------------------- |
+| Artist      | Persona que crea una obra artística                        |
+| Artwork     | Obra artística                                             |
+| ArtworkType | Enumeración para nombrar los tipos de obras                |
+| Exhibition  | Sala de exhibición que contiene un conjunto de obras       |
+| Image       | Imagen que representa una obra                             |
+| Movement    | Movimiento artístico                                       |
+| Museum      | Lugar en que se conservan y exponen colecciones de objetos |
+| Sponsor     | Patrocinador de una exhibición                             |
 
-## Infraestructura
+## API REST
 
-Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
-
-### API REST
-
-Los servicios que usará el front son provistos por un API REST que está previamente desarrollado. Las herramientas en las cuales está construido son:
+Para el desarrollo del proyecto se cuenta con un API REST previamente desarrolado. Las herramientas en las cuales está construido son las siguientes:
 
 | Elemento                 | Herramienta                                   |
 | ------------------------ | --------------------------------------------- |
@@ -54,13 +50,13 @@ Los servicios que usará el front son provistos por un API REST que está previa
 | Lenguaje de programación | Typescript                                    |
 | Repositorio              | https://github.com/MISW-4104-Web/BackMuseums/ |
 
-El proyecto está configurado para que pueda ser desplegado en Heroku facilmente. Para el despliegue siga las instrucciones de este documento:
+El proyecto está configurado para que pueda ser desplegado facilmente en Heroku. Para el despliegue siga las instrucciones de este documento:
 
 - [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/DespliegueHeroku/index.html#1)
 
 #### Documentación del API
 
-![](./assets/images/DTOModel.png)
+![](./assets/images/dtoModel.jpg)
 
 - [Artist]()
 - [Artist Movement]()
