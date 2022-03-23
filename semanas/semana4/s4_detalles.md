@@ -1,4 +1,4 @@
-## Semana 4 - Desplegar detalles
+## Semana 4 - Listar detalles
 
 ### Objetivos
 
@@ -6,14 +6,14 @@
 
 El objetivo de esta actividad es:
 
-- Implementar los componentes relacionados con las historias de usuario de desplegar detalles de los recursos.
+- Implementar los componentes relacionados con las historias de usuario de listar detalles de los recursos.
 
 ### Pasos previos
 
 ---
 
-- Haber implementado los componentes relacionados con las historias de usuario de desplegar recursos.
-- Realizar un pull sobre el repositorio y asegurarse que la aplicación en su espacio local funciona.
+- Haber implementado los componentes relacionados con las historias de usuario de listar recursos.
+- Realizar un _pull_ sobre el repositorio y asegurarse de que la aplicación en su espacio local funciona.
 - Completar la estructura detallada de sus recursos de acuerdo con las nuevas clases displonibles en el proyecto realizadas por otros integrantes.
 
 ### Descripción actividad
@@ -24,13 +24,13 @@ El objetivo de esta actividad es:
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
 
-- Crear el componente de desplegar el detalle del recurso correspondiente siguiendo las convenciones de nombramiento.
+- Crear el componente de listar el detalle del recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente de acuerdo con el prototipo diseñado.
 - Invocar el servicio construido en el paso anterior.
 - Probar el componente.
 - Verificar que la aplicación funciona correctamente.
-- Realizar un commit en el repositorio local y solicitar un `pull request`.
-- El lider del equipo aprueba o no el `pull request`.
+- Realizar un commit en el repositorio local.
+- Subir los cambios a GitHub
 
 ### Recursos
 
@@ -48,4 +48,4 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- El detalle de cada recurso se despliega correctamente.
+- El detalle de cada recurso se muestra correctamente.

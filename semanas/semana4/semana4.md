@@ -4,9 +4,8 @@
 
 Los objetivos de la semana 4 son:
 
-1. Implementar las Historias de Usuario de desplegar los detalles de los recursos.
+1. Implementar las historias de usuario para el listado de los detalles.
 2. Seguir el proceso de flujos de trabajo sobre el manejador de versiones.
-3. Construir pruebas unitarias para los servicios.
 
 ### Resumen de las Actividades
 
@@ -14,4 +13,4 @@ Los objetivos de la semana 4 son:
 | ---------------------------------------------------------------------------------------------- |
 | [Hacer el seguimiento de la semana 3 y la planeación de la semana 4 ](s4_syp.md)               |
 | [Crear los métodos en los servicios para obtener los detalles de un recurso ](s4_servicios.md) |
-| [Desplegar detalles](s4_detalles.md)                                                           |
+| [Listar detalles](s4_detalles.md)                                                              |
