@@ -11,9 +11,9 @@ Los objetivos de la semana 2 son:
 
 ### Resumen de las Actividades
 
-| Actividad                                                                       |
-| ------------------------------------------------------------------------------- |
-| [Distribuir las historias de usuario para la iteración 1](s2_distribucion.md)   |
-| [Detallar y revisar las historias de usuario](s2_detallar.md)                   |
-| [Elaborar prototipo de la página principal de la aplicación ](s2_prototipos.md) |
-| [Hacer la planeación de la semana 2](s2_syp.md)                                 |
+| Actividad                                                                          |
+| ---------------------------------------------------------------------------------- |
+| [Distribuir las historias de usuario para la iteración 1](s2_distribucion.md)      |
+| [Detallar y revisar las historias de usuario para la iteración 1 ](s2_detallar.md) |
+| [Elaborar prototipo de la página principal de la aplicación ](s2_prototipos.md)    |
+| [Hacer la planeación de la semana 2](s2_syp.md)                                    |

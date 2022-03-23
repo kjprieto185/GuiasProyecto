@@ -29,7 +29,7 @@ Para realizar esta actividad:
 
 - Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser detalladas e implementadas más adelante. Cada integrante deberá tener 2 historias de usuario de la iteración 1.
 
-- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser revisadas. La revisión será asignada a un integrante diferente de quien la va a detallar.
+- Se distribuyen entre los integrantes, de forma balanceada, las historias de usuario para ser revisadas en la iteración 1. La revisión será asignada a un integrante diferente de quien la va a detallar.
 
 ### Entregables
 

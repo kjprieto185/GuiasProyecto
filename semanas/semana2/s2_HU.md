@@ -13,13 +13,13 @@
 
 ## Historias de usuario: iteración 2
 
-| Id   | Nombre                                | Resumen                                                       | Detalla | Revisa |
-| ---- | ------------------------------------- | ------------------------------------------------------------- | ------- | ------ |
-| HU09 | Crear un museo                        | Como usuario quiero agregar un museo al listado               |         |        |
-| HU10 | Crear una exhibición                  | Como usuario quiero agregar una exhibición                    |         |        |
-| HU11 | Crear un artista                      | Como usuario quiero agregar un artista                        |         |        |
-| HU12 | Crear una obra de arte                | Como usuario quiero agregar una obra de arte                  |         |        |
-| HU13 | Crear un movimiento artístico         | Como usuario quiero agregar un movimiento artístico           |         |        |
-| HU14 | Crear un patrocinador                 | Como usuario quiero crear un patrocinador                     |         |        |
-| HU15 | Asociar una obra a una exhibición     | Como usuario quiero agregar una obra de arte a una exhibición |         |        |
-| HU16 | Asociar una imagen a una obra de arte | Como usuario quiero asociar una imagen a una obra de arte     |         |        |
+| Id   | Nombre                                | Resumen                                                                       | Detalla | Revisa |
+| ---- | ------------------------------------- | ----------------------------------------------------------------------------- | ------- | ------ |
+| HU09 | Crear un museo                        | Como administrador del sitio quiero agregar un museo al listado               |         |        |
+| HU10 | Crear una exhibición                  | Como administrador del sitio quiero agregar una exhibición                    |         |        |
+| HU11 | Crear un artista                      | Como administrador del sitio quiero agregar un artista                        |         |        |
+| HU12 | Crear una obra de arte                | Como administrador del sitio quiero agregar una obra de arte                  |         |        |
+| HU13 | Crear un movimiento artístico         | Como administrador del sitio quiero agregar un movimiento artístico           |         |        |
+| HU14 | Crear un patrocinador                 | Como administrador del sitio quiero crear un patrocinador                     |         |        |
+| HU15 | Asociar una obra a una exhibición     | Como administrador del sitio quiero agregar una obra de arte a una exhibición |         |        |
+| HU16 | Asociar una imagen a una obra de arte | Como administrador del sitio quiero asociar una imagen a una obra de arte     |         |        |
