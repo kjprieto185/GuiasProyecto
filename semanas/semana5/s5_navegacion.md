@@ -12,7 +12,7 @@ El objetivo de esta actividad es:
 
 ---
 
-- Haber implementado los componentes relacionados con las historias de usuario de desplegar recursos y sus detalles.
+- Haber implementado los componentes relacionados con las historias de usuario de desplegar listas y sus detalles.
 - Haber realizdo el tutorial sobre enrutamiento.
 
 ### Descripción actividad
@@ -23,8 +23,8 @@ El objetivo de esta actividad es:
 
 Tomando como referencia el prototipo consolidado durante la semana 2, el equipo debe:
 
-- Crear los módulos de routing de acuerdo con los recursos.
-- Crear la página principal de la aplicación, junto con el menú que permita la navegación por los recursos y sus detalles.
+- Actualizar el módulo de routing de acuerdo con los recursos.
+- Crear la página principal de la aplicación junto con el menú que permita la navegación por los recursos y sus detalles.
 
 ### Recursos
 

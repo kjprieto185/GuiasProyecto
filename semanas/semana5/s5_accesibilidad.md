@@ -6,7 +6,7 @@
 
 El objetivo de esta actividad es:
 
-- Incorporar elementos de accesibilidad en la aplicación web, para garantizar un nivel de conformidad equivalente a AA según la pauta WCAG 2.1 de 2018.
+- Incorporar elementos de accesibilidad en la aplicación web para garantizar un nivel de conformidad equivalente a AA según la [pauta WCAG 2.1 de 2018](https://www.w3.org/TR/WCAG21/).
 
 ### Pasos previos
 
@@ -89,7 +89,7 @@ Cada estudiante debe haber:
 
 - Luego de haber constratado la aplicación con cada una de las guías de la tabla anterior, la aplicación deberá ser analizada utilizando el plugin AXE. Para eso, instale el plugin AXE en su navegador. Está disponible para Chrome (https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) y para Firefox (https://addons.mozilla.org/es/firefox/addon/axe-devtools/).
 
-- En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú Más herramientas) y en las opciones seleccione AXE. Luego haga clic al botón _Analyze_. Eso mostrará un listado de todos los issues reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de resolverlos.
+- En el caso de Chrome, luego de haber instalado el plugin, vaya a las herramientas para desarrolladores (ubicadada en el menú _Más herramientas_) y en las opciones seleccione AXE. Luego haga clic en el botón _Analyze_. Eso mostrará un listado de todos los _issues_ reportados por la herramienta. Asegúrese de revisar cada uno de ellos y de resolverlos.
 
 - Luego de la corrección, ejectute la herramienta hasta asegurarse de que no queda ningún issue por resolver.
 
@@ -111,4 +111,4 @@ Cada estudiante debe haber:
 
 ---
 
-- Para evaluar el cumplimiento de esta tarea, el tutor descargará el código del repositorio y ejecutará la herramienta de validación. Se espera no encontrar ningún issue reportado.
+- Para evaluar el cumplimiento de esta tarea, el tutor descargará el código del repositorio y ejecutará la herramienta de validación. Se espera no encontrar ningún _issue_ reportado.

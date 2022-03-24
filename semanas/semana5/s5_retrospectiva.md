@@ -25,17 +25,30 @@ Cada integrante completa la matriz DAKI con respecto a su comportamiento en el t
 
 Para esto primero contesta las preguntas:
 
-<table><tbody><tr><td><strong>Pregunta</strong>&nbsp;</td><td><strong>Calificación</strong>&nbsp;</td></tr><tr><td>Mi disponibilidad durante el ciclo para atender las tareas del proyecto fue (califique de 1 a 5 donde 5 corresponde a una alta disponibilidad)&nbsp;</td><td>&nbsp;</td></tr><tr><td>Mi contribución al trabajo del equipo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a un desempeño superior)&nbsp;</td><td>&nbsp;</td></tr><tr><td>La calidad de mi trabajo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a una alta calidad)&nbsp;</td><td>&nbsp;</td></tr><tr><td>Durante el ciclo, me ocupe de realizar la planeación y ejecución de las actividades semana a semana y de registrarlas en el Kanban (califique de 1 a 5 donde 5 corresponde a una alta ocupación)&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+| Pregunta                                                                                                                                                                                         | Valoración |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| Mi disponibilidad durante el ciclo para atender las tareas del proyecto fue (califique de 1 a 5 donde 5 corresponde a una alta disponibilidad)                                                   |            |
+| Mi contribución al trabajo del equipo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a un desempeño superior)                                                                         |            |
+| La calidad de mi trabajo en este ciclo fue (califique de 1 a 5 donde 5 corresponde a una alta calidad)                                                                                           |            |
+| Durante el ciclo, me ocupe de realizar la planeación y ejecución de las actividades semana a semana y de registrarlas en el Kanban (califique de 1 a 5 donde 5 corresponde a una alta ocupación) |            |
 
 Luego completa la matriz DAKI:
 
-<table><tbody><tr><td><strong>¿Qué debo dejar de hacer? (DROP)</strong>&nbsp;</td><td><strong>¿Por qué quiero dejar de hacerlo?</strong>&nbsp;</td><td><strong>¿Qué acciones o compromisos me ayudarían a dejar de hacerlo?</strong>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+| ¿Qué debo dejar de hacer? (DROP) | ¿Por qué quiero dejar de hacerlo? | ¿Qué acciones o compromisos me ayudarían a dejar de hacerlo? |
+| -------------------------------- | --------------------------------- | ------------------------------------------------------------ |
+|                                  |                                   |                                                              |
 
-<table><tbody><tr><td><strong>¿Qué debo empezar hacer? (ADD)</strong>&nbsp;</td><td><strong>¿Por qué debo empezar hacer esto?</strong>&nbsp;</td><td><strong>¿Qué acciones o compromisos me ayudarían a empezar a hacer esto?</strong>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+| ¿Qué debo empezar hacer? (ADD) | ¿Por qué debo empezar hacer esto? | ¿Qué acciones o compromisos me ayudarían a empezar a hacer esto? |
+| ------------------------------ | --------------------------------- | ---------------------------------------------------------------- |
+|                                |                                   |                                                                  |
 
-<table><tbody><tr><td><strong>¿Qué debo seguir haciendo? (KEEP)</strong>&nbsp;</td><td><strong>¿Por qué quiero seguir haciéndolo?</strong>&nbsp;</td><td><strong>¿Qué acciones o compromisos me ayudarían a seguir haciéndolo?</strong>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+| ¿Qué debo seguir haciendo? (KEEP) | ¿Por qué quiero seguir haciéndolo? | ¿Qué acciones o compromisos me ayudarían a seguir haciéndolo? |
+| --------------------------------- | ---------------------------------- | ------------------------------------------------------------- |
+|                                   |                                    |                                                               |
 
-<table><tbody><tr><td><strong>¿Qué debo hacer mejor? (IMPROVE)</strong>&nbsp;</td><td><strong>¿Por qué debo hacer más de esto?</strong>&nbsp;</td><td><strong>¿Qué acciones o compromisos me ayudarían a hacer más de esto?</strong>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+| ¿Qué debo hacer mejor? (IMPROVE) | ¿Por qué debo hacer más de esto? | ¿Qué acciones o compromisos me ayudarían a hacer más de esto? |
+| -------------------------------- | -------------------------------- | ------------------------------------------------------------- |
+|                                  |                                  |                                                               |
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 

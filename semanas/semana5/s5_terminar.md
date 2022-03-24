@@ -7,13 +7,13 @@
 Los objetivos de esta actividad son:
 
 - Completar y probar la implementación de las HU seleccionadas para la iteración 1.
-- Verificar que el proceso de IC no reporta errores.
+- Verificar que el proceso de integración continua no reporta errores.
 
 ### Pasos previos
 
 ---
 
-- Haber implementado e integrado las HU correspondientes.
+- Haber implementado las HU correspondientes.
 
 ### Descripción actividad
 
@@ -21,7 +21,7 @@ Los objetivos de esta actividad son:
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-Los integrantes se aseguran de finalizar la implementación de las funcionalidades para esta iteración, en particular, las pruebas de los servicios, el listar y listar detalle, la página principal y la navegación.
+Los integrantes se aseguran de finalizar la implementación de las funcionalidades para esta iteración, en particular, los servicios, el listar los recursos, el listar los detalles, la página principal y la navegación.
 
 ### Entregables
 
