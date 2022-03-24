@@ -6,7 +6,7 @@
 
 ### Resumen de las Actividades
 
-| Actividad                                                                     |
-| ----------------------------------------------------------------------------- |
+| Actividad                                                                        |
+| -------------------------------------------------------------------------------- |
 | [Hacer el seguimiento de la semana 6 y la planeación de la semana 7 ](s7_syp.md) |
 | [Implementar pruebas e2e ](s7_e2e.md)                                            |

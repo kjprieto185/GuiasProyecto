@@ -21,26 +21,28 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante termina la implementación del proyecto de acuerdo con la planeación en el kanban, para esto revisará que no tenga tareas por terminar.
+- Cada integrante termina la implementación del proyecto de acuerdo con la planeación en el Kanban; para esto revisará que no tenga tareas por terminar.
 
 ### Entregable
 
 ---
 
-- Repositorio de Github actualizado
+- Repositorio de GitHub actualizado
 
 ### Criterios de calificación
 
 ---
 
 #### Actividades individuales
+
 - Kanban: planeación de la semana 6
 - Kanban: planeación de la semana 7
 - Kanban: planeación de la semana 8
-- Github: código de los módulos, servicios y componentes implementados para crear
+- Github: código de los módulos, servicios y componentes para la implementación de las historias de usuario de las iteraciones 1 y 2
 - Github: código de las pruebas e2e
 
 #### Actividades grupales
+
 - Kanban: seguimiento de la semana 6
 - Kanban: seguimiento de la semana 7
 - Wiki con el documento de lanzamiento
