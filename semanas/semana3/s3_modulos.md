@@ -34,7 +34,8 @@ Cada integrante, para cada uno de los recursos involucrados en las historias de 
 
 ---
 
-- Tutorial de configuración de ambiente de trabajo: https://misovirtual.virtual.uniandes.edu.co/codelabs/202212_EntornoTrabajo/index.html#0
+- Tutorial de configuración de ambiente de trabajo: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_EntornoTrabajo/index.html
+- Tutorial de listar books (pasos del 1 al 4): https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_AngularListarBooks/index.html#0
 
 ### Entregables
 

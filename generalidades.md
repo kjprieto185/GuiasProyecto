@@ -52,7 +52,7 @@ Para el desarrollo del proyecto se cuenta con un API REST previamente desarrolla
 
 El proyecto está configurado para que pueda ser desplegado facilmente en Heroku. Para el despliegue siga las instrucciones de este documento:
 
-- [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/DespliegueHeroku/index.html)
+- [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_DespliegueHeroku/index.html#0)
 
 #### Documentación del API
 

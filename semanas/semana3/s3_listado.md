@@ -38,8 +38,8 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- Tutorial lista de cursos: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-courses-basico/index.html#0
-- Tutorial galería de libros: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-books-listar/#0
+- Tutorial de configuración de ambiente de trabajo: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_EntornoTrabajo/index.html
+- Tutorial de listar books: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_AngularListarBooks/index.html#0
 
 ### Entregables
 

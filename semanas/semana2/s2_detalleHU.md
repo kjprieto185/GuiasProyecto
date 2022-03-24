@@ -1,4 +1,6 @@
-# HU01: Consultar catálogo de álbumes
+# Detalle de la historia de usuario
+
+## HU01: Consultar catálogo de álbumes
 
 | Elemento                        | Descripción                                                                                                                                                                                                                                                 |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -6,6 +8,9 @@
 | Criterios de aceptación         | Al ingresar a la aplicación web el usuario visitante debe encontrar la sección de museos en la cual se muestra un listado de todos los museos. Cada ítem (tarjeta) deberá mostrar la fotografía del museo, su nombre y la ciudad donde se encuentra ubicado |
 |                                 | La interfaz gráfica de la página debe adaptarse al tamaño de la pantalla del dispositivo                                                                                                                                                                    |
 | Prototipo del listado de museos | ![Consultar listado de museos](../../assets/images/listadoMuseos.jpg)                                                                                                                                                                                       |
+
+
+## Revisión HU01: Consultar catálogo de álbumes
 
 | Criterio        | Revisión                                                                                                                                |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
