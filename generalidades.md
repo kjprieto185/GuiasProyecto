@@ -2,13 +2,13 @@
 
 Este curso gira alrededor de un proyecto de desarrollo de software. Se espera que los estudiantes adquieran conocimientos y desarrollen habilidades mientras avanzan en él.
 
-El proyecto se hace en equipos de 3 - 4 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios. La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
+El proyecto se hace en equipos de 3 - 4 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios (API Rest). La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
 
 Los retos a los que el grupo se enfrenta son similares a los que debe abordar un grupo de desarrollo en el mundo real.
 
 Los estudiantes tendrán que rendir cuentas tanto por su trabajo individual como por su contribución, colaboración y soporte en el equipo. El éxito de cada estudiante depende de la terminación exitosa del producto y en la evidencia del buen funcionamiento del equipo.
 
-Cada semana el estudiante debe realizar actividades de manera autónoma para las que se dispone de un conjunto de recursos en línea que le permitirán avanzar en ellas. Durante la sesión síncrona se aclararán dudas y se trabajará en cómo los conceptos se incorporan en el proyecto. El equipo trabajará en el seguimiento y planeación del proyecto y el profesor dará retroalimentación sobre los avances.
+Cada semana el estudiante debe realizar actividades de manera autónoma para las que se dispone de un conjunto de recursos en línea que le permitirán avanzar en ellas. Durante la sesión síncrona se aclararán dudas y se trabajará en cómo los conceptos se incorporan en el proyecto. El equipo trabajará en el seguimiento y planeación del proyecto, el profesor y los tutores dará retroalimentación sobre los avances.
 
 ## Enunciado del proyecto
 
@@ -41,7 +41,7 @@ A partir de la obra se debe poder navegar por el artista. De cada artista se con
 
 ## API REST
 
-Para el desarrollo del proyecto se cuenta con un API REST previamente desarrolado. Las herramientas en las cuales está construido son las siguientes:
+Para el desarrollo del proyecto se cuenta con un API REST previamente desarrollado. Las herramientas en las cuales está construido son las siguientes:
 
 | Elemento                 | Herramienta                                   |
 | ------------------------ | --------------------------------------------- |
@@ -75,4 +75,4 @@ El front será desarrollado usando el framework Angular. El lenguaje de programa
 
 ## Distribución del trabajo por semanas
 
-El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el lunes a las 0:00 horas hasta el domingo a las 23:59 horas. Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
+El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el lunes a las 0:00 horas hasta el domingo a las 23:59 horas (Colombia Time (COT), UTC -5). Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
