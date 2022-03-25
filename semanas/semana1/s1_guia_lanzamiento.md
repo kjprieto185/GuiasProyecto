@@ -4,7 +4,7 @@
 
 ---
 
-Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurra de forma espontánea. Para que esto suceda el equipo debe realizar ciertas acciones encaminadas a atacar los retos que enfrenta.
+Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurra de forma espontánea. Para que esto suceda el equipo debe realizar ciertas acciones encaminadas a enfrentar los retos que enfrenta.
 
 Los retos más comunes que un equipo de software enfrenta están relacionados con no tener claramente definidos y entendidos:
 
