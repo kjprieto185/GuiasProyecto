@@ -18,9 +18,9 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber real
 
 #### Equipo
 
-- Conformar el equipo de trabajo
-- Confirmar quién es su tutor asignado
-- Crear una cuenta en GitHub con el correo @uniandes, o asociar el correo @uniandes a su cuenta de GitHub existente.
+- Conformar el equipo de trabajo.
+- Confirmar quién es su tutor asignado.
+- Crear una cuenta en GitHub con el correo @uniandes.edu.co, o asociar el correo @uniandes.edu.co a su cuenta de GitHub existente.
 
 #### Proyecto
 
@@ -28,15 +28,14 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber real
 
 #### API base
 
-- Desplegar el API que servirá como base para implementar el front del proyecto
+- Desplegar el API que servirá como base para implementar el front del proyecto.
 
 #### Guías
 
-- Visto el video de recomendación sobre las reuniones de equipo: https://vimeo.com/conectate/review/449686277/5465152b4a
+- Haber visto el video de recomendación sobre las reuniones de equipo. Para ver correctamente el video copie la URL y ábrala en una nueva ventana del navegador:  https://vimeo.com/conectate/review/449686277/5465152b4a
 - Haber leído la [guía de preparación para el lanzamiento](s1_guia_lanzamiento.md)
 
-1. Para ver correctamente el video copie la URL y ábrala en una nueva ventana del navegador.
-
+1. 
 ### Descripción actividad
 
 ---
