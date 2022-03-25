@@ -6,7 +6,7 @@
 
 Los objetivos de esta actividad son:
 
-- Definir los criterios de aceptación de las historias de usuario.
+- Utilizar los criterios de aceptación de las historias de usuario para revisarlas.
 - Preparar el detalle de las historias de usuario, utilizando el conocimiento que se tiene del proyecto.
 - Revisar las historias de usuario para identificar potenciales inconsistencias o información incompleta.
 
