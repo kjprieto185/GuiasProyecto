@@ -26,7 +26,6 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 - Crear el componente de listar el detalle del recurso correspondiente siguiendo las convenciones de nombramiento.
 - Crear la vista del componente de acuerdo con el prototipo diseñado.
-- Invocar el servicio construido en el paso anterior.
 - Probar el componente.
 - Verificar que la aplicación funciona correctamente.
 - Realizar un commit en el repositorio local.
@@ -36,7 +35,7 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- Tutorial detalle Book: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-books-listar-detalle/#0
+- Tutorial detalle Book: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_VT13_AngularMaestroDetalleBooks/index.html#0
 
 ### Entregables
 
