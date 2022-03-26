@@ -26,7 +26,7 @@ El objetivo de esta actividad es:
 
 ---
 
-- Tutorial de pruebas e2e: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-pruebas-e2e/index.html#0.
+- Tutorial de pruebas e2e: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_VT18_AngularPruebasE2E/index.html#0
 
 ### Entregable
 
