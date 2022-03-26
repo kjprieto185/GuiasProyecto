@@ -18,6 +18,12 @@ El objetivo de esta actividad es:
 
 ---
 
+#### ![](./../../assets/images/individuo.png) Actividad del equipo
+
+Agregar el interceptor para el manejo de error en Angular.
+
+---
+
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
@@ -35,7 +41,8 @@ Cada integrante en su espacio local, para cada uno de los recursos involucrados 
 
 ---
 
-- Tutorial crear un formulario: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-create-simple/index.html#0.
+- Tutorial para el manejo de error: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_VT14_AngularManejoError/index.html#0
+- Tutorial crear un formulario: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_VT15_AngularFormulario/index.html#0
 
 ### Entregables
 
