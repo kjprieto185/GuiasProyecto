@@ -16,5 +16,5 @@ Los objetivos de la semana 6 son:
 | [Registrar la planeación de la semana 6](s6_syp.md)                                |
 | [Distribuir las historias de usuario para la iteración 2](s6_distribucion.md)      |
 | [Detallar y revisar las historias de usuario para la iteración 2 ](s6_detallar.md) |
-| [Implementar la creación de recursos](s6_crear.md)                                 |
 | [Incorporar internacionalización](s6_i18n.md)                                      |
+| [Implementar la creación de recursos](s6_crear.md)                                 |
