@@ -30,7 +30,7 @@ Tomando como referencia el prototipo consolidado durante la semana 2, el equipo 
 
 ---
 
-- Tutorial Enrutamiento: https://misovirtual.virtual.uniandes.edu.co/codelabs/angular-routing/#0
+- Tutorial Enrutamiento: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_VT14_A_AngularRouting/index.html#0
 
 ### Entregables
 
