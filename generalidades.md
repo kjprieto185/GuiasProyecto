@@ -58,16 +58,17 @@ El proyecto está configurado para que pueda ser desplegado facilmente en Heroku
 
 ![](./assets/images/dtoModel.jpg)
 
-- [Artist]()
-- [Artist Movement]()
-- [Artwork]()
-- [Exhibition]()
-- [Exhibition Artwork]()
-- [Image]()
-- [Movement]()
-- [Movement Artist]()
-- [Museum]()
-- [Sponsor]()
+- [Artist](https://documenter.getpostman.com/view/8840688/UVyn1dg2)
+- [Artist Movement](https://documenter.getpostman.com/view/8840688/UVyn1dg3)
+- [Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dg4)
+- [Exhibition](https://documenter.getpostman.com/view/8840688/UVyn1dkK)
+- [Exhibition Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dkL)
+- [Image](https://documenter.getpostman.com/view/8840688/UVyn1dkM)
+- [Movement](https://documenter.getpostman.com/view/8840688/UVyn1dkN)
+- [Movement Artist](https://documenter.getpostman.com/view/8840688/UVyn1dkP)
+- [Museum](https://documenter.getpostman.com/view/8840688/UVyn1dkQ)
+- [Museum Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dkR)
+- [Sponsor](https://documenter.getpostman.com/view/8840688/UVyn1dkS)
 
 ### Front
 
