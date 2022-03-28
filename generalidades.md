@@ -2,7 +2,7 @@
 
 Este curso gira alrededor de un proyecto de desarrollo de software. Se espera que los estudiantes adquieran conocimientos y desarrollen habilidades mientras avanzan en él.
 
-El proyecto se hace en equipos de 3 - 4 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios (API Rest). La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
+El proyecto se hace en equipos de 3 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios (API Rest). La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
 
 Los retos a los que el grupo se enfrenta son similares a los que debe abordar un grupo de desarrollo en el mundo real.
 
