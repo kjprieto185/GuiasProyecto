@@ -43,16 +43,14 @@ A partir de la obra se debe poder navegar por el artista. De cada artista se con
 
 Para el desarrollo del proyecto se cuenta con un API REST previamente desarrollado. Las herramientas en las cuales está construido son las siguientes:
 
-| Elemento                 | Herramienta                                     |
-| ------------------------ | ----------------------------------------------- |
-| Base de datos            | Postgres                                        |
-| Framework                | Nest.js                                         |
-| Lenguaje de programación | Typescript                                      |
-| Repositorio              | [https://github.com/MISW-4104-Web/BackMuseums/] |
+| Elemento                 | Herramienta                                   |
+| ------------------------ | --------------------------------------------- |
+| Base de datos            | Postgres                                      |
+| Framework                | Nest.js                                       |
+| Lenguaje de programación | Typescript                                    |
+| Repositorio              | https://github.com/MISW-4104-Web/BackMuseums/ |
 
-El proyecto está configurado para que pueda ser desplegado facilmente en Heroku. Para el despliegue siga las instrucciones de este documento:
-
-- [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_DespliegueHeroku/index.html#0)
+El proyecto está configurado para que pueda ser desplegado facilmente en Heroku. Para el despliegue siga las instrucciones de este documento: [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_DespliegueHeroku/index.html#0)
 
 ## Documentación del API
 
