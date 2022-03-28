@@ -54,7 +54,7 @@ El proyecto está configurado para que pueda ser desplegado facilmente en Heroku
 
 - [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_DespliegueHeroku/index.html#0)
 
-#### Documentación del API
+## Documentación del API
 
 ![](./assets/images/dtoModel.jpg)
 
@@ -70,7 +70,7 @@ El proyecto está configurado para que pueda ser desplegado facilmente en Heroku
 - [Museum Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dkR)
 - [Sponsor](https://documenter.getpostman.com/view/8840688/UVyn1dkS)
 
-### Front
+## Front
 
 El front será desarrollado usando el framework Angular. El lenguaje de programación será Typescript y se usarán otras herramientas que se intregan en Angular como Bootstrap y Toastr.
 
