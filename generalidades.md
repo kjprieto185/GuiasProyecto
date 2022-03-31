@@ -56,8 +56,8 @@ El proyecto está configurado para que pueda ser desplegado facilmente en Heroku
 
 ![](./assets/images/dtoModel.jpg)
 
-- [Artist](https://documenter.getpostman.com/view/8840688/UVyn1dg2)
-- [Artist Movement](https://documenter.getpostman.com/view/8840688/UVyn1dg3)
+- [Artist](https://documenter.getpostman.com/view/8840688/UVyrTbbU)
+- [Artist Movement](https://documenter.getpostman.com/view/8840688/UVyrTbbW)
 - [Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dg4)
 - [Exhibition](https://documenter.getpostman.com/view/8840688/UVyn1dkK)
 - [Exhibition Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dkL)
