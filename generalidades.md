@@ -2,7 +2,7 @@
 
 Este curso gira alrededor de un proyecto de desarrollo de software. Se espera que los estudiantes adquieran conocimientos y desarrollen habilidades mientras avanzan en él.
 
-El proyecto se hace en equipos de máximo 3 estudiantes. El producto que se debe construir está conformado por una aplicación web que se integra con un _Back-end_ existente mediante una interface de servicios (API Rest). La aplicación se espera que sea semejante a muchas existentes y utilizadas de manera regular por miles de personas en el mundo.
+El proyecto se hace en equipos de máximo 3 estudiantes. El producto que se debe construir es un API REST.
 
 Los retos a los que el grupo se enfrenta son similares a los que debe abordar un grupo de desarrollo en el mundo real.
 
@@ -38,39 +38,6 @@ A partir de la obra se debe poder navegar por el artista. De cada artista se con
 | Movement    | Movimiento artístico                                       |
 | Museum      | Lugar en que se conservan y exponen colecciones de objetos |
 | Sponsor     | Patrocinador de una exhibición                             |
-
-## API REST
-
-Para el desarrollo del proyecto se cuenta con un API REST previamente desarrollado. Las herramientas en las cuales está construido son las siguientes:
-
-| Elemento                 | Herramienta                                   |
-| ------------------------ | --------------------------------------------- |
-| Base de datos            | Postgres                                      |
-| Framework                | Nest.js                                       |
-| Lenguaje de programación | Typescript                                    |
-| Repositorio              | https://github.com/MISW-4104-Web/BackMuseums/ |
-
-El proyecto está configurado para que pueda ser desplegado facilmente en Heroku. Para el despliegue siga las instrucciones de este documento: [Tutorial despliegue back en Heroku](https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_DespliegueHeroku/index.html#0)
-
-## Documentación del API
-
-![](./assets/images/dtoModel.jpg)
-
-- [Artist](https://documenter.getpostman.com/view/8840688/UVyrTbbU)
-- [Artist Movement](https://documenter.getpostman.com/view/8840688/UVyrTbbW)
-- [Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dg4)
-- [Exhibition](https://documenter.getpostman.com/view/8840688/UVyn1dkK)
-- [Exhibition Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dkL)
-- [Image](https://documenter.getpostman.com/view/8840688/UVyn1dkM)
-- [Movement](https://documenter.getpostman.com/view/8840688/UVyn1dkN)
-- [Movement Artist](https://documenter.getpostman.com/view/8840688/UVyn1dkP)
-- [Museum](https://documenter.getpostman.com/view/8840688/UVyn1dkQ)
-- [Museum Artwork](https://documenter.getpostman.com/view/8840688/UVyn1dkR)
-- [Sponsor](https://documenter.getpostman.com/view/8840688/UVyn1dkS)
-
-## Front
-
-El front será desarrollado usando el framework Angular. El lenguaje de programación será Typescript y se usarán otras herramientas que se intregan en Angular como Bootstrap y Toastr.
 
 ## Distribución del trabajo por semanas
 
