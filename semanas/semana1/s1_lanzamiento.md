@@ -26,10 +26,6 @@ Antes de realizar la reunión de esta actividad, cada estudiante debe haber real
 
 - Leer las generalidades del proyecto y tener escritas las dudas sobre el enunciado.
 
-#### API base
-
-- Desplegar el API que servirá como base para implementar el front del proyecto.
-
 #### Guías
 
 - Haber visto el video de recomendación sobre las reuniones de equipo. Para ver correctamente el video copie la URL y ábrala en una nueva ventana del navegador:  https://vimeo.com/conectate/review/449686277/5465152b4a
