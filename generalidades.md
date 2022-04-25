@@ -42,3 +42,5 @@ A partir de la obra se debe poder navegar por el artista. De cada artista se con
 ## Distribución del trabajo por semanas
 
 El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación y el seguimiento, la semana de trabajo se toma desde el lunes a las 0:00 horas hasta el domingo a las 23:59 horas (Colombia Time (COT), UTC -5). Por tanto, todos los entregables de cada actividad deberán estar disponibles antes de la hora de cierre en la wiki o en el repositorio del proyecto según corresponda.
+
+- [Semana 1](./semanas/semana1/semana1.md)
