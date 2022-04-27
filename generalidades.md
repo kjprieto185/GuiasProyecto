@@ -24,20 +24,6 @@ Una obra tiene un nombre, un tipo (pintura, escultura, objeto), el artista, el a
 
 A partir de la obra se debe poder navegar por el artista. De cada artista se conocen su nombre, una imagen, lugar y fecha de nacimiento, los movimientos artísticos a los que perteneció. Si se navega por el artista se debe ver una galería de sus obras.
 
-## Modelo conceptual
-
-![](./assets/images/conceptualModel.jpg)
-
-| Concepto    | Descripción                                                |
-| ----------- | ---------------------------------------------------------- |
-| Artist      | Persona que crea una obra artística                        |
-| Artwork     | Obra artística                                             |
-| ArtworkType | Enumeración para nombrar los tipos de obras                |
-| Exhibition  | Sala de exhibición que contiene un conjunto de obras       |
-| Image       | Imagen que representa una obra                             |
-| Movement    | Movimiento artístico                                       |
-| Museum      | Lugar en que se conservan y exponen colecciones de objetos |
-| Sponsor     | Patrocinador de una exhibición                             |
 
 ## Distribución del trabajo por semanas
 
