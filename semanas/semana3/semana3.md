@@ -6,13 +6,13 @@ En esta sección se plantean los objetivos y las actividades del proyecto para l
 
 Los objetivos de la semana 3 son:
 
-1. Implementar las historias de usuario relacionadas con el listado de elementos.
-2. Definir y seguir el proceso de flujos de trabajo sobre el manejador de versiones.
+1. Realizar el diseño del API REST.
+2. Prototipar el API REST.
 
 ### Resumen de las Actividades
 
 | Actividad                                                                       |
 | ------------------------------------------------------------------------------- |
 | [Hacer el seguimiento de la semana 2 y la planeación de la semana 3](s3_syp.md) |
-| [Crear módulos, servicios y estructuras de datos](s3_modulos.md)                |
-| [Implementar el listado de elementos](s3_listado.md)                            |
+| [Diseñar el API](s3_design.md)                |
+| [Prototipar el API](s3_prototipar.md)                            |
