@@ -31,7 +31,12 @@ El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación
 
 - [Semana 1](./semanas/semana1/semana1.md)
 - [Semana 2](./semanas/semana2/semana2.md)
+- [Semana 3](./semanas/semana3/semana3.md)
 
 ## Evaluación
 
-- TODO: Acá van los detalles de la evaluación
+Para la evaluación de este curso se han definido varias actividades:
+- Cuestionarios formativos
+- Cuestionarios sumativos
+- Avances semanales del proyecto
+- Examen final
