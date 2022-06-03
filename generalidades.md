@@ -20,9 +20,9 @@ Un grupo de aficionados al fútbol quiere construir un API para manejar la infor
 
 La información principal será el listado de todos los mundiales celebrados hasta la fecha. De cada mundial interesa conocer el año, el país donde se jugó el mundial y el nombre de la mascota. 
 
-En cada mundial existe un conjunto de países que han participado. Por cada pais se requiere el nombre, y la bandera
+En cada mundial existe un conjunto de selecciones que han participado. Por cada selección se requiere el nombre del pais que representa y la bandera.
 
-Los mundiales contienen un listado de partidos. En cada partido  es importante mostrar las selecciones enfrentadas, la ciudad y el estadio donde se jugó el encuentro, el marcador final y el listado de los jugadores que anotaron goles. Es importante poder visualizar los partidos por rondas en el campeonato (ronda inicial, octavos de final, cuartos de final, semifinal, final).
+Los mundiales contienen un listado de partidos. En cada partido es importante mostrar las selecciones enfrentadas, la ciudad y el estadio donde se jugó el encuentro, el marcador final y el listado de los jugadores que anotaron goles. Es importante poder visualizar los partidos por rondas en el campeonato (ronda inicial, octavos de final, cuartos de final, semifinal, final).
 
 De los jugadores de cada selección se requiere su nombre, una fotografía, la fecha de nacimiento, la liga en la cual juega actualmente y su posición en la cancha. 
 
