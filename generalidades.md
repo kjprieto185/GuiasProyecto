@@ -16,14 +16,17 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto de las funcionalidades propuestas |
 
-Un grupo de entusiastas del arte moderno quieren desarrollar una aplicación web que permita conocer los museos de arte moderno del mundo, sus exhibiciones, las obras, los artistas y sus estilos o movimientos pictóricos (impresionismo, cubismo, dadaísmo, etc.).
+Un grupo de aficionados al fútbol quiere construir un API para manejar la información relevante de los campeonatos mundiales de este deporte. 
 
-Por cada museo sabemos su nombre, imagen, descripción, dirección, ciudad y salas de exhibiciones. A partir de una lista de museos podemos ingreasar a cada uno de ellos y navegar las salas con las obras exhibidas. Cada sala tiene un nombre, una descripción, un patrocinador y un conjunto de obras en exhibición.
+La información principal será el listado de todos los mundiales celebrados hasta la fecha. De cada mundial interesa conocer el año, el país donde se jugó el mundial y el nombre de la mascota. 
 
-Una obra tiene un nombre, un tipo (pintura, escultura, objeto), el artista, el año de elaboración y un conjunto de imágenes.
+En cada mundial existe un conjunto de países que han participado. Por cada pais se requiere el nombre, y la bandera
 
-A partir de la obra se debe poder navegar por el artista. De cada artista se conocen su nombre, una imagen, lugar y fecha de nacimiento, los movimientos artísticos a los que perteneció. Si se navega por el artista se debe ver una galería de sus obras.
+Los mundiales contienen un listado de partidos. En cada partido  es importante mostrar las selecciones enfrentadas, la ciudad y el estadio donde se jugó el encuentro, el marcador final y el listado de los jugadores que anotaron goles. Es importante poder visualizar los partidos por rondas en el campeonato (ronda inicial, octavos de final, cuartos de final, semifinal, final).
 
+De los jugadores de cada selección se requiere su nombre, una fotografía, la fecha de nacimiento, la liga en la cual juega actualmente y su posición en la cancha. 
+
+En esta aplicación también se mostrará información sobre árbitros y entrenadores. Del árbitro se mostrará el nombre, la nacionalidad y el listado de los partidos en los cuales figuró como juez indicando el rol desempeñado (juez principal, de línea o asistente). Con respecto al entrenador se tendrá el nombre, la fotografía y un texto con una breve biografía. 
 
 ## Distribución del trabajo por semanas
 
