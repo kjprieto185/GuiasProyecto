@@ -16,17 +16,19 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto de las funcionalidades propuestas |
 
-Un grupo de aficionados al fútbol quiere construir un API para manejar la información relevante de los campeonatos mundiales de este deporte. 
+La cultura, la historia, el clima, entre otros, son factores que han influido en la forma como los pueblos en el mundo perciben, preparan y disfrutan la comida. Esta evolución ha llevado a que existan tipos de comida característicos de un país o una región.
 
-La información principal será el listado de todos los mundiales celebrados hasta la fecha. De cada mundial interesa conocer el año, el país donde se jugó el mundial y el nombre de la mascota. 
+Un grupo de entusiastas de la comida quieren desarrollar una aplicación web que le permita a las personas interesadas, conocer y entender más sobre las distintas culturas gastronómicas en el mundo. 
 
-En cada mundial existe un conjunto de selecciones que han participado. Por cada selección se requiere el nombre del pais que representa y la bandera.
+Toda está información sobre las cocinas del mundo será provista por un API REST. El concepto central es el de _cultura gastronómica_, la cual tiene un nombre que en algunos casos está definido por el país o por la región de origen de este tipo de cocina. Algunos nombres para las culturas gastronómicas pueden ser: la cultura gastronómica francesa, la cultura gastronómica, o la cultura gastronómica mediterránea. Por cada cultura se debe tener la lista de países que la incluyen. En el caso de la cultura gastronḿica francesa, el país evidentemente es Francia, pero en el caso de la cultura gastronómica mediterránea, los países van desde Portugal hasta Grecia, pasando por España y Marruecos. 
 
-Los mundiales contienen un listado de partidos. En cada partido es importante mostrar las selecciones enfrentadas, la ciudad y el estadio donde se jugó el encuentro, el marcador final y el listado de los jugadores que anotaron goles. Es importante poder visualizar los partidos por rondas en el campeonato (ronda inicial, octavos de final, cuartos de final, semifinal, final).
+Un país puede tener más de una cultura gastronómica. La descripción de la cultura culinaria es muy importante porque solo el nombre sería muy ambiguo. Por ejemplo, en el caso de la cultura gastronómica italiana, la descripción puede ser este texto: “Si tratamos de imaginarnos la comida italiana, la mayoría de la gente va a pensar en pasta o pizza, espagueti o salchichas. Pero como la mayoría de las tierras antiguas y con una larga historia, Italia tiene una cocina muy variada. Las variaciones regionales no se aprecian en ninguna parte de una forma tan brusca como la diferencia que existe entre la cocina del norte y la cocina del sur de Italia.” [1].
 
-De los jugadores de cada selección se requiere su nombre, una fotografía, la fecha de nacimiento, la liga en la cual juega actualmente y su posición en la cancha. 
+Para entender mejor cada cultura gastronómica debe haber información específica sobre sus productos característicos. Por ejemplo, y tomando como referencia la cultura gastronímica Japonesa podemos mencionar al wasabi, la especia o condimento picante usado a menudo en sushi y otros platos con pescado. Cada producto tendrá un nombre, una descripción, una historia, y estará asociado con una categoría (que para el caso del wasabi será condimentos).
 
-En esta aplicación también se mostrará información sobre árbitros y entrenadores. Del árbitro se mostrará el nombre, la nacionalidad y el listado de los partidos en los cuales figuró como juez indicando el rol desempeñado (juez principal, de línea o asistente). Con respecto al entrenador se tendrá el nombre, la fotografía y un texto con una breve biografía. 
+De cada cultura gastronómica debe existir un listado de las recetas más representativas. Una receta debe incluir un nombre, una descripción, una foto del plato, proceso de preparación básica, e incluir un video opcional de la preparación.
+
+La cultura gastronómica tendrá también un listado de restaurantes reconocidos especializados en ese tipo de comida. Cada restaurante tendrá un nombre, la ciudad y el país donde se encuentra, y el número de estrellas Michelin (si las tiene) junto con fecha de consecución. El volumen de información que se manejará es importante: se espera que cada cultura gastronímica tenga miles de productos y recetas. 
 
 ## Distribución del trabajo por semanas
 
