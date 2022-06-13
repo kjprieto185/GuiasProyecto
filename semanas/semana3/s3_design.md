@@ -42,3 +42,5 @@ Defina los siguientes elementos:
 
 ---
 
+- Se incluye el diseño de recursos, representaciones y operaciones
+
