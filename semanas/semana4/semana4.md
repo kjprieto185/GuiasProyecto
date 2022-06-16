@@ -4,7 +4,7 @@
 
 Los objetivos de la semana 4 son:
 
-1. Implementar las historias de usuario para el listado de los detalles.
+1. Implementar la persistencia de las entidades.
 2. Seguir el proceso de flujos de trabajo sobre el manejador de versiones.
 
 ### Resumen de las Actividades
@@ -12,5 +12,4 @@ Los objetivos de la semana 4 son:
 | Actividad                                                                                      |
 | ---------------------------------------------------------------------------------------------- |
 | [Hacer el seguimiento de la semana 3 y la planeación de la semana 4 ](s4_syp.md)               |
-| [Crear los métodos en los servicios para obtener los detalles de un recurso ](s4_servicios.md) |
-| [Listar detalles](s4_detalles.md)                                                              |
+| [Crear la persistencia de las entidades](s4_persistencia.md) |
