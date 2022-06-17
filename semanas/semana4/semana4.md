@@ -4,7 +4,7 @@
 
 Los objetivos de la semana 4 son:
 
-1. Implementar la persistencia de las entidades.
+1. Implementar la persistencia y la lógica de las entidades.
 2. Seguir el proceso de flujos de trabajo sobre el manejador de versiones.
 
 ### Resumen de las Actividades
@@ -12,4 +12,6 @@ Los objetivos de la semana 4 son:
 | Actividad                                                                                      |
 | ---------------------------------------------------------------------------------------------- |
 | [Hacer el seguimiento de la semana 3 y la planeación de la semana 4 ](s4_syp.md)               |
-| [Crear la persistencia de las entidades](s4_persistencia.md) |
+| [Asignar implementación de las entidades](s4_asignar.md) |
+| [Implementar las entidades](s4_persistencia.md) |
+| [Definir e implementar reglas de negocio y pruebas unitarias](s4_logica.md) |
