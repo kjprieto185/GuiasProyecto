@@ -24,7 +24,7 @@ Toda está información sobre las cocinas del mundo será provista por un API RE
 
 Un país puede tener más de una cultura gastronómica. La descripción de la cultura culinaria es muy importante porque solo el nombre sería muy ambiguo. Por ejemplo, en el caso de la cultura gastronómica italiana, la descripción puede ser este texto: “Si tratamos de imaginarnos la cultura gastronímica italiana, la mayoría de la gente va a pensar en pasta o pizza, espagueti o salchichas. Pero como la mayoría de las tierras antiguas y con una larga historia, Italia tiene una cocina muy variada. Las variaciones regionales no se aprecian en ninguna parte de una forma tan brusca como la diferencia que existe entre la cocina del norte y la cocina del sur de Italia.” [1].
 
-Para entender mejor cada cultura gastronómica debe haber información específica sobre sus productos característicos. Por ejemplo, y tomando como referencia la cultura gastronímica Japonesa podemos mencionar al wasabi, la especia o condimento picante usado a menudo en sushi y otros platos con pescado. Cada producto tendrá un nombre, una descripción, una historia, y estará asociado con una categoría (que para el caso del wasabi será condimentos).
+Para entender mejor cada cultura gastronómica debe haber información específica sobre sus productos característicos. Por ejemplo, y tomando como referencia la cultura gastronómica Japonesa podemos mencionar al wasabi, la especia o condimento picante usado a menudo en sushi y otros platos con pescado. Cada producto tendrá un nombre, una descripción, una historia, y estará asociado con una categoría (que para el caso del wasabi será condimentos).
 
 De cada cultura gastronómica debe existir un listado de las recetas más representativas. Una receta debe incluir un nombre, una descripción, una foto del plato, proceso de preparación básica, e incluir un video opcional de la preparación.
 
@@ -39,11 +39,5 @@ El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación
 - [Semana 1](./semanas/semana1/semana1.md)
 - [Semana 2](./semanas/semana2/semana2.md)
 - [Semana 3](./semanas/semana3/semana3.md)
+- [Semana 4](./semanas/semana4/semana4.md)
 
-## Evaluación
-
-Para la evaluación de este curso se han definido varias actividades:
-- Cuestionarios formativos
-- Cuestionarios sumativos
-- Avances semanales del proyecto
-- Examen final
