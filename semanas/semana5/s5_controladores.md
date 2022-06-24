@@ -21,13 +21,12 @@ Cada estudiante debe haber:
 
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad de equipo
-
-- 
-
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- 
+Cada integrante del equipo deba:
+
+- Crear la clase del controlador para su recurso
+- Crear en el controlador los métodos _findAll_, _findOne_, _create_, _update_, y _delete_.
 
 ### Recursos
 
