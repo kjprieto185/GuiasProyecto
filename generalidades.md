@@ -12,7 +12,7 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 
 ## Enunciado del proyecto
 
-![](./../../assets/images/gastronomy.png)
+![](./assets/images/gastronomy.png)
 
 | Nota                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------- |
