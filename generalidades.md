@@ -12,6 +12,8 @@ Cada semana el estudiante debe realizar actividades de manera autónoma para las
 
 ## Enunciado del proyecto
 
+![](./../../assets/images/gastronomy.png)
+
 | Nota                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Este es el enunciado general del proyecto. En este curso realizaremos un subconjunto de las funcionalidades propuestas |
