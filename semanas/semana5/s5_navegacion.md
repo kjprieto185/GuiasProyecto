@@ -1,4 +1,4 @@
-## Semana 5 - Implementar la página principal y las rutas de navegación
+## Semana 5 - Implementar las pruebas del API
 
 ### Objetivos
 
@@ -6,31 +6,29 @@
 
 El objetivo de esta actividad es:
 
-- Implementar la página principal de la aplicación.
+- Implementar las pruebas del API REST
 
 ### Pasos previos
 
 ---
 
-- Haber implementado los componentes relacionados con las historias de usuario de desplegar listas y sus detalles.
-- Haber realizdo el tutorial sobre enrutamiento.
+- Haber implementado los controladores para los recursos asignados.
 
 ### Descripción actividad
 
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad de equipo
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
-Tomando como referencia el prototipo consolidado durante la semana 2, el equipo debe:
+Cada integrante debe:
 
-- Actualizar el módulo de routing de acuerdo con los recursos.
-- Crear la página principal de la aplicación junto con el menú que permita la navegación por los recursos y sus detalles.
+- Crear en Postman la colección para cada recurso. 
 
 ### Recursos
 
 ---
 
-- Tutorial Enrutamiento: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4104_202212_VT14_A_AngularRouting/index.html#0
+- Tutorial pruebas en Postman
 
 ### Entregables
 
@@ -42,5 +40,7 @@ Tomando como referencia el prototipo consolidado durante la semana 2, el equipo 
 
 ---
 
-- Al ejecutar la aplicación aparece una página en la que se presenta un menú de navegación.
-- Cuando se hace clic en cada opción del menú la aplicación carga el componente respectivo.
+- En el repositorio está la carpeta de las colecciones
+- Cada recurso tiene su colección
+- En la colección existe al menos un request para operación
+- Las pruebas se ejecutan correctamente
