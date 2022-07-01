@@ -1,4 +1,4 @@
-## Semana 3 - Realizar el diseño del API
+## Semana 3 - Diseñar y documentar el diseño del API REST
 
 ### Objetivos
 
@@ -6,7 +6,7 @@
 
 El objetivo de esta actividad es:
 
-- Realizar el diseño del API REST
+- Diseñar y documentar el diseño del API REST
 
 ### Pasos previos
 
@@ -22,25 +22,29 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-Defina los siguientes elementos:
+Para el diseño del API el equipo debe definir:
 
-- Recursos del API
-- Operaciones del API
+- Los recursos del API. Estos recursos muy seguramente corresponderán a los clases definidas en el modelo conceptual.
+- Las operaciones sobre los recursos. Acá se deben incluir las operaciones que pueden generar códigos de error, por ejemplo, consultar o editar un recurso que no existe.
+- Las representaciones de los recursos (básicas y detalladas).
+- Los códigos de estado HTTP de las operaciones. 
 
 ### Recursos
 
 ---
 
+- Revise el video sobre Diseño de un API REST disponible en la semana 3 en Coursera
+- Revise el proyecto guíado de Rhyme sobre documentación del diseño de un API REST disponible en la semana 3 en Coursera
 
 ### Entregables
 
 ---
 
-- Wiki del proyecto actualizado con el diseño del API.
+- Wiki del proyecto actualizada con el enlace al la documentación del diseño del API.
 
 ### Criterios de evaluación
 
 ---
 
-- Se incluye el diseño de recursos, representaciones y operaciones
+- En la documentación generada por Postman se evidencian los recursos, las operaciones sobre los recursos, las representaciones de los recursos (básicas y detalladas) y los códigos de estado HTTP para cada operación. 
 
