@@ -14,5 +14,4 @@ Los objetivos de la semana 3 son:
 | Actividad                                                                       |
 | ------------------------------------------------------------------------------- |
 | [Hacer el seguimiento de la semana 2 y la planeación de la semana 3](s3_syp.md) |
-| [Diseñar el API](s3_design.md)                |
-| [Prototipar el API](s3_prototipar.md)                            |
+| [Diseñar y documentar el API](s3_design.md)                |
