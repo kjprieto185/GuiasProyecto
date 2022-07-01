@@ -4,10 +4,10 @@ En esta sección se plantean los objetivos y las actividades del proyecto para l
 
 ### Objetivos
 
-Los objetivos de la semana 3 son:
+El objetivo de la semana 3 es:
 
-1. Realizar el diseño del API REST.
-2. Prototipar el API REST.
+1. Diseñar y documentar el diseño del API REST.
+
 
 ### Resumen de las Actividades
 
