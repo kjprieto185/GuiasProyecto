@@ -5,16 +5,14 @@
 Los objetivos de la semana 6 son:
 
 1. Definir las reglas y compromisos del equipo para la iteración 2 incorporando las conclusiones de la retrospectiva anterior.
-2. Usar el framework Angular para implementar las historias de usuario de crear.
-3. Incoprporar la internacionalización en la aplicación.
+2. Mejorar el desempeño del API REST mediante la incorporación de cache
 
 ### Resumen de las Actividades
 
 | Actividad                                                                          |
 | ---------------------------------------------------------------------------------- |
 | [Realizar el lanzamiento de la iteración 2 del proyecto](s6_lanzamiento.md)        |
+| [Incorporar cache](s6_cache.md)                                      |
 | [Registrar la planeación de la semana 6](s6_syp.md)                                |
-| [Distribuir las historias de usuario para la iteración 2](s6_distribucion.md)      |
-| [Detallar y revisar las historias de usuario para la iteración 2 ](s6_detallar.md) |
-| [Incorporar internacionalización](s6_i18n.md)                                      |
-| [Implementar la creación de recursos](s6_crear.md)                                 |
+
+
