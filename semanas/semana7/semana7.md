@@ -2,11 +2,11 @@
 
 ### Objetivos
 
-1. Diseñar, implementar y automatizar la ejecución de las pruebas end-to-end en una aplicación web.
+1. Incorporar GraphQL en el API REST desarrollada.
 
 ### Resumen de las Actividades
 
 | Actividad                                                                        |
 | -------------------------------------------------------------------------------- |
 | [Hacer el seguimiento de la semana 6 y la planeación de la semana 7 ](s7_syp.md) |
-| [Implementar pruebas e2e ](s7_e2e.md)                                            |
+| [Incoporar GraphQL](s7_graphql.md)                                            |
