@@ -43,4 +43,5 @@ El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación
 - [Semana 3](./semanas/semana3/semana3.md)
 - [Semana 4](./semanas/semana4/semana4.md)
 - [Semana 5](./semanas/semana5/semana5.md)
+- [Semana 6](./semanas/semana6/semana6.md)
 
