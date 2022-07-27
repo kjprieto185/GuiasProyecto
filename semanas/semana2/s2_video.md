@@ -43,5 +43,5 @@ Para realizar esta actividad el equipo debió haber:
 ---
 
 - El enlace al video está en la wiki del repositorio del proyecto. El video contiene la discusión sobre las decisiones de diseño tomadas
-- El video no tiene una dureación mayor a 5 minutos. 
+- El video no tiene una duración mayor a 5 minutos. 
 
