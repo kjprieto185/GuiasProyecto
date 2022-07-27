@@ -2,13 +2,13 @@
 
 Este curso gira alrededor de un proyecto de desarrollo de software. Se espera que los estudiantes adquieran conocimientos y desarrollen habilidades mientras avanzan en él.
 
-El proyecto se hace en equipos de máximo 3 estudiantes. El producto que se debe construir es un API REST.
+El proyecto se hace en equipos de máximo 3 estudiantes. Al finalizar el curso se espera como producto de aprendizaje la construcción de un API REST.
 
 Los retos a los que el grupo se enfrenta son similares a los que debe abordar un grupo de desarrollo en el mundo real.
 
 Los estudiantes tendrán que rendir cuentas tanto por su trabajo individual como por su contribución, colaboración y soporte en el equipo. El éxito de cada estudiante depende de la terminación exitosa del producto y en la evidencia del buen funcionamiento del equipo.
 
-Cada semana el estudiante debe realizar actividades de manera autónoma para las que se dispone de un conjunto de recursos en línea que le permitirán avanzar en ellas. Durante la sesión síncrona se aclararán dudas y se trabajará en cómo los conceptos se incorporan en el proyecto. El equipo trabajará en el seguimiento y planeación del proyecto, el profesor y los tutores dará retroalimentación sobre los avances.
+Cada semana el estudiante debe realizar actividades de manera autónoma para las que se dispone de un conjunto de recursos en línea que le permitirán avanzar en ellas. Durante la sesión síncrona se aclararán dudas y se trabajará en cómo los conceptos se incorporan en el proyecto. El equipo trabajará en el seguimiento y planeación del proyecto, el profesor y los tutores darán retroalimentación sobre los avances.
 
 ## Enunciado del proyecto
 
