@@ -4,7 +4,7 @@
 
 ---
 
-Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurra de forma espontánea. Para que esto suceda el equipo debe realizar ciertas acciones encaminadas a enfrentar los retos que enfrenta.
+Trabajar en equipo de forma efectiva, eficiente y feliz no es algo que ocurra de forma espontánea. Para que esto suceda el equipo debe realizar ciertas acciones encaminadas a responder los retos que se generen en el camino.
 
 Los retos más comunes que un equipo de software enfrenta están relacionados con no tener claramente definidos y entendidos:
 
@@ -32,7 +32,7 @@ Los retos más comunes que un equipo de software enfrenta están relacionados co
 
 ---
 
-El objetivo de la actividad el lanzamiento es discutir, entre los integrantes del equipo, para precisar cuáles serán las reglas, compromisos y acuerdos que cada uno se compromete a cumplir para enfrentar los retos mencionados y probablemente otros que se presenten.
+El objetivo de la actividad del lanzamiento es discutir, entre los integrantes del equipo, para precisar cuáles serán las reglas, compromisos y acuerdos que cada uno se compromete a cumplir para enfrentar los retos mencionados y probablemente otros que se presenten.
 
 Es importante anotar que esta actividad va de la mano de otra que se debe realizar al final de la iteración y que se llama la Retrospectiva de la iteración donde se revisa qué pasó y se definen las acciones de mejora.
 
