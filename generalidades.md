@@ -44,4 +44,27 @@ El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación
 - [Semana 4](./semanas/semana4/semana4.md)
 - [Semana 5](./semanas/semana5/semana5.md)
 - [Semana 6](./semanas/semana6/semana6.md)
+- [Semana 7](./semanas/semana7/semana7.md)
+- [Semana 8](./semanas/semana8/semana8.md)
 
+
+## Retroalimentación
+
+Semanalmente los equipos recibirán retroalimentación de las actividades desarrolladas. Esta retroaliementación quedará registrada en la wiki del repositorio asociado al proyecto. 
+
+## Evaluación
+
+De forma global, se establecen los siguientes elementos para ser evaluados junto con sus procentajes:
+
+- Proyecto: entrega iteración 1 (grupal): 8%
+- Proyecto: entrega iteración 1 (individual): 10%
+- Entrega  iteración 2 – grupal: 12%
+- Entrega  iteración 2 – individual: 30%
+- Evaluación práctica Nest.js: 10%
+- Cuestionario sumativo 1: 10%
+- Cuestionario sumativo 2: 20%
+
+
+## Metodología
+
+Las actividades del curso están diseñadas para cumplir con los objetivos de aprendizaje propuestos en cada una de las semanas. Así, se han diseñado videos, lecturas, tutoriales, talleres y cuestionarios que le permitirán prepararse alrededor de cada una de las temáticas del curso. En los tutoriales podrá entrenarse en la tecnología requerida para el desarrollo del proyecto del curso. Finalmente, se encuentra un proyecto de aplicación en el que podría ir aplicando, en un contexto real, los conceptos vistos. Este proyecto permite incorporar cada uno de los elementos vistos en los módulos para afianzar las competencias técnicas junto con la capacidad de trabajo en equipo.
