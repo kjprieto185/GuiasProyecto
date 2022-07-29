@@ -52,6 +52,8 @@ El proyecto está dividido en 8 semanas de trabajo. Para realizar la planeación
 
 Semanalmente los equipos recibirán retroalimentación de las actividades desarrolladas. Esta retroaliementación quedará registrada en la wiki del repositorio asociado al proyecto. 
 
+La retroalimentación estará disponible los miércoles de la semana siguiente a la entrega. 
+
 ## Evaluación
 
 De forma global, se establecen los siguientes elementos para ser evaluados junto con sus procentajes:
