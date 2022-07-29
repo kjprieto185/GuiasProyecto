@@ -19,7 +19,7 @@ El objetivo de esta actividad es:
 
 ---
 
-#### ![](./../../assets/images/individui.png) Actividad individual
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 Cada integrante para su recurso: 
 
