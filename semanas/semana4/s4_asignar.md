@@ -20,7 +20,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-- El lider junto con los demás integrantes del equipo asgina de forma equitativa la implementación de las entidades
+- El lider junto con los demás integrantes del equipo asigna de forma equitativa la implementación de las entidades
 
 
 ### Entregables
