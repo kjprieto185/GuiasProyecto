@@ -1,4 +1,4 @@
-## Semana 5 - Hacer la retrospectiva iteración 1
+## Semana 4 - Hacer la retrospectiva iteración 1
 
 ### Objetivos
 
