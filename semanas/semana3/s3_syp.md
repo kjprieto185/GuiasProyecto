@@ -1,12 +1,11 @@
-## Semana 3 - Hacer el seguimiento de la semana 2 y la planeación de la semana 3
+## Semana 3 - Hacer la planeación de la semana 3
 
 ### Objetivos
 
 ---
 
-Los objetivos de esta actividad son:
+El objetivo de esta actividad es:
 
-- Contrastar lo planeado en la semana anterior contra lo logrado para ilustrar cuál es el avance del proyecto.
 - Construir el plan de la semana para cumplir con los hitos establecidos.
 
 ### Pasos previos
@@ -52,5 +51,4 @@ Ejemplo:
 
 ---
 
-- En el seguimiento se contestaron las preguntas, se explica el estado de la semana y se definen los pasos a seguir.
 - Kanban con las tareas de la semana actualizado siguiendo el formato establecido.
