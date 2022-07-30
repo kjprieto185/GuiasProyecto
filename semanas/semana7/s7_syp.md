@@ -1,12 +1,11 @@
-## Semana 7 - Hacer el seguimiento de la semana 6 y la planeación de la semana 7
+## Semana 7 - Hacer la planeación de la semana 7
 
 ### Objetivos
 
 ---
 
-Los objetivos de esta actividad son:
+El objetivo de esta actividad es:
 
-- Contrastar lo planeado en la semana anterior contra lo logrado para ilustrar cuál es el avance del proyecto.
 - Construir el plan de la semana para cumplir con los hitos establecidos.
 
 ### Pasos previos
@@ -21,9 +20,8 @@ Los objetivos de esta actividad son:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-- Cada integrante crea en la columna "Por Hacer" del Kanban del GitHub de su proyecto, una tarea por cada actividad de la semana.
-- Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
-  estado de la tarea en el Kanban de Github, moviéndola a la columna "En progreso" o "Terminada" según corresponda.
+- Cada integrante crea en la columna "Por Hacer" del Kanban del Github de su proyecto una tarea por cada actividad de la semana.
+- Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el estado de la tarea en el Kanban de Github, moviéndola a la columna "En progreso" o "Terminada" según corresponda.
 
 ### Recursos
 
@@ -53,5 +51,4 @@ Ejemplo:
 
 ---
 
-- En el seguimiento se contestaron las preguntas, se explica el estado de la semana y se definen los pasos a seguir.
 - Kanban con las tareas de la semana actualizado siguiendo el formato establecido.
