@@ -62,9 +62,9 @@ De forma global, se establecen los siguientes elementos para ser evaluados junto
 - Proyecto: entrega iteración 1 (individual): 10%
 - Entrega  iteración 2 – grupal: 12%
 - Entrega  iteración 2 – individual: 30%
-- Evaluación práctica Nest.js: 10%
+- Evaluación práctica Nest.js: 20%
 - Cuestionario sumativo 1: 10%
-- Cuestionario sumativo 2: 20%
+- Cuestionario sumativo 2: 10%
 
 
 ## Metodología
