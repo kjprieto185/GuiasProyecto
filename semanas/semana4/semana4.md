@@ -15,3 +15,5 @@ Los objetivos de la semana 4 son:
 | [Asignar implementación de las entidades](s4_asignar.md) |
 | [Implementar las entidades](s4_persistencia.md) |
 | [Definir e implementar reglas de negocio y pruebas unitarias](s4_logica.md) |
+| [Realizar la retrospectiva de la iteración 1](s4_retrospectiva.md) |
+
