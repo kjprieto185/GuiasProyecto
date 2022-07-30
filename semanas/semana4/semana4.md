@@ -11,7 +11,7 @@ Los objetivos de la semana 4 son:
 
 | Actividad                                                                                      |
 | ---------------------------------------------------------------------------------------------- |
-| [Hacer el seguimiento de la semana 3 y la planeación de la semana 4 ](s4_syp.md)               |
+| [Hacer la planeación de la semana 4](s4_syp.md)               |
 | [Asignar implementación de las entidades](s4_asignar.md) |
 | [Implementar las entidades](s4_persistencia.md) |
 | [Definir e implementar reglas de negocio y pruebas unitarias](s4_logica.md) |
