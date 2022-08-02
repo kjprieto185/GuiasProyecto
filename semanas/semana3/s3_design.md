@@ -38,8 +38,7 @@ El modelo con las representaciones (tanto básicas como detalladas) se incluirá
 
 ---
 
-- Revise el video sobre diseño de un API REST disponible en la semana 3 en Coursera
-- Revise el proyecto guíado de Rhyme sobre documentación del diseño de un API REST disponible en la semana 3 en Coursera
+- Tutorial de documentación del diseño de un API: https://misovirtual.virtual.uniandes.edu.co/codelabs/MISW4403_202212_DocumentacionDiseno/index.html#0
 
 ### Entregables
 
