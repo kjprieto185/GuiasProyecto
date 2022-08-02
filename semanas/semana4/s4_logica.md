@@ -7,7 +7,7 @@
 El objetivo de esta actividad es:
 
 - Implementar los métodos de la lógica para las entidades y sus asociaciones. 
-- Implementar las pruebas de la lógica.
+- Implementar las pruebas de la lógica para las entidades y sus asociaciones.
 
 ### Pasos previos
 
