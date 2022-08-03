@@ -15,7 +15,6 @@ El objetivo de esta actividad es:
 Para realizar esta actividad el equipo debió haber:
 
 - Leido el enunciado del proyecto
-- Creado el plan de la semana en el Kanban del proyecto.
 
 ### Descripción actividad
 
@@ -24,6 +23,7 @@ Para realizar esta actividad el equipo debió haber:
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 - Con base en los modelos individuales, realizar una discusión donde se pueda analizar las diferencias entre los diagramas y se pueda decidir qué es lo más adecuado. 
+- El modelo debe contener las clases, los atributos, las asociaciones entre clases y su cardinalidad
 - Agregar un glosario de términos que explique tanto el propósito de las clases como de las asociaciones del modelo.
 
 
